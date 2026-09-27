@@ -1,6 +1,4 @@
 # SWYNEX-Data-Cleaning-Preparation
-Data cleaning project for SWYNEX Technologies internship using Python and Pandas on FMCG Retail Dataset
-# SWYNEX-Data-Cleaning-Preparation
 ## FMCG Retail Dataset 2024-2026
 
 ## Dataset Overview
