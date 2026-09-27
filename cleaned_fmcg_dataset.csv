@@ -1,0 +1,1481 @@
+transaction_id,customer_name,email,age,country,product_category,unit_price,quantity,transaction_date,payment_method,revenue
+ORD100000,Patricia Gardner,,66,Nigeria,Groceries,499.99,3.0,2024-04-16,Cash,1499.97
+ORD100002,Richard Carter,qdiaz@perez-booker.com,59,Nigeria,Electronics,499.99,3.0,2024-04-27,Card,1499.97
+ORD100003,Scott Underwood,donna50@gmail.com,51,United States,Electronics,1500.0,3.0,2024-10-14,Card,4500.0
+ORD100004,Shawn Castro,betty24@jones-russell.com,23,Nigeria,Groceries,500.0,2.0,2024-04-16,Cash,1000.0
+ORD100005,James Castillo,vmay@hotmail.com,48,Nigeria,Groceries,500.0,4.0,2025-02-09,Card,2000.0
+ORD100006,Anna Peterson,sandovaldavid@hotmail.com,40,United States,Groceries,1500.0,3.0,2025-02-17,Card,4500.0
+ORD100007,Casey Dean,,44,United Kingdom,Groceries,500.0,5.0,2025-06-28,Card,2500.0
+ORD100008,Paul Smith,ortizbarbara@warren.com,25,United Kingdom,Home,500.0,4.0,2025-08-17,Transfer,2000.0
+ORD100009,Dennis Bauer,watsonrandy@yahoo.com,44,Nigeria,Fashion,499.99,4.0,2024-06-11,Card,1999.96
+ORD100010,Joanna Pierce,emilylewis@gmail.com,35,United States,Electronics,500.0,3.0,2024-11-01,Cash,1500.0
+ORD100012,Cheryl Richard,mercerjoseph@yahoo.com,52,Nigeria,Groceries,500.0,1.0,2024-03-03,Card,500.0
+ORD100013,Amy Carroll,,49,Nigeria,Home,500.0,2.0,2025-03-23,Card,1000.0
+ORD100014,Jared Rogers Jr.,brownzachary@gmail.com,34,Ghana,Groceries,1200.0,1.0,2025-01-05,Cash,1200.0
+ORD100015,Troy Norris,fernandezpatricia@hotmail.com,38,Nigeria,Electronics,2500.0,4.0,2024-04-19,Transfer,10000.0
+ORD100017,Daniel Bell,laura31@cantu.com,19,Nigeria,Electronics,2500.0,4.0,2024-06-08,Card,10000.0
+ORD100018,Amanda Knight,carla85@yahoo.com,37,United Kingdom,Home,2500.0,2.0,2024-08-24,Transfer,5000.0
+ORD100020,Eric Castaneda,kwallace@gmail.com,23,Nigeria,Electronics,500.0,1.0,2024-09-09,Cash,500.0
+ORD100021,Billy Bradley,zjohnson@hotmail.com,49,Nigeria,Fashion,500.0,5.0,2025-04-20,Cash,2500.0
+ORD100022,Joseph Patterson,xtownsend@bauer-valdez.info,30,Turkey,Electronics,2500.0,3.0,2024-09-07,Card,7500.0
+ORD100023,Michele Copeland,renee77@hotmail.com,44,United Kingdom,Groceries,1200.0,1.0,2025-10-13,Cash,1200.0
+ORD100024,Stephanie Garcia,stewartsarah@gmail.com,61,United States,Fashion,1200.0,1.0,2026-01-12,Card,1200.0
+ORD100025,Jason Sutton,elaine69@montoya.net,25,Nigeria,Electronics,500.0,1.0,2025-01-07,Cash,500.0
+ORD100027,Michelle Mcknight,benjamin19@gmail.com,36,United States,Electronics,2500.0,1.0,2025-07-15,Transfer,2500.0
+ORD100028,Denise Mcneil,nicoleholland@yahoo.com,44,United States,Electronics,1200.0,2.0,2024-06-24,Cash,2400.0
+ORD100029,Tammy Murphy,paul35@lawrence.com,30,Nigeria,Electronics,499.99,2.0,2024-03-17,Cash,999.98
+ORD100030,Emily Nelson,thomasclayton@beard.net,35,Ghana,Electronics,2500.0,2.0,2024-11-10,Card,5000.0
+ORD100031,Stephanie Delgado,tgarcia@yahoo.com,25,Ghana,Home,499.99,1.0,2025-09-07,Card,499.99
+ORD100032,Stephen Hall,natalie81@cruz.com,44,Nigeria,Electronics,1200.0,1.0,2024-10-31,Card,1200.0
+ORD100033,Christina Hughes,kimberly64@gregory-washington.com,69,Ghana,Electronics,2500.0,5.0,2025-10-04,Cash,12500.0
+ORD100034,Lori Velez,travis31@gmail.com,67,Nigeria,Electronics,1200.0,1.0,2025-02-01,Card,1200.0
+ORD100036,Cheyenne Robinson,katherine29@gmail.com,44,Ghana,Fashion,500.0,5.0,2024-12-16,Card,2500.0
+ORD100037,Brandon Williams,robintaylor@clark.com,40,Ghana,Electronics,500.0,1.0,2024-04-02,Transfer,500.0
+ORD100039,Anna Nelson,michelleschroeder@lee.info,18,Nigeria,Groceries,2500.0,3.0,2026-01-05,Card,7500.0
+ORD100040,Casey Campbell,justinlarsen@nelson.com,33,United States,Electronics,1500.0,1.0,2026-01-26,Transfer,1500.0
+ORD100041,Henry Clark,fsimpson@gmail.com,39,Nigeria,Electronics,500.0,3.0,2024-04-13,Card,1500.0
+ORD100042,Eric Garrett,jamiefischer@harvey.com,40,United States,Electronics,500.0,1.0,2025-05-10,Card,500.0
+ORD100044,Eric Kemp MD,samueldavis@hotmail.com,22,United Kingdom,Electronics,500.0,5.0,2024-08-22,Card,2500.0
+ORD100045,Bryan Russell,jeffreywebb@spencer-richardson.net,36,Nigeria,Electronics,2500.0,1.0,2025-01-20,Transfer,2500.0
+ORD100046,Amanda Montgomery,davisrachel@james.com,58,United States,Home,1133.52,1.0,2026-01-21,Card,1133.52
+ORD100047,Philip Hawkins,terry38@yahoo.com,25,Ghana,Groceries,499.99,3.0,2025-07-11,Cash,1499.97
+ORD100048,Peter Lindsey,henry27@gmail.com,44,Nigeria,Electronics,1500.0,1.0,2025-12-25,Card,1500.0
+ORD100049,Melinda Avila,wayne75@yahoo.com,60,United States,Electronics,1200.0,2.0,2024-05-02,Card,2400.0
+ORD100051,James Johnson,jonesautumn@yahoo.com,41,United States,Groceries,499.99,5.0,2024-07-04,Cash,2499.95
+ORD100052,Cindy Kelley,christinetucker@yahoo.com,58,Ghana,Electronics,500.0,1.0,2024-09-28,Card,500.0
+ORD100055,Adam Joseph,,44,Nigeria,Electronics,500.0,3.0,2024-08-26,Transfer,1500.0
+ORD100056,Michael Rogers,benjaminchavez@gmail.com,26,United States,Groceries,1200.0,3.0,2024-05-05,Transfer,3600.0
+ORD100057,Valerie Phelps,michele53@hodge.com,64,United States,Electronics,1133.52,3.0,2024-07-31,Card,3400.56
+ORD100058,Angela Rodriguez,xcastaneda@yahoo.com,34,Nigeria,Electronics,1133.52,5.0,2026-01-22,Card,5667.6
+ORD100060,Peter Duffy,kmendoza@henderson-fischer.com,44,United States,Electronics,500.0,1.0,2024-09-10,Card,500.0
+ORD100061,Elizabeth Hill,robyn02@rivers-day.net,55,United States,Groceries,1133.52,1.0,2025-03-11,Transfer,1133.52
+ORD100062,Michael Parker,,23,Nigeria,Fashion,1500.0,3.0,2025-05-09,Cash,4500.0
+ORD100063,Ann Rodriguez,michael77@gmail.com,47,Nigeria,Groceries,1500.0,3.0,2025-03-04,Cash,4500.0
+ORD100064,Lisa Rogers,nmckee@liu.org,37,United States,Home,499.99,1.0,2025-10-03,Card,499.99
+ORD100065,Lisa Shepard,amartinez@gmail.com,61,Nigeria,Groceries,500.0,1.0,2024-09-14,Card,500.0
+ORD100066,Tammy Robbins,garybarry@hamilton-sims.biz,52,United States,Fashion,1133.52,1.0,2024-11-09,Card,1133.52
+ORD100068,James Walker,jerrymcpherson@yahoo.com,41,Nigeria,Groceries,2500.0,1.0,2024-06-01,Transfer,2500.0
+ORD100069,Ann Jenkins,mevans@yahoo.com,60,United Kingdom,Groceries,2500.0,2.0,2025-12-16,Card,5000.0
+ORD100070,Tammy Patterson,rlawson@tate.com,58,United Kingdom,Electronics,499.99,5.0,2024-08-14,Card,2499.95
+ORD100072,Dominic Nichols,washingtonkatherine@gmail.com,69,United States,Fashion,2500.0,1.0,2024-03-10,Card,2500.0
+ORD100073,Sarah Higgins,bryantdustin@gmail.com,19,Nigeria,Electronics,1500.0,4.0,2025-06-21,Card,6000.0
+ORD100074,Margaret Frazier,kellycassie@gmail.com,57,Nigeria,Electronics,1500.0,2.0,2025-11-14,Cash,3000.0
+ORD100075,Justin Washington,youngangela@yahoo.com,44,Ghana,Electronics,500.0,1.0,2024-10-22,Card,500.0
+ORD100076,Christopher Hunt,ovasquez@smith-turner.com,21,United Kingdom,Electronics,1500.0,1.0,2025-08-28,Card,1500.0
+ORD100077,Michael Shah,samantha59@williams.org,68,Turkey,Electronics,2500.0,2.0,2025-09-17,Card,5000.0
+ORD100078,Brian Knight,bfuller@wallace.biz,57,United States,Fashion,500.0,1.0,2024-07-28,Card,500.0
+ORD100080,Gloria Romero,larryhughes@gmail.com,68,United States,Home,2500.0,5.0,2024-02-19,Card,12500.0
+ORD100081,Julie Anderson,bmurillo@barber-berry.com,18,Ghana,Fashion,500.0,5.0,2025-02-27,Cash,2500.0
+ORD100082,Matthew Hess,paulwoodward@hughes.info,42,Nigeria,Fashion,499.99,1.0,2024-12-20,Card,499.99
+ORD100084,Tiffany Alexander,jeffrey21@hotmail.com,24,Nigeria,Electronics,2500.0,3.0,2025-04-29,Card,7500.0
+ORD100085,Robin Patrick,kmoses@yahoo.com,21,Ghana,Home,500.0,1.0,2025-04-17,Cash,500.0
+ORD100087,Joshua Golden,hforbes@yahoo.com,23,United Kingdom,Home,1500.0,2.0,2025-04-16,Card,3000.0
+ORD100088,Alicia Thompson,james00@hotmail.com,42,United States,Fashion,1200.0,2.0,2025-02-22,Cash,2400.0
+ORD100089,Jason Jones,rodney74@hotmail.com,30,United States,Electronics,500.0,1.0,2024-12-27,Cash,500.0
+ORD100090,Ryan Barrett,lawrencewood@hotmail.com,30,Ghana,Electronics,1200.0,5.0,2025-10-27,Card,6000.0
+ORD100092,Kenneth Wilson,,48,Ghana,Electronics,1500.0,5.0,2024-09-27,Card,7500.0
+ORD100093,Barbara Thomas,bhernandez@davis.com,23,Ghana,Fashion,500.0,1.0,2025-04-07,Card,500.0
+ORD100094,Judith Vargas,melissa70@yahoo.com,67,Nigeria,Electronics,500.0,1.0,2024-06-09,Card,500.0
+ORD100095,David Russo,frichardson@hotmail.com,31,Nigeria,Fashion,499.99,4.0,2026-02-01,Cash,1999.96
+ORD100096,Manuel Brown,sarahlynn@gmail.com,33,Nigeria,Electronics,500.0,5.0,2026-01-09,Cash,2500.0
+ORD100097,Heather Bryant,harrismichelle@yahoo.com,54,Nigeria,Electronics,1133.52,2.0,2024-11-06,Transfer,2267.04
+ORD100098,Amanda Bush,webernicholas@rodriguez.com,43,Ghana,Fashion,1133.52,5.0,2024-03-01,Transfer,5667.6
+ORD100099,Jacqueline Norman,hannahwells@gonzalez.com,44,United States,Electronics,1500.0,3.0,2024-05-12,Transfer,4500.0
+ORD100100,Charles Freeman,,41,Nigeria,Groceries,499.99,3.0,2025-11-07,Card,1499.97
+ORD100101,Julie Walton,sean87@johnson-mann.biz,51,United States,Groceries,500.0,2.0,2024-02-26,Transfer,1000.0
+ORD100102,Ronald Russell,terrellbrendan@richardson.org,40,Nigeria,Electronics,500.0,2.0,2025-03-08,Card,1000.0
+ORD100104,Ronald Porter,michael57@miller-martinez.com,56,Nigeria,Groceries,2500.0,1.0,2024-06-10,Card,2500.0
+ORD100105,Patrick Smith DDS,robertkelly@gmail.com,18,Ghana,Groceries,2500.0,1.0,2024-06-15,Transfer,2500.0
+ORD100106,Jennifer Osborn,bradleyandre@hotmail.com,42,Ghana,Home,2500.0,3.0,2024-06-12,Card,7500.0
+ORD100107,Patrick Ward,brent70@yahoo.com,52,United States,Electronics,1200.0,1.0,2024-02-29,Cash,1200.0
+ORD100108,Denise Jackson,,55,Nigeria,Fashion,499.99,1.0,2024-11-26,Card,499.99
+ORD100109,Philip Hubbard,sherri89@reed-sawyer.net,35,United States,Groceries,1200.0,5.0,2025-02-14,Card,6000.0
+ORD100110,David Farmer,andrewvaldez@mahoney.com,55,Nigeria,Fashion,1133.52,2.0,2024-11-13,Card,2267.04
+ORD100111,Patricia Vega,,66,Nigeria,Groceries,500.0,5.0,2024-03-04,Cash,2500.0
+ORD100112,Kyle Greene,ydunn@hotmail.com,44,United States,Electronics,500.0,5.0,2025-04-17,Card,2500.0
+ORD100113,Ann Smith,michelle06@martin.com,44,Turkey,Electronics,500.0,3.0,2025-06-06,Card,1500.0
+ORD100114,Patrick Robinson,kwood@graham.org,39,Nigeria,Electronics,1200.0,3.0,2024-07-26,Transfer,3600.0
+ORD100115,Jennifer Blair,kevinbruce@sosa.net,54,Ghana,Electronics,500.0,2.0,2025-03-05,Transfer,1000.0
+ORD100116,Patrick Sullivan,dunnscott@jenkins.com,44,Nigeria,Electronics,500.0,5.0,2025-01-03,Card,2500.0
+ORD100117,Willie Wilson,weeksjessica@collins-kelley.com,28,United States,Electronics,500.0,1.0,2024-08-30,Card,500.0
+ORD100118,Daniel Hubbard,brookeellis@hotmail.com,30,Nigeria,Groceries,1500.0,4.0,2025-06-20,Card,6000.0
+ORD100119,Christina Bryant,tinasaunders@jones.biz,44,Nigeria,Fashion,1200.0,2.0,2025-05-08,Card,2400.0
+ORD100120,Shelby Mitchell,robinmiller@vega-booth.biz,64,Nigeria,Electronics,1200.0,1.0,2025-10-08,Transfer,1200.0
+ORD100121,Jennifer Glover,john36@gmail.com,36,United Kingdom,Electronics,500.0,2.0,2025-07-17,Transfer,1000.0
+ORD100122,Sandra Nelson,glennmcmahon@keller-alexander.net,44,United States,Groceries,1133.52,2.0,2025-03-01,Card,2267.04
+ORD100123,Daniel Rivera,george31@gmail.com,53,Nigeria,Home,1133.52,3.0,2024-03-25,Card,3400.56
+ORD100124,Dylan Jones,cody40@johnson.biz,52,Nigeria,Fashion,500.0,1.0,2025-04-02,Card,500.0
+ORD100125,Edward Jenkins,,52,Nigeria,Electronics,500.0,3.0,2025-09-21,Card,1500.0
+ORD100126,Scott Patterson,wrogers@yahoo.com,19,United States,Fashion,1133.52,2.0,2024-04-11,Transfer,2267.04
+ORD100127,Mrs. Toni Caldwell,kingtammy@humphrey.org,48,Ghana,Electronics,500.0,2.0,2024-12-20,Card,1000.0
+ORD100128,Kimberly Johnson,hwilliams@williams.org,63,Nigeria,Fashion,499.99,2.0,2025-06-11,Card,999.98
+ORD100129,Stephanie Brooks,ushelton@gmail.com,47,Turkey,Fashion,1500.0,5.0,2025-03-13,Cash,7500.0
+ORD100130,Heather Barber,steven84@hotmail.com,45,Nigeria,Electronics,500.0,2.0,2024-03-13,Card,1000.0
+ORD100131,Brett Hansen,victor88@hotmail.com,53,Turkey,Groceries,500.0,1.0,2024-07-26,Card,500.0
+ORD100132,William Davis,nstevens@garrison.com,44,Turkey,Electronics,500.0,3.0,2025-08-03,Card,1500.0
+ORD100133,Nicole Tate,william40@mcconnell.com,44,Nigeria,Groceries,500.0,1.0,2024-03-05,Transfer,500.0
+ORD100135,Holly Allen,holdenashley@yahoo.com,44,United Kingdom,Electronics,500.0,2.0,2025-03-12,Cash,1000.0
+ORD100136,Kelly Woodward,michellewhite@hotmail.com,59,United Kingdom,Electronics,1200.0,1.0,2025-01-10,Card,1200.0
+ORD100137,Douglas Fernandez,millerbrianna@hotmail.com,63,United States,Home,1500.0,4.0,2025-03-23,Card,6000.0
+ORD100138,Lisa Benton,josephschaefer@marshall.org,43,United States,Electronics,1500.0,1.0,2024-06-06,Transfer,1500.0
+ORD100139,Nicole Jefferson,kellerlatasha@yahoo.com,59,United States,Groceries,2500.0,3.0,2025-06-04,Card,7500.0
+ORD100141,Shawn Ramos,donnahoward@roberson-mercado.com,41,Nigeria,Fashion,1500.0,5.0,2025-10-20,Card,7500.0
+ORD100142,Wanda Johnson,,20,Ghana,Electronics,500.0,1.0,2024-07-06,Card,500.0
+ORD100143,Patricia Morris,baileyzoe@miller.org,57,United Kingdom,Groceries,1200.0,1.0,2025-05-28,Card,1200.0
+ORD100144,Joshua Mendoza,zthomas@gmail.com,44,Nigeria,Fashion,1500.0,2.0,2025-05-14,Cash,3000.0
+ORD100145,Amy Graham,,39,Nigeria,Electronics,1500.0,2.0,2024-11-06,Card,3000.0
+ORD100146,Sean Smith,,44,United States,Home,1133.52,4.0,2025-12-01,Card,4534.08
+ORD100147,Keith Frost,mendozamichael@hatfield-orozco.info,44,Nigeria,Groceries,1200.0,5.0,2025-02-12,Transfer,6000.0
+ORD100148,Megan Hines,,54,Nigeria,Home,2500.0,1.0,2025-09-14,Cash,2500.0
+ORD100149,Jessica Butler,lmartinez@walker.net,54,United States,Groceries,2500.0,2.0,2025-10-18,Transfer,5000.0
+ORD100150,Angel Mann,,40,Nigeria,Electronics,1500.0,3.0,2025-06-22,Card,4500.0
+ORD100151,Sandra Miller,yconrad@gmail.com,51,Nigeria,Groceries,1200.0,4.0,2024-05-25,Transfer,4800.0
+ORD100152,Andrea Sanchez,robertnichols@yahoo.com,41,Nigeria,Groceries,499.99,4.0,2025-07-12,Cash,1999.96
+ORD100153,George Barber,ymcdonald@gmail.com,48,United States,Fashion,500.0,2.0,2025-01-05,Card,1000.0
+ORD100154,Patricia Lopez,laceygriffin@gmail.com,39,Ghana,Groceries,500.0,3.0,2025-07-08,Card,1500.0
+ORD100155,Willie White,moyeramanda@thomas.com,38,United States,Home,1500.0,2.0,2025-03-24,Cash,3000.0
+ORD100156,Timothy Williams,wongcharles@hotmail.com,60,United States,Groceries,500.0,1.0,2024-08-13,Card,500.0
+ORD100157,Patrick Mitchell,iknapp@hotmail.com,36,Nigeria,Electronics,1133.52,1.0,2024-06-25,Card,1133.52
+ORD100158,Renee Cain,rosslogan@gmail.com,39,Ghana,Electronics,500.0,3.0,2025-02-19,Cash,1500.0
+ORD100160,Dana Johnson,,20,United States,Electronics,1200.0,2.0,2024-09-03,Card,2400.0
+ORD100161,Brett Allen,xsimmons@hotmail.com,28,United States,Electronics,2500.0,2.0,2025-08-26,Cash,5000.0
+ORD100164,Kristie Peters,curtis03@gmail.com,47,Nigeria,Fashion,1200.0,1.0,2024-05-12,Cash,1200.0
+ORD100165,Jill Peterson,ldavis@estes-owens.com,33,Ghana,Electronics,500.0,1.0,2025-12-02,Cash,500.0
+ORD100167,Mackenzie Jones,elizabethpatrick@holden-salas.info,21,Nigeria,Fashion,1200.0,1.0,2025-01-09,Card,1200.0
+ORD100168,John Bryant,,62,Nigeria,Electronics,500.0,2.0,2025-08-29,Card,1000.0
+ORD100169,Norma Wilson,kimberly45@smith.com,66,Ghana,Electronics,500.0,2.0,2024-04-26,Transfer,1000.0
+ORD100170,Samantha Mercado MD,christopheredwards@elliott.com,50,Turkey,Fashion,1500.0,1.0,2024-09-09,Card,1500.0
+ORD100171,Raymond Tucker,katelyn80@travis.net,62,United States,Electronics,1500.0,1.0,2025-10-05,Card,1500.0
+ORD100172,Shane Garza,barnettstephen@taylor.com,35,Nigeria,Electronics,1500.0,5.0,2024-07-23,Card,7500.0
+ORD100173,Ernest Hernandez,,25,Nigeria,Home,1500.0,2.0,2024-10-08,Card,3000.0
+ORD100174,David Armstrong,robertnguyen@hotmail.com,44,United States,Fashion,500.0,1.0,2024-03-27,Card,500.0
+ORD100175,Kevin Brown DVM,,44,United Kingdom,Electronics,1500.0,4.0,2024-12-19,Cash,6000.0
+ORD100176,Bryan Schmitt,ugraves@hawkins.net,69,Turkey,Home,1200.0,1.0,2024-03-01,Card,1200.0
+ORD100177,Tiffany Hopkins,hamiltonloretta@yahoo.com,58,United States,Electronics,1133.52,2.0,2025-01-31,Card,2267.04
+ORD100178,Larry Floyd,scottshawn@brown.net,39,Nigeria,Electronics,1200.0,2.0,2025-06-07,Transfer,2400.0
+ORD100179,David Freeman,manningmadeline@williams.info,42,Nigeria,Fashion,499.99,2.0,2025-07-14,Cash,999.98
+ORD100182,Jose Edwards,wagnersteven@george-campbell.com,33,United States,Electronics,2500.0,4.0,2024-03-17,Card,10000.0
+ORD100183,Cindy Marshall,bridgesjacqueline@hotmail.com,26,United States,Electronics,1200.0,2.0,2024-10-03,Card,2400.0
+ORD100184,Robert Rodriguez,egreen@flores.com,20,United Kingdom,Groceries,499.99,4.0,2025-11-05,Transfer,1999.96
+ORD100185,Nathan Durham,rubiobrian@nguyen-williams.com,26,Nigeria,Groceries,2500.0,3.0,2026-02-13,Transfer,7500.0
+ORD100187,Casey Payne,daniel35@gmail.com,44,United States,Electronics,2500.0,1.0,2024-04-10,Cash,2500.0
+ORD100188,Jennifer Hamilton,nichole17@yahoo.com,64,Turkey,Home,2500.0,4.0,2024-08-24,Cash,10000.0
+ORD100189,Brittany Meyer,todd41@evans-mendoza.com,25,United States,Home,1200.0,4.0,2025-04-27,Cash,4800.0
+ORD100190,David Perez,gbarton@yahoo.com,42,United States,Fashion,1200.0,1.0,2024-06-06,Cash,1200.0
+ORD100191,Phyllis Vasquez,campbellwilliam@gmail.com,57,United Kingdom,Fashion,1133.52,1.0,2024-12-31,Transfer,1133.52
+ORD100192,Eric Mejia,pooleamanda@ferguson-sanchez.com,37,Nigeria,Electronics,499.99,1.0,2024-10-11,Cash,499.99
+ORD100194,Daniel Reese,villarrealjames@sullivan.net,19,Nigeria,Electronics,499.99,3.0,2025-02-16,Card,1499.97
+ORD100195,Paul Mcdaniel,floreschristine@ross-perez.biz,60,United States,Home,1500.0,2.0,2024-06-10,Cash,3000.0
+ORD100196,Jessica Richardson,gwallace@yahoo.com,37,United States,Groceries,500.0,4.0,2024-07-21,Cash,2000.0
+ORD100197,Steven Walker,kathleen99@fischer.com,39,United States,Electronics,500.0,5.0,2026-02-16,Card,2500.0
+ORD100198,Katelyn Miller,patrick28@gmail.com,62,Turkey,Electronics,500.0,1.0,2024-08-08,Card,500.0
+ORD100199,Christopher Smith,francissamuel@yahoo.com,25,Nigeria,Groceries,499.99,3.0,2024-08-12,Cash,1499.97
+ORD100200,Jessica Schroeder,david28@hotmail.com,44,Nigeria,Electronics,500.0,3.0,2025-05-15,Card,1500.0
+ORD100201,Lisa Oneill,,36,Nigeria,Groceries,1200.0,2.0,2025-08-03,Card,2400.0
+ORD100202,Willie Blackburn,mhenderson@smith.biz,61,Turkey,Electronics,1500.0,1.0,2024-04-06,Cash,1500.0
+ORD100204,Mr. Randy Hughes,xwilson@yahoo.com,25,Nigeria,Electronics,2500.0,1.0,2025-08-17,Card,2500.0
+ORD100206,John Morrison,alexisrivera@white-hernandez.com,54,United States,Groceries,2500.0,2.0,2025-10-05,Transfer,5000.0
+ORD100208,Michael Kelly,gabriellaschmidt@gmail.com,44,United States,Electronics,1133.52,2.0,2024-03-12,Card,2267.04
+ORD100209,Lisa Soto,lhensley@sanchez-morris.net,60,Nigeria,Home,1133.52,2.0,2025-07-19,Transfer,2267.04
+ORD100210,Alexander May,kross@butler.org,65,Ghana,Electronics,500.0,1.0,2025-12-08,Card,500.0
+ORD100211,Mary Blackburn,steincharles@harper.com,39,United States,Electronics,2500.0,1.0,2026-02-07,Transfer,2500.0
+ORD100212,Bryan Brown,brownchristopher@rios.com,64,United States,Groceries,2500.0,2.0,2024-02-21,Card,5000.0
+ORD100213,Melissa Day,ntaylor@gmail.com,44,Ghana,Groceries,2500.0,2.0,2025-09-08,Cash,5000.0
+ORD100214,Jacqueline Simpson,,29,Nigeria,Fashion,499.99,1.0,2025-07-08,Card,499.99
+ORD100216,William Clark,arnoldlinda@yahoo.com,57,Nigeria,Fashion,499.99,1.0,2025-07-28,Card,499.99
+ORD100217,Stephen Thomas,kgonzales@yahoo.com,66,Nigeria,Electronics,500.0,1.0,2024-11-25,Card,500.0
+ORD100218,Leslie Morgan,keyherbert@harper.com,46,Ghana,Electronics,1500.0,2.0,2024-12-05,Card,3000.0
+ORD100219,Bobby Rose,amy49@yahoo.com,39,Nigeria,Fashion,500.0,2.0,2025-06-21,Card,1000.0
+ORD100220,Brandi Le,lthompson@yahoo.com,20,Nigeria,Electronics,499.99,2.0,2024-08-07,Card,999.98
+ORD100221,Eugene Sanchez,kingandre@macias.org,42,Nigeria,Home,1200.0,4.0,2025-09-01,Cash,4800.0
+ORD100222,Ryan Orozco,john88@rose.biz,38,Turkey,Electronics,1500.0,2.0,2025-03-06,Transfer,3000.0
+ORD100223,Rhonda Dodson,qfisher@gmail.com,53,Turkey,Groceries,500.0,3.0,2025-11-19,Card,1500.0
+ORD100224,Brett Luna,goldenlori@yahoo.com,34,United States,Groceries,1200.0,4.0,2025-02-16,Transfer,4800.0
+ORD100226,Sarah Hayes,osbornekaren@hotmail.com,18,Ghana,Groceries,500.0,1.0,2025-11-13,Cash,500.0
+ORD100227,Jonathan Cardenas,reynoldsdebra@hotmail.com,36,United States,Electronics,2500.0,1.0,2025-04-20,Cash,2500.0
+ORD100228,Mary Cox,rhondajackson@gmail.com,44,United States,Fashion,499.99,1.0,2024-07-28,Card,499.99
+ORD100230,Darryl Perez,mchang@yahoo.com,61,Nigeria,Electronics,500.0,3.0,2025-09-10,Card,1500.0
+ORD100231,Heather Oliver,millsmatthew@yahoo.com,39,United States,Home,499.99,1.0,2025-08-14,Transfer,499.99
+ORD100232,Jill Johnson,valenciajoe@gmail.com,52,Nigeria,Groceries,1200.0,5.0,2024-03-16,Card,6000.0
+ORD100233,Michael Jackson,keydavid@gmail.com,59,Turkey,Electronics,2500.0,1.0,2024-11-15,Cash,2500.0
+ORD100234,Nicole Bradford,frandall@mullins.com,42,United States,Electronics,1500.0,1.0,2026-01-06,Cash,1500.0
+ORD100236,Brittany Ward,mjohnson@gmail.com,47,United States,Home,2500.0,2.0,2025-06-08,Card,5000.0
+ORD100237,Joseph Rodriguez,zwilliams@levine.info,44,Nigeria,Fashion,2500.0,4.0,2025-11-29,Transfer,10000.0
+ORD100238,Ryan Austin,leekevin@wang.com,40,Turkey,Electronics,1500.0,4.0,2024-03-29,Card,6000.0
+ORD100239,Samantha Graham,cynthiapage@hotmail.com,44,United States,Groceries,2500.0,4.0,2025-04-27,Card,10000.0
+ORD100240,Melissa Peterson,elizabethclark@raymond-clark.biz,19,United States,Home,499.99,5.0,2024-04-18,Card,2499.95
+ORD100241,Destiny Peterson,stephanieprice@martinez.net,41,Nigeria,Fashion,1500.0,2.0,2024-06-04,Card,3000.0
+ORD100242,Nicole Snyder,gomezthomas@hotmail.com,47,United States,Electronics,499.99,1.0,2025-03-16,Transfer,499.99
+ORD100243,David Koch,chogan@nguyen-perez.info,35,Turkey,Electronics,1200.0,3.0,2026-01-30,Card,3600.0
+ORD100244,Steven Clark,john64@gmail.com,69,Nigeria,Groceries,1133.52,1.0,2025-11-08,Card,1133.52
+ORD100247,Jason Smith,alisondodson@pacheco.com,44,United Kingdom,Fashion,500.0,2.0,2025-12-22,Card,1000.0
+ORD100248,David Andrews,paulamoore@gmail.com,44,Turkey,Electronics,2500.0,3.0,2026-01-28,Cash,7500.0
+ORD100249,Dawn Bates,mcortez@hotmail.com,44,Ghana,Home,2500.0,5.0,2024-02-21,Card,12500.0
+ORD100250,Melinda Cooper,edward80@yahoo.com,50,United States,Fashion,1500.0,3.0,2024-08-19,Card,4500.0
+ORD100253,Danielle Beard,petersmatthew@anderson.com,55,Ghana,Groceries,500.0,3.0,2025-02-18,Card,1500.0
+ORD100254,Benjamin Olson,,61,Turkey,Electronics,1133.52,2.0,2025-09-12,Card,2267.04
+ORD100256,Ashley Jackson,alandavila@yahoo.com,49,Nigeria,Electronics,1500.0,1.0,2025-04-30,Cash,1500.0
+ORD100258,Christopher Nelson,jeffreymoreno@yahoo.com,41,Ghana,Fashion,1500.0,4.0,2026-01-01,Card,6000.0
+ORD100259,Mrs. Jacqueline Arnold,huffmanleah@yahoo.com,43,Ghana,Electronics,2500.0,1.0,2024-10-19,Cash,2500.0
+ORD100260,Alexander Lewis,hallteresa@gmail.com,42,United States,Electronics,2500.0,1.0,2024-04-02,Card,2500.0
+ORD100261,Ana Mckee,stokesjohn@sharp.net,44,Nigeria,Home,499.99,2.0,2024-07-17,Card,999.98
+ORD100265,Anne White,mcdonaldcaitlin@contreras-smith.com,44,Nigeria,Electronics,500.0,2.0,2025-11-28,Transfer,1000.0
+ORD100266,Christopher Hill,jamesjames@gmail.com,66,Nigeria,Electronics,499.99,2.0,2025-07-09,Card,999.98
+ORD100267,Jay Patterson,ginawilson@gmail.com,68,Ghana,Home,1200.0,5.0,2024-07-18,Card,6000.0
+ORD100269,Caitlin Evans,wolfemary@yahoo.com,64,United Kingdom,Groceries,500.0,4.0,2025-10-19,Card,2000.0
+ORD100270,Sarah Saunders,candace81@thomas.com,45,Nigeria,Fashion,1200.0,1.0,2024-05-27,Cash,1200.0
+ORD100271,Kathleen Franco,,60,Turkey,Electronics,500.0,3.0,2025-08-29,Cash,1500.0
+ORD100274,Miguel Jacobs,xhodges@hernandez-powell.com,32,Turkey,Electronics,500.0,5.0,2024-11-07,Card,2500.0
+ORD100275,Kelly Mason,wardana@gmail.com,41,Nigeria,Groceries,1133.52,1.0,2025-06-13,Card,1133.52
+ORD100276,Eric Ingram,cory60@malone.com,44,Nigeria,Electronics,1500.0,1.0,2024-08-18,Transfer,1500.0
+ORD100277,Monica Kaiser DDS,nbrooks@yahoo.com,25,Nigeria,Electronics,500.0,2.0,2024-09-13,Transfer,1000.0
+ORD100278,Amanda Wheeler,joserivera@gmail.com,24,Turkey,Groceries,2500.0,2.0,2024-02-28,Transfer,5000.0
+ORD100280,Courtney Mendoza,xmurray@hernandez.org,20,United States,Groceries,1133.52,1.0,2025-08-01,Card,1133.52
+ORD100281,Sarah Benitez,carlajohnson@hotmail.com,37,Nigeria,Groceries,1500.0,2.0,2024-09-10,Card,3000.0
+ORD100282,Deborah Morgan,clarkarthur@gmail.com,30,Turkey,Groceries,2500.0,4.0,2025-08-28,Card,10000.0
+ORD100283,Joan Davis,,30,Ghana,Electronics,500.0,1.0,2025-03-23,Cash,500.0
+ORD100284,Ryan Ray,tperez@yahoo.com,46,Nigeria,Groceries,1200.0,1.0,2024-06-05,Cash,1200.0
+ORD100286,Nicole Baxter,zdiaz@anderson-roach.com,44,Nigeria,Groceries,500.0,1.0,2024-11-01,Card,500.0
+ORD100287,Kimberly Valencia,sharon20@hotmail.com,42,United States,Fashion,500.0,3.0,2025-01-05,Transfer,1500.0
+ORD100288,Taylor Allen,cummingseddie@yahoo.com,66,Nigeria,Electronics,2500.0,5.0,2025-08-28,Cash,12500.0
+ORD100289,Julie Harrington,ihall@pham-wright.net,35,Nigeria,Fashion,499.99,2.0,2024-07-31,Cash,999.98
+ORD100290,Melissa Hansen,vespinoza@gmail.com,20,United States,Electronics,1500.0,5.0,2025-01-20,Card,7500.0
+ORD100291,John Price,gfreeman@yahoo.com,68,Nigeria,Groceries,1500.0,5.0,2024-05-17,Card,7500.0
+ORD100292,Bradley Miller,,64,Nigeria,Fashion,1200.0,4.0,2024-06-28,Cash,4800.0
+ORD100294,Samuel Guerra,nancyvasquez@yahoo.com,66,Ghana,Home,500.0,3.0,2024-07-16,Card,1500.0
+ORD100295,Christopher Hoffman,samanthasawyer@wright.com,31,United States,Fashion,500.0,4.0,2025-10-17,Card,2000.0
+ORD100296,Christine Wright,kathleengould@hotmail.com,47,United States,Electronics,1133.52,2.0,2024-06-08,Card,2267.04
+ORD100297,John Suarez,kristen19@bowers.info,42,Nigeria,Electronics,500.0,3.0,2025-07-20,Card,1500.0
+ORD100300,Anthony Cooper II,vrobinson@yahoo.com,33,Nigeria,Electronics,1200.0,2.0,2024-09-23,Cash,2400.0
+ORD100301,Christina Leonard,danielglass@gonzalez.info,40,Turkey,Electronics,499.99,4.0,2024-11-25,Card,1999.96
+ORD100302,Alvin Terrell,,38,United States,Electronics,1200.0,1.0,2025-02-14,Card,1200.0
+ORD100303,Sherry Mccoy DVM,theresascott@hotmail.com,21,Ghana,Home,2500.0,3.0,2025-09-24,Card,7500.0
+ORD100304,Mike Wong,,67,United States,Fashion,500.0,3.0,2024-10-26,Transfer,1500.0
+ORD100306,Troy Pierce,shannonsmith@wells.com,44,United Kingdom,Electronics,500.0,1.0,2025-10-13,Card,500.0
+ORD100307,Heather Vega,goldensarah@gray.org,44,Ghana,Electronics,1200.0,5.0,2024-02-21,Transfer,6000.0
+ORD100308,Laurie Hill,eric11@yahoo.com,28,United States,Electronics,500.0,2.0,2026-02-17,Transfer,1000.0
+ORD100309,Michelle Brooks,fsilva@gmail.com,27,United Kingdom,Electronics,2500.0,2.0,2025-08-10,Card,5000.0
+ORD100310,Felicia Norris,georgesnyder@williamson.com,44,Nigeria,Electronics,1133.52,3.0,2025-08-31,Cash,3400.56
+ORD100312,Eric Smith,michaelwashington@mcmahon.info,60,Nigeria,Electronics,1500.0,5.0,2024-10-27,Cash,7500.0
+ORD100313,Ashley Meyer,mcmahonnatalie@holmes.com,63,Turkey,Fashion,1133.52,1.0,2024-02-26,Transfer,1133.52
+ORD100315,Jackie Castillo,hillnancy@gmail.com,55,United States,Groceries,500.0,2.0,2025-02-13,Card,1000.0
+ORD100316,Casey Warner,blackheather@hotmail.com,67,United States,Groceries,500.0,1.0,2025-12-18,Transfer,500.0
+ORD100317,Samantha Mcdaniel,rickyjackson@potter.com,34,United Kingdom,Home,1500.0,4.0,2024-12-24,Cash,6000.0
+ORD100318,Tina Fletcher,anthony77@robinson.org,68,Nigeria,Groceries,1500.0,3.0,2024-09-09,Card,4500.0
+ORD100320,Mike Whitaker,tammy86@gmail.com,68,United Kingdom,Electronics,1500.0,2.0,2025-05-31,Transfer,3000.0
+ORD100321,James Gutierrez,jamie17@rogers-lawson.com,18,Turkey,Home,1200.0,1.0,2024-04-27,Cash,1200.0
+ORD100322,William Green,moralessarah@young-stevenson.com,50,Ghana,Electronics,500.0,1.0,2025-04-23,Cash,500.0
+ORD100323,Karen Ward,jimmelendez@pearson.org,21,Nigeria,Electronics,2500.0,2.0,2025-04-18,Card,5000.0
+ORD100324,Aaron Johnson,amandawilson@gallagher.com,28,United States,Electronics,1133.52,3.0,2024-07-21,Cash,3400.56
+ORD100325,Michele Reid,colemantodd@martinez.biz,35,Nigeria,Electronics,1200.0,4.0,2024-05-07,Card,4800.0
+ORD100326,Cesar Henderson,cmoses@gmail.com,30,United Kingdom,Electronics,499.99,3.0,2024-02-28,Card,1499.97
+ORD100327,Richard Miller,ghernandez@mitchell.com,65,United Kingdom,Home,1200.0,1.0,2025-10-12,Cash,1200.0
+ORD100328,William Burnett,jesusmorales@gmail.com,42,United Kingdom,Groceries,500.0,1.0,2025-05-21,Card,500.0
+ORD100329,Scott Flores,ashley07@phillips.biz,63,United States,Groceries,500.0,2.0,2024-05-09,Card,1000.0
+ORD100330,Michael Rodriguez,livingstonamy@wright-fernandez.com,27,United States,Electronics,1133.52,2.0,2025-01-03,Card,2267.04
+ORD100331,Samantha Brown,omclean@hotmail.com,51,Nigeria,Groceries,500.0,1.0,2025-11-10,Transfer,500.0
+ORD100332,Frank Wise,,41,Turkey,Electronics,499.99,1.0,2025-07-29,Transfer,499.99
+ORD100333,Lucas Williams,nicoleoliver@arnold.org,22,Turkey,Home,499.99,4.0,2025-02-15,Card,1999.96
+ORD100334,Nancy Smith,,61,United States,Groceries,500.0,4.0,2025-07-11,Cash,2000.0
+ORD100335,Raymond Cobb,moorejesse@davis.info,21,United Kingdom,Electronics,500.0,5.0,2025-06-04,Card,2500.0
+ORD100336,Shannon Ramos,,21,Nigeria,Electronics,1200.0,1.0,2025-09-13,Transfer,1200.0
+ORD100337,John Flynn,pamela85@gmail.com,41,United States,Groceries,1133.52,2.0,2025-12-18,Card,2267.04
+ORD100338,Preston Castro,marcuscase@gmail.com,35,United States,Groceries,1500.0,1.0,2024-06-28,Card,1500.0
+ORD100340,Christopher Davis,cmeyers@cox.net,46,Ghana,Fashion,1133.52,4.0,2024-08-18,Card,4534.08
+ORD100341,Kevin Diaz,michael93@yahoo.com,60,United States,Electronics,1500.0,4.0,2026-01-04,Card,6000.0
+ORD100342,Stacey Curtis,joshuagibbs@hotmail.com,30,Turkey,Groceries,1500.0,2.0,2024-08-16,Cash,3000.0
+ORD100343,Nicole Velez,rbarton@davis.com,22,Turkey,Home,500.0,1.0,2025-04-01,Cash,500.0
+ORD100345,Dawn Kim,dparsons@yahoo.com,19,United States,Groceries,1200.0,3.0,2024-03-17,Card,3600.0
+ORD100347,Ronald Kramer,adamspatricia@yahoo.com,44,Nigeria,Home,1133.52,2.0,2024-09-09,Card,2267.04
+ORD100348,Stacie Vincent,justinspencer@gmail.com,38,Nigeria,Groceries,1200.0,5.0,2025-08-11,Transfer,6000.0
+ORD100349,John Parrish,tiffanymatthews@hotmail.com,58,Turkey,Home,1500.0,2.0,2025-12-30,Card,3000.0
+ORD100350,Patrick Villegas,rogersdavid@ortiz.com,54,United Kingdom,Home,2500.0,3.0,2025-04-04,Cash,7500.0
+ORD100351,David Robertson,,44,Turkey,Home,2500.0,2.0,2024-03-19,Card,5000.0
+ORD100353,Francisco Neal DDS,toni70@ward-bryant.net,29,Nigeria,Home,1200.0,2.0,2024-07-05,Transfer,2400.0
+ORD100357,Timothy Reed,caintimothy@wells.com,21,Nigeria,Fashion,500.0,1.0,2024-07-16,Cash,500.0
+ORD100358,Eric Thompson,warnold@gmail.com,22,Ghana,Fashion,1200.0,1.0,2024-05-18,Card,1200.0
+ORD100359,Tracy Cabrera,lopezandrew@gmail.com,52,Nigeria,Electronics,1500.0,5.0,2025-11-29,Card,7500.0
+ORD100360,Daniel Henry,chavezkelly@yahoo.com,38,Ghana,Electronics,499.99,1.0,2025-03-15,Card,499.99
+ORD100361,Kevin Morris,loweashley@harper.info,29,United Kingdom,Fashion,1500.0,2.0,2024-12-31,Card,3000.0
+ORD100363,William Williams,millergabriela@sanchez.info,37,Nigeria,Fashion,2500.0,3.0,2025-08-23,Card,7500.0
+ORD100364,Bradley Williams,erika90@yahoo.com,44,Nigeria,Home,500.0,5.0,2025-07-05,Transfer,2500.0
+ORD100366,James Torres,aliciaadams@moore-davis.biz,27,Turkey,Fashion,499.99,2.0,2025-02-18,Cash,999.98
+ORD100368,Scott Jones,dlopez@yahoo.com,21,United Kingdom,Groceries,500.0,3.0,2025-11-29,Transfer,1500.0
+ORD100369,Melissa Morse,kylegonzales@hotmail.com,44,Nigeria,Electronics,499.99,2.0,2025-08-10,Card,999.98
+ORD100370,Michael Hill,williamsphilip@davis.net,41,United Kingdom,Fashion,1500.0,2.0,2025-01-11,Card,3000.0
+ORD100371,Emily Harding,anthony46@thomas-miller.biz,57,Nigeria,Electronics,1200.0,4.0,2024-09-01,Card,4800.0
+ORD100372,Duane Williams,morganronnie@hotmail.com,20,United States,Electronics,500.0,4.0,2025-01-04,Card,2000.0
+ORD100373,Danielle Hill,,48,United States,Electronics,2500.0,1.0,2025-11-15,Cash,2500.0
+ORD100376,John Rubio,richard26@hotmail.com,57,United States,Groceries,1133.52,2.0,2026-02-15,Card,2267.04
+ORD100377,Kimberly Watkins,jennifercruz@yahoo.com,62,Nigeria,Groceries,499.99,1.0,2025-11-20,Card,499.99
+ORD100379,Joseph Reed,marc75@johnson-bailey.com,34,Nigeria,Electronics,1200.0,2.0,2024-05-22,Card,2400.0
+ORD100380,Charles Huynh,ann64@gmail.com,47,Turkey,Electronics,499.99,3.0,2024-07-17,Card,1499.97
+ORD100381,Jeremy Carlson,anna65@walker.biz,24,Nigeria,Home,1500.0,1.0,2025-09-17,Card,1500.0
+ORD100382,Benjamin Riley,omorris@zavala.com,54,United States,Electronics,1200.0,1.0,2024-04-26,Transfer,1200.0
+ORD100383,Tony Carrillo,conwaydenise@hotmail.com,48,Nigeria,Groceries,1200.0,2.0,2025-02-08,Card,2400.0
+ORD100384,Juan Foster,shawjohn@dixon.com,20,United States,Home,1133.52,4.0,2024-08-27,Transfer,4534.08
+ORD100385,Mary Rodriguez,iweaver@goodman.com,56,United States,Fashion,1500.0,5.0,2024-06-02,Cash,7500.0
+ORD100386,Erica Thompson,sanchezvincent@hotmail.com,40,United Kingdom,Home,1500.0,2.0,2024-10-26,Card,3000.0
+ORD100387,Mr. Joshua Harrison,gvalentine@ramirez-benson.com,47,United States,Electronics,1500.0,4.0,2025-01-03,Card,6000.0
+ORD100389,Carolyn Powers,christine39@long-garcia.biz,22,Turkey,Groceries,499.99,4.0,2024-02-23,Card,1999.96
+ORD100390,Cassandra Williams,ericcruz@hayden.biz,64,Turkey,Electronics,1200.0,1.0,2024-05-08,Transfer,1200.0
+ORD100391,Eric Pierce,john78@todd.com,52,United Kingdom,Electronics,1200.0,5.0,2024-09-16,Cash,6000.0
+ORD100392,Pamela Hanna,bgutierrez@adams.com,59,United Kingdom,Electronics,499.99,2.0,2024-10-09,Cash,999.98
+ORD100393,Kenneth Acosta,khenry@johnson.com,64,Nigeria,Home,499.99,5.0,2024-07-29,Cash,2499.95
+ORD100394,Dr. Amanda Collins DDS,chaveztaylor@gmail.com,36,Nigeria,Electronics,499.99,4.0,2024-08-12,Card,1999.96
+ORD100396,Kevin Kelly,perrycharles@hotmail.com,68,Ghana,Fashion,500.0,1.0,2025-09-18,Card,500.0
+ORD100397,Sara Kelley,llambert@parker.com,26,Nigeria,Groceries,1200.0,2.0,2025-01-18,Card,2400.0
+ORD100399,Samantha Smith,jennifer48@gmail.com,41,Nigeria,Electronics,1200.0,1.0,2025-08-11,Cash,1200.0
+ORD100400,Robin Lee,myoung@gmail.com,28,United States,Electronics,2500.0,3.0,2024-07-16,Card,7500.0
+ORD100401,Christine Wolf,mburgess@jackson.com,57,Nigeria,Electronics,1200.0,1.0,2024-08-14,Card,1200.0
+ORD100402,Shawn Gutierrez,hamiltonkimberly@yahoo.com,33,United States,Home,1200.0,1.0,2025-04-30,Card,1200.0
+ORD100403,Samuel Lopez,richardfuentes@hawkins-murray.info,33,Turkey,Electronics,1133.52,2.0,2025-02-10,Card,2267.04
+ORD100404,Michael Powers,jamesrodriguez@gmail.com,48,United States,Electronics,1500.0,2.0,2026-02-08,Cash,3000.0
+ORD100406,Cameron Terrell,geraldschwartz@dixon.info,52,United States,Electronics,1200.0,2.0,2024-11-03,Card,2400.0
+ORD100407,Jesse Mcgee,laurenbrown@gmail.com,57,Nigeria,Electronics,499.99,2.0,2024-12-04,Card,999.98
+ORD100408,Barbara Robinson,christopher94@guzman.com,68,United States,Groceries,2500.0,3.0,2025-09-18,Card,7500.0
+ORD100409,James Moreno,jason57@thompson.org,26,United Kingdom,Home,2500.0,1.0,2024-12-25,Transfer,2500.0
+ORD100410,Terri Garner,hubbardjennifer@johnson-lopez.com,34,United States,Electronics,2500.0,1.0,2024-11-15,Card,2500.0
+ORD100412,Jennifer Schneider,sarah43@yahoo.com,34,Ghana,Home,499.99,5.0,2024-08-24,Card,2499.95
+ORD100414,Joy Harrison,kyates@hotmail.com,36,Ghana,Electronics,500.0,1.0,2026-02-04,Transfer,500.0
+ORD100416,Sarah Andrews,vschwartz@fowler.com,58,United States,Fashion,500.0,5.0,2026-01-17,Transfer,2500.0
+ORD100417,Jennifer Rice PhD,aho@gmail.com,33,United States,Groceries,499.99,3.0,2025-07-19,Card,1499.97
+ORD100421,Matthew Harvey,rogerzamora@thompson.com,56,Ghana,Electronics,1133.52,1.0,2025-11-11,Card,1133.52
+ORD100422,Lisa Miller,crichardson@garcia-davis.com,36,United States,Groceries,500.0,3.0,2024-11-07,Transfer,1500.0
+ORD100424,Kimberly Dixon,jsanchez@sutton.com,68,Nigeria,Electronics,500.0,2.0,2025-10-19,Card,1000.0
+ORD100425,Brooke Harmon,granthaas@robinson.org,42,United States,Home,499.99,5.0,2024-07-16,Card,2499.95
+ORD100426,Kelly Sims,,44,Nigeria,Fashion,1200.0,3.0,2025-02-03,Card,3600.0
+ORD100427,Traci Rose,ashleybryant@martinez.com,53,United States,Electronics,1133.52,3.0,2025-07-11,Card,3400.56
+ORD100428,Mathew Butler,fbright@gmail.com,42,Nigeria,Groceries,500.0,3.0,2025-08-27,Card,1500.0
+ORD100429,Caitlin Williams,pgreen@gmail.com,31,Nigeria,Electronics,1133.52,1.0,2024-05-13,Transfer,1133.52
+ORD100430,Ashley Flores,kramervictoria@yahoo.com,38,United States,Home,499.99,1.0,2026-02-15,Card,499.99
+ORD100431,Michael Turner,agarcia@yahoo.com,60,United States,Groceries,500.0,1.0,2024-11-02,Card,500.0
+ORD100433,Kerry Garcia,stevenkrause@gmail.com,60,United States,Groceries,500.0,1.0,2024-08-09,Card,500.0
+ORD100434,Patricia Martinez,cohendavid@gmail.com,50,Nigeria,Groceries,1500.0,1.0,2024-04-06,Transfer,1500.0
+ORD100435,Leslie Luna,wallerhannah@hotmail.com,63,Turkey,Electronics,1500.0,2.0,2025-10-15,Card,3000.0
+ORD100436,Karen Gray,nschaefer@harper-jordan.org,57,Turkey,Home,1500.0,4.0,2024-04-29,Card,6000.0
+ORD100437,Robert Smith,harrelljustin@hotmail.com,45,Nigeria,Fashion,2500.0,2.0,2024-06-23,Cash,5000.0
+ORD100438,Daniel Garrison,jsweeney@yahoo.com,34,Nigeria,Electronics,1133.52,4.0,2024-10-29,Card,4534.08
+ORD100439,Sharon Faulkner,michael65@wu-burnett.com,54,United Kingdom,Electronics,499.99,5.0,2024-08-25,Cash,2499.95
+ORD100440,Charles Smith,danielshort@hotmail.com,49,Nigeria,Electronics,1200.0,2.0,2025-12-26,Transfer,2400.0
+ORD100441,Jeffrey Mclaughlin,kfisher@walker.info,44,Nigeria,Electronics,500.0,5.0,2024-02-29,Transfer,2500.0
+ORD100442,Edwin Barajas,danielwelch@dean-murillo.org,22,Nigeria,Electronics,500.0,2.0,2024-07-13,Card,1000.0
+ORD100443,Matthew Carter,zjones@gmail.com,55,United States,Electronics,1500.0,2.0,2024-02-23,Cash,3000.0
+ORD100445,Robert Brooks,rgarcia@hotmail.com,32,United States,Fashion,500.0,4.0,2026-02-09,Transfer,2000.0
+ORD100446,Tony Nguyen,annarichardson@gmail.com,30,United States,Groceries,1200.0,5.0,2024-03-19,Card,6000.0
+ORD100448,Raymond Wood,ebony03@hotmail.com,24,United States,Groceries,1500.0,2.0,2026-02-05,Card,3000.0
+ORD100449,Garrett Farrell,taylormatthew@yahoo.com,32,United States,Fashion,1133.52,1.0,2024-10-12,Card,1133.52
+ORD100450,Emma Franco,dolson@klein.com,23,Nigeria,Electronics,499.99,4.0,2024-07-20,Cash,1999.96
+ORD100451,Kathy Bates,jgraham@gmail.com,61,Nigeria,Groceries,2500.0,2.0,2025-06-14,Card,5000.0
+ORD100454,Destiny Morales,meadowsnathan@yahoo.com,57,United States,Home,1200.0,3.0,2025-12-21,Card,3600.0
+ORD100456,Mrs. Crystal Hanson,desiree73@parker.com,22,Nigeria,Home,1500.0,2.0,2024-12-16,Card,3000.0
+ORD100457,Karen Guerrero,coxalicia@gmail.com,46,United States,Electronics,500.0,5.0,2025-09-23,Cash,2500.0
+ORD100458,Kyle Brown,david33@hotmail.com,58,United States,Electronics,1500.0,5.0,2024-04-04,Card,7500.0
+ORD100459,Deborah Melendez,smartin@gmail.com,30,Ghana,Fashion,500.0,5.0,2026-02-03,Cash,2500.0
+ORD100460,Kenneth Richmond,lisa31@green.biz,40,United States,Electronics,2500.0,3.0,2024-04-21,Cash,7500.0
+ORD100462,William Davis,elizabeth48@gmail.com,40,Nigeria,Fashion,500.0,3.0,2025-11-13,Cash,1500.0
+ORD100463,Patricia Aguirre,athomas@hurst.org,47,Ghana,Electronics,1200.0,1.0,2025-01-05,Card,1200.0
+ORD100464,Ricky Salazar,kavery@dixon.org,48,United States,Electronics,1200.0,1.0,2025-05-24,Cash,1200.0
+ORD100465,Jason Jones,jacksonbernard@hotmail.com,68,Turkey,Fashion,500.0,2.0,2024-03-01,Card,1000.0
+ORD100466,Sarah Wilkerson,stephaniewilson@sutton.com,41,United States,Electronics,1500.0,2.0,2024-05-03,Card,3000.0
+ORD100467,Matthew Camacho,nburke@gmail.com,53,Turkey,Groceries,1500.0,4.0,2024-12-31,Card,6000.0
+ORD100468,Stephen Parker,poolediana@madden.com,23,United States,Home,500.0,5.0,2024-10-15,Cash,2500.0
+ORD100469,Amy Young,pmartinez@contreras.info,47,Nigeria,Electronics,1500.0,2.0,2024-09-02,Card,3000.0
+ORD100470,Darren Bolton,,38,Turkey,Home,1133.52,3.0,2025-12-17,Card,3400.56
+ORD100471,Travis Warner,ericgross@gmail.com,65,Ghana,Electronics,500.0,2.0,2025-07-18,Transfer,1000.0
+ORD100472,Matthew Banks,newmankayla@howe.net,64,Ghana,Fashion,499.99,1.0,2025-04-02,Transfer,499.99
+ORD100473,Laura Gomez,jamieroberts@hill.org,28,Nigeria,Groceries,500.0,3.0,2024-07-03,Cash,1500.0
+ORD100474,Gary Johnson,swhite@hotmail.com,42,United Kingdom,Electronics,499.99,3.0,2024-07-24,Transfer,1499.97
+ORD100475,Thomas Riley,,52,Nigeria,Electronics,500.0,3.0,2024-09-22,Transfer,1500.0
+ORD100476,Gary Jackson,molly15@yahoo.com,58,Ghana,Groceries,1500.0,1.0,2024-12-13,Card,1500.0
+ORD100478,Rebecca Stephens,wellsalejandra@gmail.com,28,Nigeria,Electronics,500.0,5.0,2025-02-22,Card,2500.0
+ORD100481,Brian Johnson,hcohen@johnson.com,63,Nigeria,Electronics,1133.52,1.0,2025-08-18,Transfer,1133.52
+ORD100482,Chad Smith,sethevans@yahoo.com,33,United States,Electronics,500.0,3.0,2025-05-19,Card,1500.0
+ORD100483,Gary Harris,ilewis@brown-stephens.com,61,Ghana,Groceries,2500.0,1.0,2024-10-02,Cash,2500.0
+ORD100484,Patricia Williams,xgentry@hotmail.com,68,United Kingdom,Home,1500.0,3.0,2024-07-16,Card,4500.0
+ORD100486,Judy Rodriguez,kennedymichael@gmail.com,59,Nigeria,Fashion,499.99,3.0,2024-11-12,Cash,1499.97
+ORD100487,Derrick Garcia,wallacenicole@gmail.com,53,Ghana,Fashion,1133.52,1.0,2024-07-12,Card,1133.52
+ORD100488,Devon Fletcher,susan34@bryan.com,44,Nigeria,Electronics,1200.0,4.0,2024-09-28,Cash,4800.0
+ORD100492,Logan Williams,laurahernandez@hotmail.com,55,Ghana,Fashion,1133.52,1.0,2024-06-10,Card,1133.52
+ORD100494,James Norris,wilkinsnorman@hotmail.com,21,Turkey,Fashion,499.99,2.0,2025-12-24,Cash,999.98
+ORD100495,Christopher Gonzales,tinarivers@gmail.com,46,United Kingdom,Home,2500.0,1.0,2025-07-06,Card,2500.0
+ORD100496,Karl Price,paigebartlett@hotmail.com,66,Ghana,Home,500.0,2.0,2024-04-21,Card,1000.0
+ORD100498,Melissa Aguilar,leah98@carpenter.com,62,Nigeria,Fashion,500.0,2.0,2025-06-14,Transfer,1000.0
+ORD100499,Eddie Martinez Jr.,bwhite@gmail.com,53,Nigeria,Groceries,2500.0,3.0,2024-08-23,Transfer,7500.0
+ORD100500,Juan Hobbs,terrifuller@gmail.com,28,Nigeria,Electronics,1500.0,1.0,2024-08-10,Card,1500.0
+ORD100501,Adriana Greer,ogoodwin@simmons.info,22,Ghana,Groceries,500.0,1.0,2024-05-09,Card,500.0
+ORD100502,Michael Huynh,lindsay11@dennis.info,60,United States,Home,500.0,1.0,2025-07-03,Card,500.0
+ORD100503,Anne Johnson,vyork@yahoo.com,53,United States,Electronics,1133.52,4.0,2024-03-09,Card,4534.08
+ORD100504,Isaac Stewart,,38,Ghana,Electronics,1133.52,5.0,2025-01-11,Cash,5667.6
+ORD100505,Cathy Jones,gutierrezmatthew@smith-burns.com,33,Nigeria,Electronics,499.99,3.0,2026-01-26,Card,1499.97
+ORD100507,Samantha Hall,darrylwilliams@williams.org,47,Nigeria,Electronics,2500.0,1.0,2025-11-11,Cash,2500.0
+ORD100509,Tamara Marshall,matthew43@yahoo.com,62,United States,Groceries,500.0,5.0,2024-03-01,Cash,2500.0
+ORD100510,Lisa Carson,,22,Nigeria,Groceries,1500.0,1.0,2025-11-29,Card,1500.0
+ORD100511,Eric Snyder,pinedanicole@yahoo.com,28,Turkey,Electronics,1200.0,2.0,2024-09-04,Card,2400.0
+ORD100514,Joshua Chavez,johnnyclark@yahoo.com,21,Turkey,Fashion,1500.0,5.0,2024-09-16,Transfer,7500.0
+ORD100515,Patricia Johnson,sarah34@boyd.info,50,United States,Electronics,1500.0,1.0,2025-08-20,Transfer,1500.0
+ORD100516,Jason Holder,phillipssteven@swanson-york.org,39,United Kingdom,Home,1500.0,2.0,2024-07-23,Card,3000.0
+ORD100517,Rodney Brooks,brittneyreilly@yahoo.com,41,United States,Electronics,1500.0,1.0,2024-06-23,Card,1500.0
+ORD100518,Cathy Morgan,jonesamy@hotmail.com,38,Nigeria,Electronics,1500.0,3.0,2024-08-06,Card,4500.0
+ORD100519,Miranda Hooper,mguzman@rose.com,44,Nigeria,Electronics,500.0,3.0,2024-03-09,Card,1500.0
+ORD100520,Joshua Ferguson,spearsstephanie@butler.biz,47,United States,Electronics,2500.0,5.0,2025-08-07,Card,12500.0
+ORD100521,Robert Miller,coreyreed@yahoo.com,21,Ghana,Electronics,499.99,5.0,2024-02-23,Card,2499.95
+ORD100523,William Nelson,blake63@dawson.com,25,United Kingdom,Electronics,1200.0,2.0,2024-10-24,Card,2400.0
+ORD100524,Karen Johnson,greg59@hotmail.com,57,United Kingdom,Groceries,1200.0,2.0,2024-08-24,Card,2400.0
+ORD100525,Timothy Mckenzie,diazjimmy@andrews.com,39,Nigeria,Fashion,1500.0,4.0,2024-09-18,Card,6000.0
+ORD100526,Jennifer Miller,ftucker@drake.com,68,Nigeria,Electronics,1200.0,1.0,2025-02-11,Card,1200.0
+ORD100527,Angela Garcia,sarahharris@drake.org,43,Nigeria,Electronics,500.0,1.0,2024-06-28,Card,500.0
+ORD100528,Justin Chen,williamsmonica@miller-orozco.com,30,Nigeria,Electronics,2500.0,5.0,2025-08-18,Card,12500.0
+ORD100529,Mary Jordan,haleymcconnell@yahoo.com,45,Nigeria,Electronics,1500.0,4.0,2024-07-16,Card,6000.0
+ORD100530,Christine Gutierrez,eturner@gmail.com,69,Nigeria,Groceries,500.0,1.0,2026-02-04,Card,500.0
+ORD100531,Daniel Jackson,felicia13@lawson.biz,43,Ghana,Home,1200.0,1.0,2025-02-06,Cash,1200.0
+ORD100535,Mary Clark,,64,Nigeria,Electronics,1133.52,5.0,2026-01-24,Card,5667.6
+ORD100536,William Reyes,knightjon@joseph.biz,47,Nigeria,Home,1200.0,2.0,2024-09-17,Cash,2400.0
+ORD100537,Jesse Graves,olsonamy@hotmail.com,33,United States,Electronics,1200.0,4.0,2026-01-04,Transfer,4800.0
+ORD100538,Robert West,linda17@gmail.com,47,Turkey,Home,500.0,1.0,2024-11-01,Card,500.0
+ORD100539,Nicole Romero,austincruz@bradshaw-lopez.biz,26,United States,Home,1200.0,3.0,2024-05-27,Card,3600.0
+ORD100540,Brian Gates,louis21@hotmail.com,67,United States,Electronics,1200.0,2.0,2025-04-02,Transfer,2400.0
+ORD100541,David Mack,jsosa@hotmail.com,44,United Kingdom,Electronics,499.99,4.0,2026-01-17,Card,1999.96
+ORD100542,Kyle Long,ambercastro@montgomery-lara.com,43,Turkey,Groceries,1133.52,1.0,2025-04-03,Cash,1133.52
+ORD100543,Alexis Gutierrez,,61,Ghana,Fashion,500.0,1.0,2025-12-06,Card,500.0
+ORD100544,Maria Bradley DVM,cranemartin@yahoo.com,44,Ghana,Home,1133.52,1.0,2025-12-27,Cash,1133.52
+ORD100545,Vanessa Mccoy,kelly65@yahoo.com,64,United States,Groceries,500.0,1.0,2024-09-30,Cash,500.0
+ORD100546,Mike Stevens,martinezshawn@yahoo.com,67,Ghana,Electronics,1500.0,4.0,2025-02-14,Cash,6000.0
+ORD100549,Anthony Gonzalez,,49,United States,Groceries,499.99,2.0,2024-04-30,Card,999.98
+ORD100551,Timothy Hicks,michaelporter@hotmail.com,20,Nigeria,Fashion,1200.0,2.0,2025-01-15,Card,2400.0
+ORD100552,Jessica Thompson,zachary16@hoffman.com,48,Turkey,Fashion,500.0,2.0,2024-07-31,Cash,1000.0
+ORD100553,Amanda Martin,pking@gmail.com,56,Nigeria,Groceries,2500.0,1.0,2024-05-28,Cash,2500.0
+ORD100554,Carlos Salas,nataliegray@yahoo.com,41,Nigeria,Electronics,1500.0,3.0,2025-10-02,Transfer,4500.0
+ORD100555,Brian Oneill,qrodriguez@bradford.com,32,Nigeria,Electronics,1200.0,4.0,2025-02-19,Card,4800.0
+ORD100556,Kenneth Wilkins,jamie07@olsen.com,26,United States,Electronics,500.0,2.0,2026-02-15,Transfer,1000.0
+ORD100557,Ashley Baker,jonathan45@gmail.com,44,Nigeria,Home,499.99,1.0,2024-11-19,Transfer,499.99
+ORD100558,Mallory Gaines,,62,United Kingdom,Fashion,500.0,1.0,2025-06-08,Card,500.0
+ORD100560,Justin Frank,nleonard@cooper.info,68,Ghana,Groceries,1200.0,2.0,2025-01-13,Card,2400.0
+ORD100562,Amanda Robinson,andrea75@hotmail.com,56,Turkey,Electronics,1500.0,2.0,2025-09-02,Card,3000.0
+ORD100563,Justin Douglas,dustin45@gmail.com,20,Nigeria,Fashion,1500.0,2.0,2024-04-30,Card,3000.0
+ORD100565,Patricia James,dalejones@king.biz,21,Nigeria,Fashion,1500.0,1.0,2025-09-24,Card,1500.0
+ORD100566,Carla Moore,daniel94@yahoo.com,49,United States,Electronics,500.0,3.0,2025-12-23,Card,1500.0
+ORD100567,Kathryn Crosby,danielsangela@boyd.com,27,Nigeria,Home,1500.0,2.0,2024-08-01,Card,3000.0
+ORD100569,Christopher Ruiz,patelrick@hotmail.com,68,United States,Electronics,2500.0,3.0,2024-09-16,Cash,7500.0
+ORD100570,James Thomas,nmartin@watts.com,57,Ghana,Electronics,1200.0,4.0,2025-09-09,Card,4800.0
+ORD100572,Drew Jefferson,ojames@frederick-hunter.com,32,United States,Electronics,500.0,2.0,2025-12-12,Card,1000.0
+ORD100573,Felicia Gomez,qmckinney@yahoo.com,26,Nigeria,Groceries,499.99,2.0,2025-04-10,Cash,999.98
+ORD100574,George Young,annanthony@luna.com,61,Nigeria,Electronics,500.0,1.0,2025-10-07,Card,500.0
+ORD100575,Sean Rodriguez,caleb27@clarke.com,63,Nigeria,Fashion,499.99,5.0,2024-08-15,Card,2499.95
+ORD100577,Scott Carney,lhill@yahoo.com,65,Nigeria,Electronics,2500.0,5.0,2025-09-01,Card,12500.0
+ORD100578,Erika Turner,mclaughlintyrone@gmail.com,32,Ghana,Home,499.99,4.0,2026-02-11,Card,1999.96
+ORD100579,Mrs. Kristi Woods,karen97@gmail.com,52,United States,Electronics,1200.0,2.0,2024-11-26,Cash,2400.0
+ORD100580,Daniel Tran,sarah51@hotmail.com,41,Nigeria,Electronics,1500.0,2.0,2024-10-12,Card,3000.0
+ORD100581,Andrew Hernandez,adavidson@yahoo.com,65,Ghana,Fashion,1133.52,1.0,2026-01-19,Card,1133.52
+ORD100582,Jerry Velasquez,qsmith@gmail.com,31,United States,Electronics,1200.0,1.0,2025-04-14,Card,1200.0
+ORD100583,Keith Walton,stevensrachel@gmail.com,30,United States,Electronics,500.0,1.0,2025-10-31,Transfer,500.0
+ORD100584,Michael Smith,ibarker@yahoo.com,64,United States,Electronics,500.0,3.0,2024-12-09,Cash,1500.0
+ORD100585,Joshua Martinez,pnelson@hughes.com,36,Nigeria,Fashion,500.0,2.0,2024-10-11,Cash,1000.0
+ORD100586,Katherine Moore,carrie99@allen-davis.com,24,United States,Electronics,1200.0,2.0,2025-01-13,Transfer,2400.0
+ORD100587,Michael Fischer,richardmitchell@hotmail.com,26,United Kingdom,Home,1133.52,1.0,2024-06-02,Card,1133.52
+ORD100589,Richard Garner,janetreed@gmail.com,51,United States,Electronics,1200.0,1.0,2024-04-03,Cash,1200.0
+ORD100590,Christopher Strong,thomas37@ross.com,26,United States,Fashion,499.99,4.0,2025-01-31,Transfer,1999.96
+ORD100591,Sabrina Graham,emily62@hotmail.com,43,United States,Groceries,499.99,1.0,2025-01-16,Card,499.99
+ORD100593,Michael Flynn,nguyentammy@franklin-peters.com,37,Turkey,Fashion,499.99,1.0,2024-08-03,Transfer,499.99
+ORD100594,Cindy Ellison,traceyvazquez@gmail.com,32,Ghana,Fashion,2500.0,2.0,2024-09-22,Transfer,5000.0
+ORD100596,Lauren Brown,xthomas@yahoo.com,53,Ghana,Groceries,500.0,4.0,2025-04-29,Card,2000.0
+ORD100597,Monica Jordan,,65,Nigeria,Fashion,2500.0,2.0,2025-03-03,Card,5000.0
+ORD100599,Michael Shaffer,anayoung@rodriguez.com,55,Turkey,Fashion,500.0,1.0,2024-06-28,Card,500.0
+ORD100600,Jennifer Delgado,matthewgonzales@cook.biz,67,United States,Fashion,1200.0,2.0,2025-08-16,Transfer,2400.0
+ORD100601,Todd Cardenas,harperjacqueline@preston.net,29,United States,Fashion,500.0,2.0,2025-03-27,Card,1000.0
+ORD100602,Kyle Lowe,vchang@reynolds.com,54,Turkey,Electronics,1200.0,1.0,2024-07-14,Card,1200.0
+ORD100603,Dr. Connie Adkins,edwardjackson@hall.info,57,Nigeria,Fashion,1500.0,1.0,2024-12-01,Card,1500.0
+ORD100604,Beth Willis,mbrown@ramirez.net,38,Turkey,Electronics,499.99,1.0,2025-08-24,Cash,499.99
+ORD100605,Michelle Nguyen,darlenechambers@collier-mendoza.net,24,Turkey,Home,1200.0,5.0,2024-11-13,Cash,6000.0
+ORD100606,Dana Thomas,,18,Ghana,Groceries,500.0,1.0,2025-11-30,Cash,500.0
+ORD100608,Christopher Hill,edwardstevens@hotmail.com,46,United States,Electronics,1133.52,3.0,2024-07-12,Transfer,3400.56
+ORD100609,John Thomas,michaelho@brown-lane.info,23,Nigeria,Home,1200.0,2.0,2024-09-08,Transfer,2400.0
+ORD100610,Nicole Jensen,rstark@yahoo.com,52,Nigeria,Groceries,1500.0,1.0,2025-05-24,Card,1500.0
+ORD100612,Marcus Ritter,crystalkim@gmail.com,51,United Kingdom,Electronics,2500.0,5.0,2026-01-16,Cash,12500.0
+ORD100613,Carol Cross,kyle96@yahoo.com,53,United States,Home,2500.0,3.0,2024-10-25,Card,7500.0
+ORD100615,Melanie Ball,yburke@church.com,61,Turkey,Home,500.0,2.0,2024-11-14,Card,1000.0
+ORD100616,Rebecca Smith,,27,Nigeria,Groceries,1200.0,2.0,2024-10-27,Cash,2400.0
+ORD100617,Alejandro Warren,michelleallen@price.com,29,Ghana,Groceries,1200.0,1.0,2024-10-20,Cash,1200.0
+ORD100618,Gina Montgomery,,22,United Kingdom,Fashion,1200.0,4.0,2024-06-05,Card,4800.0
+ORD100619,Patricia Hall,monicadavis@scott.info,31,United States,Fashion,500.0,1.0,2025-04-28,Card,500.0
+ORD100621,Nicole Reed,carpenterapril@johnson.info,47,United States,Fashion,500.0,1.0,2024-03-17,Cash,500.0
+ORD100622,Kelli Wise,laura41@page.com,46,Nigeria,Groceries,500.0,3.0,2024-03-06,Card,1500.0
+ORD100623,Andrew Cortez,,37,United Kingdom,Groceries,499.99,2.0,2025-01-12,Transfer,999.98
+ORD100624,Shannon Wong,martinezjames@price-johnson.com,40,United States,Electronics,1500.0,4.0,2025-02-15,Card,6000.0
+ORD100625,Donna Hernandez,sanchezjonathan@blevins.com,44,United States,Electronics,1133.52,1.0,2024-02-29,Card,1133.52
+ORD100626,Michael Lopez,hernandezsusan@robinson.net,44,Nigeria,Home,1200.0,1.0,2024-05-12,Card,1200.0
+ORD100627,James Parks,,68,United Kingdom,Electronics,1500.0,1.0,2025-02-19,Cash,1500.0
+ORD100628,Rebecca Miller,riverajanet@miller.info,31,Nigeria,Electronics,500.0,2.0,2024-11-02,Card,1000.0
+ORD100629,Charles Garza,jimmy90@gmail.com,54,Turkey,Electronics,500.0,3.0,2025-02-01,Card,1500.0
+ORD100630,Elizabeth Cruz,nreese@hotmail.com,33,Nigeria,Fashion,1200.0,4.0,2026-02-10,Cash,4800.0
+ORD100631,Courtney Kent,dellison@wagner.org,54,Ghana,Groceries,500.0,4.0,2025-06-06,Cash,2000.0
+ORD100632,Lawrence Price,robersongregory@wallace-olson.net,21,United States,Home,500.0,4.0,2024-07-09,Card,2000.0
+ORD100633,Jimmy Lopez,christophershepard@newman-stevens.com,51,United States,Fashion,500.0,1.0,2025-05-25,Card,500.0
+ORD100635,Jeffrey Miller,rparks@hotmail.com,39,Nigeria,Electronics,499.99,2.0,2025-09-25,Transfer,999.98
+ORD100636,Kaitlin Baldwin,watsonmichael@gmail.com,24,United Kingdom,Fashion,1200.0,3.0,2024-11-27,Cash,3600.0
+ORD100637,Kathryn Munoz,devon21@hotmail.com,26,United States,Electronics,500.0,1.0,2024-11-14,Card,500.0
+ORD100638,Drew Willis,antonio58@bryant.com,56,United States,Electronics,1200.0,3.0,2024-10-17,Card,3600.0
+ORD100639,Nathan Sexton,,46,Ghana,Groceries,1133.52,1.0,2025-05-25,Card,1133.52
+ORD100640,Amy Walker,longeduardo@hotmail.com,38,Nigeria,Electronics,499.99,1.0,2025-09-10,Transfer,499.99
+ORD100642,Amy Howard,,41,Nigeria,Fashion,1500.0,2.0,2024-04-10,Card,3000.0
+ORD100643,Jennifer Kane,rlee@ruiz.com,55,Nigeria,Electronics,1200.0,5.0,2025-03-08,Card,6000.0
+ORD100644,Patrick Grant Jr.,sarah53@hotmail.com,43,Nigeria,Groceries,1200.0,1.0,2024-03-25,Card,1200.0
+ORD100645,Matthew Conley DDS,alexiswu@brown-harvey.com,44,Turkey,Home,1200.0,3.0,2025-07-28,Transfer,3600.0
+ORD100646,Miss Christina Pacheco,matthewcervantes@smith.com,41,Ghana,Electronics,1500.0,1.0,2025-02-11,Card,1500.0
+ORD100647,Randy Koch,reynoldskimberly@yahoo.com,24,United States,Groceries,1500.0,1.0,2024-03-10,Card,1500.0
+ORD100648,Michael Gonzales,zrobbins@martin.com,24,Ghana,Electronics,1133.52,1.0,2024-03-07,Card,1133.52
+ORD100649,Jonathan Gutierrez,joseph86@delgado.biz,33,Ghana,Electronics,499.99,5.0,2024-12-13,Card,2499.95
+ORD100650,Marcus Johnson,jack40@leon.com,22,United States,Electronics,2500.0,4.0,2025-08-28,Transfer,10000.0
+ORD100651,John Johnson,jamessullivan@lee.biz,63,Nigeria,Electronics,1200.0,1.0,2025-10-20,Transfer,1200.0
+ORD100653,Matthew Cortez,adamsmegan@lewis-dunn.org,66,Nigeria,Groceries,1200.0,2.0,2026-01-01,Card,2400.0
+ORD100654,Taylor Houston,lmaddox@hayes.com,46,Nigeria,Groceries,500.0,2.0,2024-12-20,Card,1000.0
+ORD100655,Kristy Cervantes,jasmine87@harrell.com,45,Ghana,Home,1200.0,1.0,2025-05-05,Transfer,1200.0
+ORD100656,Chad Hamilton,joy49@hale.com,18,Nigeria,Fashion,499.99,3.0,2025-06-05,Card,1499.97
+ORD100657,Nancy Hughes,,51,Nigeria,Groceries,1200.0,1.0,2025-04-16,Cash,1200.0
+ORD100659,Steven Dixon,adamblack@yahoo.com,37,Nigeria,Fashion,2500.0,1.0,2024-04-11,Card,2500.0
+ORD100660,Joseph Nielsen,kimberlyfrench@hotmail.com,41,United States,Groceries,500.0,2.0,2024-05-10,Card,1000.0
+ORD100661,Sarah Leon,grahambrenda@wilson.biz,57,Nigeria,Electronics,499.99,1.0,2024-08-23,Cash,499.99
+ORD100662,Jeremy Gray,jennifer26@yahoo.com,32,Turkey,Home,2500.0,1.0,2025-11-10,Card,2500.0
+ORD100663,Jeremy Leonard,johnsonnicholas@harrison.com,41,Ghana,Groceries,1500.0,3.0,2024-12-09,Card,4500.0
+ORD100664,Taylor Hartman,kevin40@yahoo.com,34,Ghana,Fashion,500.0,3.0,2025-03-31,Cash,1500.0
+ORD100665,Christopher Alexander,,48,Ghana,Fashion,499.99,3.0,2024-09-20,Transfer,1499.97
+ORD100666,Elizabeth Morgan,marysmith@gmail.com,41,United States,Home,1200.0,2.0,2025-09-13,Cash,2400.0
+ORD100667,Jeremy Davis MD,davidhicks@hotmail.com,35,Turkey,Groceries,1500.0,1.0,2025-12-20,Card,1500.0
+ORD100668,Emily Bell,denise48@mckenzie.com,69,Nigeria,Groceries,2500.0,4.0,2025-08-03,Card,10000.0
+ORD100669,Timothy Johnson,owarren@gmail.com,68,United States,Fashion,1200.0,3.0,2024-03-08,Transfer,3600.0
+ORD100670,Joshua Pearson,weberstephanie@crawford.com,31,Nigeria,Groceries,1200.0,3.0,2024-09-18,Card,3600.0
+ORD100671,Donna Zhang,thomas59@gmail.com,43,Nigeria,Electronics,2500.0,1.0,2025-04-05,Cash,2500.0
+ORD100672,Monique Smith,charleshayes@hawkins-franklin.com,44,Nigeria,Fashion,1200.0,1.0,2024-05-13,Card,1200.0
+ORD100673,David Adams,fgraham@yahoo.com,57,United States,Groceries,1200.0,3.0,2024-10-06,Transfer,3600.0
+ORD100674,Ms. Sarah Jones,denisesantana@marquez-mcdonald.org,38,Ghana,Electronics,1200.0,4.0,2025-09-19,Card,4800.0
+ORD100675,Cindy Gay,mjensen@yahoo.com,42,United States,Fashion,1500.0,2.0,2025-03-15,Cash,3000.0
+ORD100676,Larry Baker,colleenjacobs@hotmail.com,69,Nigeria,Electronics,500.0,2.0,2026-01-02,Transfer,1000.0
+ORD100679,Elizabeth Maldonado,mhernandez@clark.com,44,United States,Fashion,499.99,2.0,2026-01-05,Card,999.98
+ORD100680,Haley Burns,annette88@hotmail.com,63,Ghana,Electronics,1500.0,1.0,2026-01-23,Cash,1500.0
+ORD100682,Justin Lee MD,nritter@gmail.com,58,Nigeria,Groceries,500.0,1.0,2025-04-16,Cash,500.0
+ORD100683,Shelby Jackson,qturner@thomas.com,64,Turkey,Electronics,1200.0,1.0,2024-08-24,Transfer,1200.0
+ORD100684,Leah Arellano MD,brianna07@gmail.com,31,Nigeria,Fashion,1200.0,3.0,2025-08-26,Card,3600.0
+ORD100685,Matthew Gordon,harold00@hotmail.com,35,Nigeria,Electronics,1500.0,4.0,2024-10-01,Card,6000.0
+ORD100686,Jordan Harper,garrett21@gmail.com,19,Nigeria,Groceries,499.99,2.0,2026-01-24,Card,999.98
+ORD100687,Joseph Reed,markhill@yahoo.com,20,United Kingdom,Fashion,1200.0,3.0,2024-08-25,Cash,3600.0
+ORD100688,Chase Bryant,kimberlyhumphrey@nunez.com,44,United States,Groceries,2500.0,1.0,2025-07-04,Card,2500.0
+ORD100689,Mariah Myers,kimberlyfarrell@yahoo.com,19,United Kingdom,Electronics,1200.0,1.0,2024-09-29,Card,1200.0
+ORD100690,Anthony Swanson,,34,United States,Electronics,500.0,3.0,2025-01-28,Card,1500.0
+ORD100692,Crystal Weeks,adam96@ramirez.com,27,Nigeria,Fashion,499.99,1.0,2025-07-28,Card,499.99
+ORD100693,Joseph Pratt IV,nunezrichard@gmail.com,54,United States,Fashion,1200.0,2.0,2025-02-03,Card,2400.0
+ORD100695,Ms. Lori Wilson,andrew07@yahoo.com,24,Nigeria,Home,1500.0,1.0,2024-05-07,Card,1500.0
+ORD100696,Ronald Rodriguez,mjackson@gmail.com,28,Nigeria,Electronics,500.0,4.0,2025-08-31,Card,2000.0
+ORD100697,Maria Smith,sallymartin@gmail.com,20,Nigeria,Electronics,1200.0,1.0,2024-05-05,Cash,1200.0
+ORD100698,Dr. Sara Hampton,deanestes@gmail.com,42,United Kingdom,Fashion,500.0,3.0,2024-10-21,Cash,1500.0
+ORD100699,Jackie Chase,jeffrey03@gmail.com,44,Nigeria,Electronics,499.99,3.0,2025-12-31,Card,1499.97
+ORD100700,Julia Gardner,,46,Ghana,Home,2500.0,1.0,2024-11-02,Cash,2500.0
+ORD100701,Eric Oconnor,cbarr@cabrera-hall.com,38,Nigeria,Groceries,1200.0,2.0,2025-08-26,Card,2400.0
+ORD100702,Christopher Mitchell,nathanwest@gmail.com,38,Ghana,Electronics,2500.0,3.0,2024-03-11,Cash,7500.0
+ORD100703,Stephanie Meza,damoncox@barajas.com,54,Nigeria,Groceries,1200.0,3.0,2025-03-21,Transfer,3600.0
+ORD100704,Toni Robinson,gregoryhall@hotmail.com,31,United Kingdom,Home,1500.0,1.0,2025-09-21,Transfer,1500.0
+ORD100705,Cynthia Le,hannahhart@yahoo.com,38,Nigeria,Electronics,1133.52,2.0,2024-12-13,Transfer,2267.04
+ORD100706,Tammy Edwards,evansmichael@miller.com,44,Ghana,Fashion,499.99,2.0,2026-01-11,Card,999.98
+ORD100707,Veronica Case,ritadelgado@gmail.com,36,Ghana,Electronics,1200.0,3.0,2025-01-25,Transfer,3600.0
+ORD100708,Nathan Williams,annehunter@yahoo.com,27,Nigeria,Electronics,500.0,1.0,2026-01-23,Card,500.0
+ORD100709,Sarah White,,62,United States,Groceries,499.99,3.0,2025-09-14,Cash,1499.97
+ORD100710,Sydney Peters,ejones@matthews.com,39,Nigeria,Home,1133.52,2.0,2025-03-14,Card,2267.04
+ORD100711,Richard Pacheco,angelajones@hotmail.com,36,Turkey,Home,500.0,5.0,2025-01-30,Cash,2500.0
+ORD100713,Ann Stephens,cynthiasingh@smith-friedman.net,31,Ghana,Groceries,500.0,3.0,2025-12-18,Transfer,1500.0
+ORD100714,Heather Trujillo,jennifersingleton@hotmail.com,64,Nigeria,Electronics,2500.0,4.0,2025-07-18,Card,10000.0
+ORD100715,Desiree Johnson,sawyerlindsay@hall-hernandez.com,33,Nigeria,Groceries,1200.0,1.0,2024-03-25,Card,1200.0
+ORD100716,James Jones,valerie72@white.net,25,Nigeria,Electronics,500.0,2.0,2024-11-08,Cash,1000.0
+ORD100717,Meghan Garcia,gdavila@smith.org,48,Ghana,Electronics,1200.0,1.0,2025-04-08,Card,1200.0
+ORD100718,Jesus Hodges,vdixon@miller-flores.com,59,Nigeria,Home,1200.0,1.0,2024-10-28,Transfer,1200.0
+ORD100719,Amy Ayala,dennis72@smith-thompson.com,21,Nigeria,Home,499.99,1.0,2025-03-15,Cash,499.99
+ORD100723,James Perez,matthewrichardson@gmail.com,54,Turkey,Home,499.99,2.0,2025-04-27,Transfer,999.98
+ORD100724,Joseph Reynolds,mark11@yahoo.com,44,United Kingdom,Electronics,499.99,3.0,2025-04-13,Card,1499.97
+ORD100725,Heidi Walker,mcneiljacob@hotmail.com,56,Nigeria,Electronics,2500.0,4.0,2024-08-09,Card,10000.0
+ORD100726,Grace Jensen,pflores@stewart.biz,38,Nigeria,Electronics,499.99,5.0,2025-09-19,Card,2499.95
+ORD100727,Jonathan Krause,timothy18@gmail.com,37,United States,Fashion,500.0,2.0,2024-04-23,Cash,1000.0
+ORD100728,Thomas Jackson,robin21@gmail.com,36,United States,Groceries,500.0,1.0,2024-10-30,Transfer,500.0
+ORD100729,Ian Campos,schwartzkathryn@gilmore.com,49,Nigeria,Electronics,1500.0,3.0,2025-06-18,Card,4500.0
+ORD100730,David Davis,amybrown@sullivan-buckley.com,30,Nigeria,Home,1500.0,1.0,2025-02-17,Transfer,1500.0
+ORD100732,Scott Barr,paulking@hotmail.com,55,United States,Groceries,1200.0,1.0,2025-04-03,Cash,1200.0
+ORD100733,Meghan Adams,upatel@mcconnell.org,58,Nigeria,Groceries,500.0,2.0,2024-05-16,Transfer,1000.0
+ORD100736,Nancy Andrews,denise65@gmail.com,48,United Kingdom,Home,499.99,1.0,2024-04-16,Card,499.99
+ORD100738,Caitlyn Taylor,merrittcandace@yahoo.com,44,Nigeria,Home,1200.0,4.0,2024-07-04,Card,4800.0
+ORD100740,Donald Lopez,joe71@newman-garcia.com,43,Nigeria,Home,500.0,4.0,2024-08-13,Card,2000.0
+ORD100741,Jason Walters,millermichael@gmail.com,43,United States,Groceries,500.0,5.0,2025-01-28,Card,2500.0
+ORD100742,Amanda Solis,stephensoncarla@hotmail.com,39,Nigeria,Home,1500.0,1.0,2024-03-01,Cash,1500.0
+ORD100743,Sonya Moreno,andrew69@schneider.com,41,Nigeria,Fashion,500.0,1.0,2024-06-07,Cash,500.0
+ORD100744,Todd Jones,ramosashley@yahoo.com,44,Nigeria,Electronics,500.0,2.0,2026-02-01,Card,1000.0
+ORD100745,Kelly Rivera,tbray@campbell-smith.com,55,United Kingdom,Electronics,1133.52,3.0,2025-10-23,Card,3400.56
+ORD100746,William Daniel,adavis@weaver.com,40,United States,Fashion,2500.0,5.0,2025-11-09,Card,12500.0
+ORD100747,Timothy Curtis,opeterson@hotmail.com,51,United States,Fashion,1133.52,1.0,2025-10-29,Cash,1133.52
+ORD100748,Michael Maxwell,wanda83@gmail.com,24,United Kingdom,Electronics,1200.0,3.0,2024-07-05,Transfer,3600.0
+ORD100749,Sherry Ross,amandahuang@hotmail.com,39,United States,Electronics,499.99,1.0,2025-06-11,Transfer,499.99
+ORD100750,Shannon Smith,,41,Ghana,Groceries,2500.0,3.0,2024-10-26,Transfer,7500.0
+ORD100752,Johnathan Miller,,50,United Kingdom,Groceries,2500.0,1.0,2025-10-02,Cash,2500.0
+ORD100754,James Green,mullinsrobert@gmail.com,35,United States,Electronics,500.0,3.0,2025-09-10,Card,1500.0
+ORD100755,Jessica Aguilar,ywright@yahoo.com,44,United Kingdom,Home,499.99,1.0,2024-12-09,Card,499.99
+ORD100756,Brian Strong,nathaniel23@yahoo.com,46,Nigeria,Electronics,500.0,3.0,2025-03-09,Cash,1500.0
+ORD100757,Candace Mckay,,30,United States,Electronics,500.0,5.0,2025-10-05,Card,2500.0
+ORD100758,Susan Baldwin,sjones@zamora-fields.com,63,Turkey,Fashion,499.99,1.0,2024-07-20,Transfer,499.99
+ORD100760,Elizabeth Aguilar,samantha56@gonzalez.com,35,Nigeria,Electronics,500.0,3.0,2025-10-07,Cash,1500.0
+ORD100761,Kayla Saunders,hilltonya@hotmail.com,40,Nigeria,Groceries,500.0,2.0,2024-05-17,Cash,1000.0
+ORD100762,Richard Sanchez,nicole47@yahoo.com,20,Nigeria,Groceries,2500.0,1.0,2025-01-08,Card,2500.0
+ORD100763,Gregory Adams,tyler20@gmail.com,25,United States,Electronics,500.0,1.0,2026-02-03,Card,500.0
+ORD100764,Jason Gordon,bruce57@yahoo.com,24,United States,Electronics,1200.0,1.0,2025-02-15,Card,1200.0
+ORD100765,Karen Cox,denise72@miller.com,52,United Kingdom,Groceries,500.0,2.0,2024-08-13,Transfer,1000.0
+ORD100767,William Cline,kevinbyrd@guzman.com,52,Turkey,Home,1200.0,2.0,2024-07-10,Card,2400.0
+ORD100768,Mark Moore,erin52@gmail.com,21,United States,Fashion,500.0,3.0,2025-06-04,Card,1500.0
+ORD100769,Kevin Sharp,wsanders@hotmail.com,55,Turkey,Home,499.99,4.0,2024-06-15,Card,1999.96
+ORD100770,Theresa Frost,halestephen@yahoo.com,20,United States,Groceries,1200.0,1.0,2025-11-25,Transfer,1200.0
+ORD100771,Heather Moore,toddfields@yahoo.com,48,Nigeria,Home,1200.0,5.0,2025-11-25,Cash,6000.0
+ORD100772,Mr. John Phillips,bradleyanna@patel-dickson.com,68,Nigeria,Electronics,1500.0,5.0,2024-03-13,Cash,7500.0
+ORD100774,Timothy Knight,russell85@gmail.com,63,Ghana,Electronics,499.99,4.0,2024-04-02,Transfer,1999.96
+ORD100775,Craig Rogers,karenlewis@gmail.com,42,Ghana,Groceries,500.0,4.0,2026-02-06,Transfer,2000.0
+ORD100776,Melissa Evans,heather03@yahoo.com,19,Ghana,Electronics,2500.0,2.0,2025-05-13,Card,5000.0
+ORD100777,James Johnson,davidgross@logan.com,63,Nigeria,Groceries,1133.52,1.0,2024-08-21,Card,1133.52
+ORD100780,Xavier Ryan,aaronparker@ramirez.com,25,Nigeria,Groceries,1200.0,1.0,2025-09-16,Cash,1200.0
+ORD100781,Cory Davis,gconway@gmail.com,35,United Kingdom,Fashion,2500.0,1.0,2025-07-18,Transfer,2500.0
+ORD100783,Holly Dennis,dbuck@hotmail.com,44,Nigeria,Fashion,1500.0,2.0,2025-08-11,Card,3000.0
+ORD100784,Evelyn Brown,uwilliams@noble.com,55,United Kingdom,Electronics,1500.0,4.0,2025-08-29,Cash,6000.0
+ORD100785,Dakota Rhodes,dyork@hotmail.com,54,Ghana,Groceries,1500.0,3.0,2025-09-30,Card,4500.0
+ORD100786,Danny Davis,qjohnson@gmail.com,20,United States,Electronics,2500.0,1.0,2024-07-10,Card,2500.0
+ORD100787,Alejandro Kent,bmooney@yahoo.com,44,United States,Fashion,1133.52,4.0,2024-11-09,Transfer,4534.08
+ORD100788,Dorothy Nichols,william04@jenkins.com,53,Nigeria,Electronics,500.0,1.0,2024-11-18,Card,500.0
+ORD100789,Francis Farrell,ahall@stewart-carney.org,58,Nigeria,Home,499.99,1.0,2025-11-02,Transfer,499.99
+ORD100790,Jeremy Rice Jr.,michael67@hotmail.com,66,Nigeria,Fashion,1500.0,1.0,2025-02-20,Cash,1500.0
+ORD100791,Carolyn Mcclure,aprilwells@hotmail.com,22,United States,Electronics,2500.0,1.0,2024-07-10,Card,2500.0
+ORD100792,Jessica Brown,jacob39@gmail.com,27,Ghana,Electronics,500.0,2.0,2025-05-16,Card,1000.0
+ORD100793,Karen Marshall,,33,Nigeria,Electronics,499.99,2.0,2025-02-07,Card,999.98
+ORD100794,Vicki Duke,jasmine90@porter.com,40,Ghana,Groceries,2500.0,1.0,2025-05-14,Card,2500.0
+ORD100796,Michael Robbins,andreaross@yahoo.com,60,United States,Electronics,1133.52,2.0,2025-01-10,Transfer,2267.04
+ORD100798,Julie Bailey,jessica73@yahoo.com,69,United States,Electronics,499.99,1.0,2024-08-26,Card,499.99
+ORD100799,Leslie Pope,clarkjames@lewis.com,65,United States,Fashion,1500.0,1.0,2025-03-13,Cash,1500.0
+ORD100800,Teresa Ward,crosstimothy@hotmail.com,67,United States,Home,499.99,1.0,2025-03-28,Cash,499.99
+ORD100801,Steven Mitchell,,33,Ghana,Electronics,500.0,2.0,2025-08-18,Transfer,1000.0
+ORD100802,Zachary Thompson,elliottjanice@gmail.com,69,Nigeria,Electronics,499.99,2.0,2024-05-09,Card,999.98
+ORD100803,Mindy Pope,cookkelly@ho.net,60,Nigeria,Electronics,500.0,3.0,2024-06-25,Transfer,1500.0
+ORD100804,Hannah Gonzalez,ashlee57@bryan-haynes.com,41,United Kingdom,Electronics,1500.0,2.0,2026-02-02,Card,3000.0
+ORD100807,April Webb,markbond@hotmail.com,18,United Kingdom,Fashion,2500.0,3.0,2024-09-06,Cash,7500.0
+ORD100809,Jennifer Murray,smiles@gmail.com,32,United States,Groceries,2500.0,3.0,2026-01-04,Card,7500.0
+ORD100810,Kathleen Hudson,,45,United Kingdom,Electronics,2500.0,4.0,2025-08-30,Card,10000.0
+ORD100811,Michael Martin,brittanyowens@swanson-stephens.com,35,United States,Home,500.0,2.0,2025-09-09,Cash,1000.0
+ORD100813,Natalie King,fodom@russell.biz,28,Nigeria,Fashion,2500.0,1.0,2025-11-06,Card,2500.0
+ORD100814,Michelle Navarro,leemichelle@suarez.com,46,United Kingdom,Electronics,500.0,3.0,2025-08-05,Card,1500.0
+ORD100815,Chase Chandler,,19,Ghana,Groceries,500.0,1.0,2024-03-24,Card,500.0
+ORD100818,Stacy Adkins,levi48@yahoo.com,41,United States,Groceries,1200.0,2.0,2026-01-19,Transfer,2400.0
+ORD100819,Ashley Shea,qcoleman@yahoo.com,35,Turkey,Electronics,500.0,1.0,2024-09-11,Transfer,500.0
+ORD100820,Vincent Rice,qali@hotmail.com,47,United Kingdom,Electronics,1200.0,2.0,2025-03-22,Card,2400.0
+ORD100822,Jonathan Lucas,sperez@stephens-frost.com,30,United States,Electronics,1200.0,2.0,2024-09-02,Transfer,2400.0
+ORD100823,Javier Clark,clifford67@zhang-miles.com,53,Nigeria,Groceries,1133.52,1.0,2026-01-16,Card,1133.52
+ORD100824,Benjamin Dennis,ywoods@green.com,44,Turkey,Electronics,500.0,1.0,2024-07-15,Transfer,500.0
+ORD100825,Benjamin Greene,susanphillips@rush.com,44,Nigeria,Groceries,500.0,1.0,2024-05-12,Card,500.0
+ORD100826,Luis Shepherd,smithbrenda@davis-luna.com,18,Nigeria,Groceries,2500.0,1.0,2024-12-07,Cash,2500.0
+ORD100827,Katelyn Brown,brian52@turner-miller.biz,57,Nigeria,Fashion,1133.52,2.0,2025-06-03,Card,2267.04
+ORD100828,Cassandra Castillo,uramirez@gates.com,33,Nigeria,Electronics,1133.52,3.0,2025-03-28,Card,3400.56
+ORD100829,Diana Coleman,michael37@mcclure.biz,48,Nigeria,Home,1200.0,1.0,2024-02-19,Card,1200.0
+ORD100830,Denise Hoffman,sara31@miller-chavez.info,24,Nigeria,Fashion,500.0,2.0,2024-03-04,Card,1000.0
+ORD100831,Patricia Vaughn,katrina12@hotmail.com,58,Nigeria,Home,1200.0,2.0,2025-01-05,Cash,2400.0
+ORD100832,Shari Jenkins,,62,United States,Groceries,500.0,1.0,2025-09-12,Transfer,500.0
+ORD100833,Ronnie Walls,marc61@hotmail.com,30,Nigeria,Fashion,1133.52,5.0,2025-02-14,Card,5667.6
+ORD100834,Elizabeth Villegas,odonnelljesus@yahoo.com,44,Ghana,Groceries,1133.52,3.0,2024-04-21,Card,3400.56
+ORD100835,Laura Nash,qwoodward@davenport.org,66,Nigeria,Fashion,499.99,2.0,2025-12-24,Cash,999.98
+ORD100836,Rebecca Greene,ldelacruz@harper-sanders.org,48,Turkey,Groceries,1500.0,2.0,2025-01-23,Card,3000.0
+ORD100837,Carlos Campbell,woodmelissa@hotmail.com,31,Nigeria,Fashion,499.99,1.0,2025-11-29,Card,499.99
+ORD100838,Ashley Mcgee,ccunningham@yahoo.com,35,United States,Groceries,499.99,3.0,2024-06-16,Cash,1499.97
+ORD100839,Brian Arnold,stewartjames@curry.biz,26,United States,Groceries,1133.52,1.0,2025-09-06,Transfer,1133.52
+ORD100840,Teresa Franco,butlerjasmine@reid-marquez.com,39,Ghana,Home,499.99,3.0,2024-07-30,Card,1499.97
+ORD100841,Rebecca Cabrera,david55@mann.com,58,Ghana,Home,2500.0,1.0,2025-05-16,Transfer,2500.0
+ORD100842,Michael Griffin,elizabethsalas@johnson-hughes.org,68,Nigeria,Fashion,1200.0,2.0,2024-09-30,Cash,2400.0
+ORD100843,Johnny Martinez,,50,United Kingdom,Groceries,499.99,3.0,2025-11-10,Transfer,1499.97
+ORD100844,Melissa Rodriguez,korr@gomez.com,44,United States,Groceries,1133.52,2.0,2025-03-03,Cash,2267.04
+ORD100845,Christopher Sullivan,rodriguezelizabeth@hotmail.com,39,Nigeria,Electronics,500.0,5.0,2025-10-10,Transfer,2500.0
+ORD100846,Brenda Patton,sarahturner@blackburn.biz,65,Nigeria,Fashion,1133.52,2.0,2025-03-01,Card,2267.04
+ORD100848,Aaron Davis,,40,Nigeria,Groceries,2500.0,2.0,2025-10-26,Cash,5000.0
+ORD100849,Jason Simmons,brownamber@yahoo.com,66,United Kingdom,Fashion,1500.0,4.0,2024-10-22,Card,6000.0
+ORD100850,Michael Rogers,uherrera@clark.com,57,Ghana,Fashion,1133.52,1.0,2024-12-20,Card,1133.52
+ORD100851,Teresa Williams,chadsmith@yahoo.com,29,United States,Home,500.0,2.0,2024-07-19,Card,1000.0
+ORD100852,April Campbell,grahamsusan@walter-may.com,56,Ghana,Electronics,1200.0,2.0,2024-09-11,Transfer,2400.0
+ORD100853,Johnny Ortiz,lisaadkins@murphy-flores.com,52,Nigeria,Groceries,1200.0,2.0,2026-01-25,Card,2400.0
+ORD100855,Brooke Lopez,jonathan99@gmail.com,44,United States,Electronics,1500.0,1.0,2024-11-23,Card,1500.0
+ORD100856,Brandon Hernandez,torreslisa@knight-zuniga.com,48,Turkey,Home,1200.0,4.0,2024-12-07,Card,4800.0
+ORD100857,Brent Clay,tammywerner@stevenson.com,58,United States,Groceries,499.99,1.0,2025-09-28,Cash,499.99
+ORD100859,Debra Paul,nroberson@bush.com,51,United States,Groceries,500.0,2.0,2024-08-17,Transfer,1000.0
+ORD100860,Mike White,charles15@yahoo.com,48,Nigeria,Home,1500.0,1.0,2024-05-18,Card,1500.0
+ORD100861,Amanda Hill,matthew24@gonzales-manning.info,62,United States,Groceries,1500.0,2.0,2025-10-11,Card,3000.0
+ORD100862,Paul Patterson,leblancjustin@stafford.com,18,United States,Home,1500.0,3.0,2025-07-21,Card,4500.0
+ORD100863,Alfred Salazar,daniel32@moon.com,56,United States,Electronics,1500.0,1.0,2024-03-22,Cash,1500.0
+ORD100865,Karen Alvarez,davisbrianna@yahoo.com,57,Nigeria,Electronics,1133.52,5.0,2025-09-30,Cash,5667.6
+ORD100866,Anthony Brown,vaughnkimberly@fitzgerald.com,30,United States,Home,1200.0,4.0,2025-08-18,Cash,4800.0
+ORD100867,Brittany Salas,sherry19@yahoo.com,62,United Kingdom,Fashion,1200.0,2.0,2025-06-29,Transfer,2400.0
+ORD100868,Wanda Scott,jhanson@yahoo.com,68,Turkey,Fashion,1200.0,2.0,2024-06-03,Cash,2400.0
+ORD100869,Jeff Steele,nvance@mason.info,69,Nigeria,Electronics,499.99,1.0,2025-03-21,Card,499.99
+ORD100871,Christopher Alvarado,whitney39@hotmail.com,23,Nigeria,Electronics,1200.0,1.0,2025-09-01,Cash,1200.0
+ORD100872,Jessica Beasley,donaldwest@newton.com,25,Turkey,Fashion,1200.0,2.0,2024-08-20,Card,2400.0
+ORD100873,Adam Barr,juarezpeter@hotmail.com,34,Nigeria,Fashion,1200.0,2.0,2025-06-24,Cash,2400.0
+ORD100875,Jesse Bruce,awalker@green-mitchell.info,18,United Kingdom,Groceries,1500.0,3.0,2024-10-05,Card,4500.0
+ORD100876,Corey Williams,daniel28@gmail.com,69,Nigeria,Home,2500.0,1.0,2024-04-22,Transfer,2500.0
+ORD100877,Nicholas Sexton,sarahjuarez@smith.com,45,United States,Fashion,1133.52,2.0,2025-05-30,Transfer,2267.04
+ORD100878,Jo Hernandez,cannonmichael@schmidt-turner.com,56,United States,Groceries,1200.0,5.0,2024-07-22,Card,6000.0
+ORD100879,Lauren Coleman,walter42@blake.com,36,United States,Groceries,500.0,4.0,2025-01-02,Transfer,2000.0
+ORD100880,Michelle Edwards,davidmccarthy@hotmail.com,59,Nigeria,Home,2500.0,1.0,2025-07-26,Card,2500.0
+ORD100881,Justin Hammond,anna55@gmail.com,53,United States,Electronics,1500.0,3.0,2025-05-13,Card,4500.0
+ORD100883,Jeffrey Gordon,tinahatfield@gmail.com,66,Nigeria,Home,1500.0,2.0,2025-01-29,Transfer,3000.0
+ORD100885,Andrew Lopez,jasminejacobson@hotmail.com,28,Nigeria,Electronics,1200.0,4.0,2024-12-10,Transfer,4800.0
+ORD100886,Jenny Russell,matthewmartin@yahoo.com,62,United States,Home,1133.52,5.0,2024-11-12,Card,5667.6
+ORD100888,Mary Bowman,ynelson@brown.com,29,Ghana,Electronics,500.0,4.0,2024-04-04,Card,2000.0
+ORD100891,Jennifer Maldonado,ltaylor@gibson.com,23,United Kingdom,Fashion,1200.0,4.0,2024-03-18,Cash,4800.0
+ORD100892,Elizabeth Thornton,deanrenee@thomas-thompson.com,26,Turkey,Electronics,499.99,5.0,2025-08-26,Card,2499.95
+ORD100893,Brian Kelley,phillipsbrenda@jones-wilson.com,63,Ghana,Groceries,2500.0,3.0,2025-12-01,Card,7500.0
+ORD100894,Julia Kelly,hodgesjanet@simon-valencia.com,24,United States,Groceries,1133.52,1.0,2024-05-24,Cash,1133.52
+ORD100895,Douglas Smith,shari61@yahoo.com,25,Nigeria,Fashion,1200.0,3.0,2025-12-26,Card,3600.0
+ORD100896,Haley White,burtonthomas@yahoo.com,52,Nigeria,Electronics,1200.0,1.0,2024-08-07,Transfer,1200.0
+ORD100898,Michael Gross,phillip61@hotmail.com,44,Nigeria,Groceries,1500.0,2.0,2024-05-09,Card,3000.0
+ORD100899,Matthew Galloway,sking@yahoo.com,44,Ghana,Fashion,1500.0,1.0,2024-04-09,Card,1500.0
+ORD100900,Daniel Johnson,tcarter@carpenter.com,63,United Kingdom,Fashion,1200.0,1.0,2025-12-25,Cash,1200.0
+ORD100901,Christopher Wu,,63,Nigeria,Electronics,1133.52,1.0,2025-05-21,Card,1133.52
+ORD100902,Isabella Mccann,richardslatoya@yahoo.com,59,United States,Home,500.0,1.0,2026-02-13,Cash,500.0
+ORD100903,Mary Garcia,jamiemiranda@hotmail.com,27,United States,Electronics,1200.0,1.0,2024-07-11,Card,1200.0
+ORD100904,Robert Barnes,mwells@pineda.com,22,United States,Electronics,1500.0,1.0,2024-03-14,Card,1500.0
+ORD100905,William Richardson,patriciaespinoza@valencia.com,48,Nigeria,Groceries,500.0,3.0,2025-11-19,Card,1500.0
+ORD100906,Danielle Carter,christinamontes@brown.com,59,Ghana,Home,499.99,1.0,2025-05-13,Card,499.99
+ORD100908,Jacob Thompson,aaron94@white-hart.com,44,United States,Groceries,1200.0,1.0,2025-04-17,Cash,1200.0
+ORD100910,Lisa Robinson,jessica99@hotmail.com,60,Nigeria,Groceries,1133.52,2.0,2024-06-03,Cash,2267.04
+ORD100911,Deborah Young,nathanielcarter@douglas.com,24,Nigeria,Home,499.99,1.0,2024-06-28,Cash,499.99
+ORD100912,William Allen,timothyclarke@hotmail.com,44,United States,Fashion,1500.0,3.0,2024-04-16,Cash,4500.0
+ORD100914,Autumn Suarez,brandonwagner@hotmail.com,36,United States,Groceries,500.0,1.0,2025-04-13,Card,500.0
+ORD100915,Cynthia Anderson,hayesaudrey@lowery.com,28,United States,Electronics,1200.0,1.0,2026-01-31,Card,1200.0
+ORD100916,Sharon Espinoza,xsmith@yahoo.com,62,United States,Groceries,1200.0,1.0,2024-05-26,Transfer,1200.0
+ORD100917,Jeffrey Kline,vwilson@yahoo.com,30,United States,Electronics,500.0,5.0,2024-07-07,Card,2500.0
+ORD100918,Douglas Sparks,dianelopez@yahoo.com,64,United States,Electronics,499.99,3.0,2025-11-08,Transfer,1499.97
+ORD100919,Richard Campbell,hwilliams@levy.com,61,Nigeria,Electronics,1200.0,5.0,2025-11-19,Transfer,6000.0
+ORD100920,Trevor Rich,santosryan@mcdonald.biz,60,Nigeria,Groceries,499.99,5.0,2025-10-16,Card,2499.95
+ORD100921,Joshua Hanson,vasquezjoshua@novak.com,44,United States,Fashion,500.0,1.0,2025-05-11,Cash,500.0
+ORD100922,Joseph Jordan,cooktracy@yahoo.com,68,Nigeria,Home,1200.0,5.0,2025-01-23,Card,6000.0
+ORD100926,Terry Tran,pblevins@guzman.com,29,Nigeria,Electronics,1200.0,3.0,2025-01-12,Card,3600.0
+ORD100927,Billy Thompson,goodmanjennifer@levy-clark.com,49,Nigeria,Groceries,2500.0,1.0,2024-09-19,Transfer,2500.0
+ORD100928,Joan White,elizabethstone@harvey.com,57,Nigeria,Fashion,1500.0,1.0,2025-12-01,Transfer,1500.0
+ORD100930,Randall Massey,caincody@yahoo.com,39,United States,Electronics,1500.0,3.0,2024-08-10,Card,4500.0
+ORD100931,James Watts,alyssa88@sanchez.com,20,Nigeria,Fashion,1200.0,3.0,2024-07-03,Cash,3600.0
+ORD100932,Nathan Rivas,stanleycolleen@sheppard-flores.com,58,United States,Fashion,2500.0,3.0,2024-06-20,Card,7500.0
+ORD100933,John Ayala,kaitlinwest@tucker.com,65,United Kingdom,Groceries,2500.0,1.0,2025-09-01,Transfer,2500.0
+ORD100934,Tyler Watson,robert16@yahoo.com,56,Turkey,Groceries,1200.0,1.0,2024-10-27,Card,1200.0
+ORD100935,Catherine George,,66,Ghana,Home,2500.0,1.0,2025-10-19,Card,2500.0
+ORD100936,William Smith,blewis@gmail.com,34,United States,Home,1200.0,2.0,2026-01-09,Cash,2400.0
+ORD100937,Patrick Shah,fowlercarl@yahoo.com,62,Nigeria,Groceries,499.99,3.0,2024-08-30,Card,1499.97
+ORD100938,Alexis Cook,sarahpotter@yahoo.com,63,United States,Fashion,1500.0,2.0,2025-07-27,Cash,3000.0
+ORD100940,Jennifer Harmon,bchapman@gmail.com,48,Turkey,Home,499.99,3.0,2026-02-02,Card,1499.97
+ORD100941,Emily Smith,osmith@hotmail.com,65,United Kingdom,Fashion,499.99,1.0,2024-11-10,Card,499.99
+ORD100942,Melissa Palmer,sandra17@gmail.com,56,United States,Home,1200.0,2.0,2024-06-29,Card,2400.0
+ORD100943,Samuel Moore,rnielsen@hotmail.com,62,United States,Electronics,1500.0,1.0,2024-03-25,Card,1500.0
+ORD100944,Jennifer Erickson,francisknight@gmail.com,63,Nigeria,Groceries,1133.52,2.0,2024-09-05,Card,2267.04
+ORD100945,Amy Flores,kevin22@yahoo.com,53,United Kingdom,Electronics,500.0,5.0,2024-07-14,Card,2500.0
+ORD100946,Sandra Owens,youngtammy@dawson.com,29,Turkey,Electronics,1200.0,3.0,2025-03-18,Transfer,3600.0
+ORD100947,Andrew Lester,gjordan@hotmail.com,67,United Kingdom,Groceries,1133.52,3.0,2024-09-11,Card,3400.56
+ORD100949,Heather Parker,timothygray@yahoo.com,47,United States,Fashion,2500.0,5.0,2026-01-31,Card,12500.0
+ORD100950,Marisa Gray,ogonzalez@miller.com,66,United States,Home,499.99,3.0,2024-11-17,Card,1499.97
+ORD100951,Michael Howard,langkristina@yahoo.com,37,Nigeria,Electronics,1500.0,2.0,2024-06-18,Card,3000.0
+ORD100952,Katherine Flores,martinezmonica@gmail.com,51,United Kingdom,Groceries,2500.0,2.0,2024-03-22,Card,5000.0
+ORD100953,Eric Bell,phillip56@hotmail.com,60,Turkey,Home,500.0,1.0,2024-03-28,Transfer,500.0
+ORD100954,Christopher Moore,johnsondennis@thomas-adkins.net,52,United States,Groceries,500.0,2.0,2024-07-21,Transfer,1000.0
+ORD100955,Patricia Bradford,kimberlyjohnson@yahoo.com,28,Turkey,Electronics,2500.0,1.0,2024-06-23,Cash,2500.0
+ORD100957,Patricia Jones,ryanharris@yahoo.com,46,Turkey,Electronics,500.0,4.0,2025-11-07,Cash,2000.0
+ORD100960,Ruth Chapman,xhowe@scott-baldwin.com,58,Turkey,Groceries,2500.0,1.0,2024-03-28,Card,2500.0
+ORD100962,Vanessa Johnston,waltonjohn@gmail.com,42,United States,Fashion,2500.0,2.0,2025-01-25,Card,5000.0
+ORD100963,Phillip Torres,kevinrobinson@hotmail.com,64,Ghana,Home,500.0,1.0,2024-06-16,Card,500.0
+ORD100964,Tyler Winters,jonesnathan@hotmail.com,59,United States,Home,1133.52,2.0,2024-11-09,Card,2267.04
+ORD100965,Timothy Delacruz,kristin63@hotmail.com,25,Ghana,Fashion,500.0,3.0,2025-07-06,Cash,1500.0
+ORD100967,Melissa Martinez,julie80@fitzgerald.net,64,Nigeria,Groceries,1133.52,4.0,2024-12-11,Card,4534.08
+ORD100968,Tonya Parker,abowen@yahoo.com,45,Nigeria,Home,1133.52,2.0,2024-05-07,Card,2267.04
+ORD100969,Caleb White,elizabethmassey@hotmail.com,49,Nigeria,Electronics,1200.0,2.0,2025-03-14,Card,2400.0
+ORD100971,Janice Perez,steven82@gmail.com,69,Ghana,Electronics,1200.0,4.0,2025-07-18,Card,4800.0
+ORD100972,Aimee Noble,christinaburns@yahoo.com,44,Nigeria,Groceries,500.0,2.0,2024-06-05,Transfer,1000.0
+ORD100974,Mandy Le,annasimmons@hotmail.com,25,United States,Groceries,500.0,2.0,2025-11-26,Card,1000.0
+ORD100975,Dawn Yates MD,,44,Nigeria,Groceries,2500.0,5.0,2025-11-12,Card,12500.0
+ORD100976,Kevin Bishop,,18,Ghana,Fashion,500.0,2.0,2024-03-18,Cash,1000.0
+ORD100977,Molly Smith,harrisjason@valdez.com,62,Ghana,Groceries,500.0,5.0,2025-09-28,Card,2500.0
+ORD100978,Craig Banks,madelineperez@lawrence.info,27,United Kingdom,Groceries,499.99,3.0,2025-09-19,Card,1499.97
+ORD100979,Lori Williams,hendrixcarolyn@taylor-landry.com,47,Ghana,Fashion,1200.0,2.0,2024-12-18,Card,2400.0
+ORD100981,Kim Fry,ericsweeney@dominguez-phillips.com,22,Nigeria,Electronics,1500.0,3.0,2025-08-15,Card,4500.0
+ORD100982,Candace Jordan,hudsonwendy@carpenter-wilson.net,40,Nigeria,Groceries,2500.0,1.0,2024-05-16,Transfer,2500.0
+ORD100983,Mary Roberts,angel74@hotmail.com,64,United States,Groceries,1200.0,2.0,2024-05-16,Card,2400.0
+ORD100984,Matthew Davis,erikamoore@mitchell.com,35,Turkey,Groceries,1500.0,1.0,2026-01-27,Transfer,1500.0
+ORD100985,Nathaniel Turner,crystalhernandez@silva-cantrell.net,60,Nigeria,Fashion,1200.0,3.0,2025-01-21,Transfer,3600.0
+ORD100986,Veronica Craig,howard72@dickerson-valenzuela.org,55,United States,Electronics,1500.0,4.0,2024-08-26,Transfer,6000.0
+ORD100988,Kimberly Garza,leejames@walker.com,32,Turkey,Electronics,1200.0,4.0,2025-02-08,Cash,4800.0
+ORD100989,Caleb Black,washingtonkatherine@gmail.com,65,United States,Groceries,1200.0,3.0,2024-09-20,Transfer,3600.0
+ORD100992,Eric Lyons,pattonregina@hotmail.com,65,Nigeria,Electronics,1500.0,1.0,2025-09-01,Card,1500.0
+ORD100994,Heidi Orozco,farleydavid@may-wood.com,69,Nigeria,Home,2500.0,2.0,2025-09-22,Card,5000.0
+ORD100996,Carrie Anderson,thomas24@yahoo.com,60,Turkey,Electronics,1200.0,3.0,2024-09-20,Transfer,3600.0
+ORD100997,James Sharp,fischerjames@williams-hawkins.com,52,Nigeria,Electronics,499.99,3.0,2025-06-13,Card,1499.97
+ORD100998,Amy Jones,hrodgers@hotmail.com,49,Ghana,Fashion,2500.0,1.0,2024-09-16,Card,2500.0
+ORD100999,Jennifer Herrera,,55,Nigeria,Fashion,500.0,3.0,2025-04-13,Card,1500.0
+ORD101000,Caroline Nichols,fbeltran@martin.com,40,United States,Electronics,2500.0,2.0,2024-10-11,Card,5000.0
+ORD101001,Ebony Bryant,blopez@reyes-rodriguez.com,40,Nigeria,Groceries,499.99,5.0,2025-08-15,Card,2499.95
+ORD101002,Steven Sparks,gturner@gmail.com,50,Ghana,Groceries,499.99,1.0,2024-07-08,Transfer,499.99
+ORD101003,April Gonzalez,rsmith@hotmail.com,24,United Kingdom,Fashion,2500.0,5.0,2025-01-31,Card,12500.0
+ORD101005,Ryan Mcclure,ayalakaren@gmail.com,26,Nigeria,Home,500.0,5.0,2024-03-16,Cash,2500.0
+ORD101006,Michele Robinson,susanmartinez@hotmail.com,37,United Kingdom,Electronics,1500.0,5.0,2025-09-06,Card,7500.0
+ORD101007,Jeffrey Evans,michaelcooper@gonzales.com,50,Nigeria,Fashion,1200.0,3.0,2024-04-17,Card,3600.0
+ORD101008,Ryan Johnson,oramirez@johnson.com,60,Turkey,Groceries,499.99,5.0,2025-03-20,Card,2499.95
+ORD101009,Miguel Esparza,dmiller@george.com,32,United States,Electronics,500.0,4.0,2024-08-20,Transfer,2000.0
+ORD101010,Patrick Hicks,keith22@hotmail.com,21,Ghana,Groceries,500.0,2.0,2024-10-25,Cash,1000.0
+ORD101011,Dr. Karina Ruiz,melinda72@gmail.com,23,United States,Fashion,1500.0,2.0,2024-09-07,Card,3000.0
+ORD101012,Sherry Reyes,bsimpson@yahoo.com,44,Ghana,Home,1500.0,2.0,2025-09-05,Cash,3000.0
+ORD101014,Danielle Short,cwells@gmail.com,34,Nigeria,Electronics,499.99,1.0,2025-08-01,Cash,499.99
+ORD101015,Matthew Holloway,hrivera@hotmail.com,36,Ghana,Electronics,1133.52,5.0,2024-07-06,Transfer,5667.6
+ORD101016,Brandon Guerra,holmesmark@walls.com,50,United States,Fashion,500.0,2.0,2025-11-18,Card,1000.0
+ORD101017,James Boone,chernandez@nelson.biz,44,United Kingdom,Fashion,500.0,4.0,2024-06-01,Card,2000.0
+ORD101019,Randall Coleman,vcox@moore-clark.com,58,Ghana,Fashion,1133.52,4.0,2025-09-26,Card,4534.08
+ORD101020,Sheryl Taylor,jonathanjones@hotmail.com,19,Turkey,Fashion,500.0,5.0,2025-11-04,Transfer,2500.0
+ORD101021,Kimberly Simpson,qmartin@yahoo.com,28,United Kingdom,Home,499.99,5.0,2025-10-26,Card,2499.95
+ORD101022,Elizabeth Berry,robertmitchell@gmail.com,26,Turkey,Home,500.0,3.0,2025-09-29,Card,1500.0
+ORD101023,Mike Pena,michael28@gmail.com,20,Ghana,Groceries,500.0,5.0,2025-10-19,Cash,2500.0
+ORD101025,Lisa Young,imelton@davis.com,25,United States,Home,499.99,1.0,2024-02-19,Cash,499.99
+ORD101026,Julia Massey,virginiarobinson@johnson.org,49,United States,Fashion,1200.0,1.0,2024-09-08,Cash,1200.0
+ORD101027,Kevin Rowe,jason60@nguyen.com,54,United States,Groceries,500.0,4.0,2024-05-14,Card,2000.0
+ORD101028,Melissa Savage,mashley@moran-pugh.com,53,United Kingdom,Groceries,1200.0,3.0,2026-01-03,Transfer,3600.0
+ORD101029,Michelle Rose,tnelson@leach-martin.net,58,Ghana,Electronics,1500.0,1.0,2025-08-31,Transfer,1500.0
+ORD101031,Edwin Ford,shannonchristopher@gmail.com,44,United States,Fashion,1500.0,3.0,2025-02-02,Transfer,4500.0
+ORD101032,Hannah Morris,patriciarodriguez@lyons.info,51,Nigeria,Fashion,2500.0,5.0,2024-07-30,Card,12500.0
+ORD101033,Travis Kennedy,richard68@yahoo.com,44,Ghana,Fashion,2500.0,4.0,2025-02-08,Cash,10000.0
+ORD101034,Ryan Jacobson,griffinchelsea@clark-thompson.com,67,Nigeria,Groceries,500.0,4.0,2025-07-23,Transfer,2000.0
+ORD101035,Brian Barnes,loriguzman@gmail.com,34,United Kingdom,Fashion,1200.0,4.0,2025-03-06,Cash,4800.0
+ORD101036,Anna Curtis,wluna@sanchez.com,64,United States,Electronics,1500.0,5.0,2025-01-26,Card,7500.0
+ORD101037,Vincent Santiago,carol14@gmail.com,57,Nigeria,Fashion,1133.52,2.0,2026-02-04,Cash,2267.04
+ORD101038,Leah Mcdowell,christopherstone@bennett.com,53,Nigeria,Groceries,2500.0,1.0,2025-03-03,Cash,2500.0
+ORD101039,Ashley Norton,crose@nguyen.info,56,United States,Fashion,2500.0,4.0,2025-02-07,Card,10000.0
+ORD101040,Ryan Price,collin80@davis.org,37,Nigeria,Fashion,1133.52,3.0,2025-05-28,Transfer,3400.56
+ORD101042,Laura Jones,jacobterrell@turner.net,60,Nigeria,Electronics,1200.0,2.0,2024-10-27,Cash,2400.0
+ORD101043,Jeffery Taylor,howardkimberly@patterson-martin.org,66,United States,Groceries,500.0,2.0,2025-04-20,Card,1000.0
+ORD101044,Michael Myers,fleminglouis@hotmail.com,69,United States,Electronics,2500.0,2.0,2025-11-28,Cash,5000.0
+ORD101045,John Martinez,matthewmartin@meadows-robinson.info,67,United Kingdom,Groceries,500.0,2.0,2024-11-15,Transfer,1000.0
+ORD101046,James Jones,erik99@davis-welch.com,34,Ghana,Groceries,1200.0,2.0,2026-01-01,Cash,2400.0
+ORD101047,Ricardo Burns,pamelale@hotmail.com,40,Ghana,Groceries,2500.0,2.0,2025-10-26,Cash,5000.0
+ORD101049,Linda Peterson,gillamanda@perez.info,34,Turkey,Groceries,499.99,4.0,2024-03-01,Card,1999.96
+ORD101050,Erik Hudson,carlakennedy@woodward-martinez.com,61,Nigeria,Electronics,1200.0,3.0,2024-08-22,Transfer,3600.0
+ORD101051,Travis Thomas,richard51@gmail.com,59,Ghana,Electronics,2500.0,1.0,2025-05-25,Transfer,2500.0
+ORD101052,Carmen Patton,justinsmith@hotmail.com,50,Turkey,Electronics,2500.0,2.0,2025-03-02,Card,5000.0
+ORD101053,Frederick Caldwell,rachel55@gmail.com,21,United Kingdom,Home,500.0,3.0,2025-04-24,Card,1500.0
+ORD101054,Robert Wang,xhernandez@ashley.org,29,Nigeria,Fashion,1500.0,1.0,2024-11-25,Transfer,1500.0
+ORD101055,Ryan Meyer,maryjones@hotmail.com,45,Ghana,Electronics,500.0,5.0,2024-12-22,Transfer,2500.0
+ORD101056,Daniel Hicks,trantravis@hotmail.com,24,United Kingdom,Electronics,1500.0,5.0,2025-05-10,Transfer,7500.0
+ORD101057,Fred Hicks,,56,Nigeria,Electronics,1200.0,4.0,2025-02-14,Card,4800.0
+ORD101058,Paul Nelson,,68,United States,Groceries,500.0,4.0,2025-10-29,Cash,2000.0
+ORD101059,Amber Hansen,melissavance@gmail.com,20,Turkey,Electronics,1200.0,1.0,2024-08-29,Card,1200.0
+ORD101060,Brandon Roberts,johnsonstephanie@yahoo.com,30,Ghana,Electronics,500.0,5.0,2025-08-20,Transfer,2500.0
+ORD101061,Stacy Novak,,46,Nigeria,Electronics,2500.0,3.0,2025-12-23,Card,7500.0
+ORD101062,Hannah Miller,cindymason@gmail.com,30,Nigeria,Home,1500.0,3.0,2024-09-02,Cash,4500.0
+ORD101063,Lindsay Perez,williambush@miles.com,44,Nigeria,Electronics,499.99,3.0,2025-07-21,Transfer,1499.97
+ORD101064,Robert Ramirez,hayestravis@hotmail.com,40,United Kingdom,Home,1200.0,1.0,2024-09-24,Card,1200.0
+ORD101065,Grant White,edward76@gmail.com,22,Turkey,Groceries,1500.0,2.0,2025-11-22,Card,3000.0
+ORD101068,Emily Barton,russellshane@parrish.biz,58,Nigeria,Home,2500.0,1.0,2025-01-30,Card,2500.0
+ORD101069,Stanley Lewis,thompsonseth@gmail.com,33,United States,Fashion,1500.0,5.0,2024-07-05,Card,7500.0
+ORD101070,Christina Jones,sylvia12@yahoo.com,66,United States,Electronics,1200.0,5.0,2025-02-15,Cash,6000.0
+ORD101071,Daniel Stanley,victormartin@gmail.com,44,United Kingdom,Groceries,1133.52,2.0,2026-01-15,Cash,2267.04
+ORD101072,Ashley Rose,sherrydavis@gmail.com,42,Nigeria,Electronics,1200.0,5.0,2025-11-19,Cash,6000.0
+ORD101073,Larry Romero,dalerobinson@yahoo.com,34,United States,Groceries,1500.0,4.0,2024-08-17,Card,6000.0
+ORD101074,Mrs. Katie May,mlowe@hotmail.com,48,Nigeria,Groceries,1200.0,3.0,2025-10-13,Card,3600.0
+ORD101075,Katie Burns,robertsmark@mcgee.com,44,Nigeria,Electronics,500.0,2.0,2025-12-30,Card,1000.0
+ORD101076,Karen Lopez,adam28@gmail.com,61,Nigeria,Electronics,1133.52,5.0,2024-03-28,Cash,5667.6
+ORD101077,Lindsay Mullins,carpenterwilliam@hotmail.com,38,Ghana,Electronics,499.99,3.0,2024-08-25,Card,1499.97
+ORD101078,Seth Sullivan,smithluke@myers.info,60,United States,Groceries,1200.0,1.0,2025-11-15,Card,1200.0
+ORD101079,Brian Taylor,bchen@hunter.com,65,Turkey,Electronics,1200.0,2.0,2024-11-20,Card,2400.0
+ORD101081,James Tapia,david64@rogers.biz,26,United States,Electronics,499.99,2.0,2025-12-18,Card,999.98
+ORD101082,Denise Love,jessica93@little.com,56,United States,Electronics,2500.0,2.0,2024-07-06,Card,5000.0
+ORD101083,Matthew Scott,fishertrevor@collins.net,44,United States,Groceries,1500.0,5.0,2025-11-03,Card,7500.0
+ORD101086,Robert Rodriguez,lori95@yahoo.com,35,United States,Home,1200.0,1.0,2025-07-27,Cash,1200.0
+ORD101087,Jay Harris,burkesteven@tran.com,47,Nigeria,Home,499.99,1.0,2025-04-06,Card,499.99
+ORD101089,Terry Williams,morrisonaustin@lopez.com,30,Ghana,Fashion,500.0,4.0,2024-03-02,Card,2000.0
+ORD101090,Gary Williams,kayla30@hughes-smith.org,19,Nigeria,Electronics,2500.0,1.0,2025-02-23,Card,2500.0
+ORD101091,Donald Reeves,ywilliams@acevedo-gray.com,57,Nigeria,Electronics,500.0,5.0,2025-09-10,Card,2500.0
+ORD101092,Brett Perez,regina51@hotmail.com,64,Nigeria,Groceries,1133.52,3.0,2025-03-27,Cash,3400.56
+ORD101093,Traci Mcknight DDS,howellcaitlin@bautista.com,56,Ghana,Electronics,2500.0,1.0,2024-07-06,Cash,2500.0
+ORD101094,Christina Cox,xalexander@barrera.org,30,Nigeria,Groceries,1200.0,1.0,2024-08-19,Cash,1200.0
+ORD101095,Michelle Hunt,sierrawilson@lewis.net,52,Nigeria,Electronics,1200.0,2.0,2024-11-29,Transfer,2400.0
+ORD101096,Robin Keller,marilynsherman@gmail.com,46,Ghana,Electronics,1500.0,2.0,2024-07-26,Cash,3000.0
+ORD101097,Stephen Griffin,waltonbonnie@johnston.com,64,Nigeria,Electronics,1133.52,1.0,2024-05-06,Transfer,1133.52
+ORD101098,Christy Warner,smithabigail@hotmail.com,42,Nigeria,Fashion,500.0,1.0,2024-11-01,Card,500.0
+ORD101100,Jason Mitchell,atkinsonjonathan@yahoo.com,44,Ghana,Groceries,2500.0,2.0,2025-11-16,Card,5000.0
+ORD101101,Kathy Freeman,,18,Nigeria,Electronics,499.99,1.0,2025-01-06,Cash,499.99
+ORD101103,Zachary Garcia,lindabrown@gmail.com,21,United Kingdom,Electronics,1200.0,1.0,2024-12-01,Card,1200.0
+ORD101105,Jeffrey Little MD,,59,United Kingdom,Groceries,2500.0,1.0,2024-05-30,Card,2500.0
+ORD101106,Dale Sharp,wdavis@carter.biz,24,Ghana,Electronics,1500.0,2.0,2025-10-09,Card,3000.0
+ORD101108,Tammy Chang,rasmussenjennifer@yahoo.com,44,Nigeria,Groceries,1200.0,5.0,2025-06-23,Transfer,6000.0
+ORD101109,Derrick Burke,kjones@yahoo.com,44,Nigeria,Groceries,1200.0,3.0,2024-08-27,Card,3600.0
+ORD101110,John Lawrence,tammyrussell@hotmail.com,37,Ghana,Groceries,2500.0,2.0,2025-01-08,Transfer,5000.0
+ORD101111,Christopher Davis,josemolina@hotmail.com,39,Nigeria,Groceries,1500.0,2.0,2025-10-11,Transfer,3000.0
+ORD101112,Daniel Young,bbeasley@pearson.com,44,United Kingdom,Electronics,2500.0,2.0,2025-08-17,Cash,5000.0
+ORD101115,Christopher Roy,jeffrey67@gmail.com,53,Nigeria,Electronics,500.0,1.0,2024-10-15,Cash,500.0
+ORD101116,Melody Lang,gmcdowell@banks-carter.biz,22,Nigeria,Groceries,1200.0,1.0,2024-06-11,Card,1200.0
+ORD101117,John Jackson,bwilkinson@hotmail.com,60,United States,Electronics,1133.52,3.0,2025-08-14,Transfer,3400.56
+ORD101118,Tiffany Flores,wanderson@wilson.com,39,United States,Electronics,1200.0,1.0,2025-07-30,Card,1200.0
+ORD101119,Sherri Patterson DDS,lmccoy@hotmail.com,44,Nigeria,Home,1200.0,3.0,2025-02-03,Card,3600.0
+ORD101120,Angela Gardner,,44,Ghana,Groceries,1200.0,5.0,2025-12-28,Card,6000.0
+ORD101121,Keith Webb,samantharitter@hotmail.com,68,United Kingdom,Fashion,2500.0,4.0,2024-08-15,Card,10000.0
+ORD101122,Daniel Arnold,qaguilar@lewis-allen.com,39,United States,Groceries,499.99,3.0,2024-08-25,Transfer,1499.97
+ORD101123,Jeremy Morrison,andre02@yahoo.com,65,United States,Groceries,1133.52,2.0,2025-11-06,Cash,2267.04
+ORD101124,Kimberly Yoder,lisa94@lynch.com,50,Nigeria,Groceries,2500.0,1.0,2024-10-16,Cash,2500.0
+ORD101125,Brittney Thomas,sharon34@yahoo.com,39,United Kingdom,Groceries,1133.52,1.0,2024-05-16,Card,1133.52
+ORD101127,Christopher Knapp,duranmax@harrison.info,54,Nigeria,Electronics,1500.0,1.0,2025-05-24,Card,1500.0
+ORD101128,Lance Stanton,,66,United Kingdom,Electronics,500.0,1.0,2024-09-28,Card,500.0
+ORD101129,Diana Turner,michaelphillips@washington.com,65,United States,Electronics,1200.0,1.0,2025-03-24,Card,1200.0
+ORD101130,Lindsey Parrish,vincent76@yahoo.com,46,United States,Home,1200.0,4.0,2024-06-08,Card,4800.0
+ORD101131,Kim Lucas,pamela48@barrett.com,63,Nigeria,Electronics,2500.0,1.0,2025-09-23,Card,2500.0
+ORD101132,Jamie Williams,kathryn89@king.com,57,United Kingdom,Electronics,499.99,2.0,2025-12-05,Cash,999.98
+ORD101133,Nichole Nicholson,blancharddanielle@roy-bradley.net,53,United States,Fashion,1133.52,1.0,2025-06-20,Card,1133.52
+ORD101134,Amy Hoffman,steven16@yahoo.com,29,United Kingdom,Groceries,1500.0,2.0,2025-10-04,Card,3000.0
+ORD101135,Denise Hill,romerosamuel@harris-tucker.com,22,Nigeria,Groceries,499.99,2.0,2025-10-17,Transfer,999.98
+ORD101136,Jerry Harrell,,50,United States,Electronics,500.0,1.0,2025-08-06,Card,500.0
+ORD101137,Cynthia Williams,meganbarrett@gmail.com,53,Turkey,Groceries,500.0,5.0,2024-09-07,Card,2500.0
+ORD101138,Michael Camacho,heidiwhite@torres.net,36,Nigeria,Electronics,1200.0,5.0,2024-09-28,Cash,6000.0
+ORD101139,Donna Gonzalez,lindaniel@escobar-massey.org,57,Ghana,Electronics,500.0,2.0,2025-04-02,Cash,1000.0
+ORD101140,Gloria Scott,stevenjohnson@hotmail.com,57,United States,Home,1200.0,3.0,2025-12-14,Cash,3600.0
+ORD101142,Jason Lewis,hallamber@clay-taylor.com,29,Ghana,Fashion,500.0,2.0,2024-12-18,Cash,1000.0
+ORD101144,Kenneth Martinez,bowmandavid@hotmail.com,50,Nigeria,Home,1133.52,4.0,2025-11-08,Card,4534.08
+ORD101145,James Cole,phelpsmichael@gmail.com,35,Ghana,Groceries,500.0,5.0,2025-02-26,Card,2500.0
+ORD101146,Dustin Martin,matthew82@fisher.net,21,United States,Home,2500.0,2.0,2025-11-27,Card,5000.0
+ORD101147,Steve Bryant,,59,United Kingdom,Fashion,499.99,1.0,2025-11-26,Card,499.99
+ORD101148,Teresa Smith,dana71@gmail.com,53,Nigeria,Home,1500.0,1.0,2025-11-17,Transfer,1500.0
+ORD101149,Bruce Weiss,mendezricardo@nelson-hernandez.com,20,United States,Electronics,1200.0,3.0,2024-11-24,Card,3600.0
+ORD101150,Wendy Armstrong,seanjones@williams-kirby.com,44,Nigeria,Fashion,1200.0,1.0,2025-06-17,Transfer,1200.0
+ORD101151,Jordan Mccormick,feliciamiller@warren.info,44,Turkey,Fashion,1500.0,5.0,2025-01-23,Card,7500.0
+ORD101152,Dakota Allison,smithjonathon@baker.com,44,Nigeria,Electronics,1200.0,5.0,2024-03-26,Card,6000.0
+ORD101153,Brian Taylor,brandonmartin@mills.com,62,Nigeria,Fashion,499.99,5.0,2025-02-05,Transfer,2499.95
+ORD101154,Angela Macias,kim39@briggs.com,54,United Kingdom,Home,1200.0,2.0,2025-01-11,Card,2400.0
+ORD101155,Angela Mathis,briannapetersen@hotmail.com,66,United States,Fashion,500.0,5.0,2025-06-14,Transfer,2500.0
+ORD101156,Leslie Hurst,christina39@flores.net,62,Ghana,Groceries,1200.0,4.0,2025-09-03,Transfer,4800.0
+ORD101157,Heidi Wang,reyesdavid@matthews.com,55,Ghana,Home,1500.0,5.0,2025-02-11,Card,7500.0
+ORD101159,Deborah Ryan,wrightlori@martinez-delgado.biz,51,Turkey,Groceries,499.99,2.0,2025-08-04,Card,999.98
+ORD101160,Brett Hurst,mark89@gmail.com,31,United States,Electronics,500.0,2.0,2026-01-22,Cash,1000.0
+ORD101161,Sandra Vargas,,44,Ghana,Electronics,500.0,2.0,2024-10-06,Transfer,1000.0
+ORD101164,Scott Williams,gmullins@hotmail.com,20,Nigeria,Fashion,500.0,1.0,2024-10-27,Transfer,500.0
+ORD101165,Edward Murphy,cleonard@wagner.biz,21,Ghana,Groceries,499.99,1.0,2024-05-21,Card,499.99
+ORD101166,Yvette Gray,,57,Nigeria,Electronics,499.99,2.0,2025-09-30,Transfer,999.98
+ORD101168,Thomas Curtis,walshmelissa@richardson.org,35,Nigeria,Groceries,2500.0,2.0,2025-05-22,Card,5000.0
+ORD101169,Tyler Buchanan,gcrosby@yahoo.com,37,Ghana,Groceries,500.0,1.0,2025-12-13,Cash,500.0
+ORD101170,Theresa Thompson,chelseycantu@yahoo.com,47,United Kingdom,Electronics,1200.0,3.0,2025-08-21,Cash,3600.0
+ORD101171,Nicolas Jones,thomas49@gmail.com,44,Nigeria,Groceries,1133.52,3.0,2025-09-06,Card,3400.56
+ORD101172,Robert Larsen,bthomas@jimenez.com,28,Nigeria,Groceries,499.99,4.0,2025-06-03,Cash,1999.96
+ORD101173,William Garcia,derrickromero@bauer.info,33,Turkey,Electronics,499.99,1.0,2024-12-07,Cash,499.99
+ORD101176,Jose Acosta,travisbishop@simmons.com,60,United States,Home,1133.52,2.0,2025-09-11,Card,2267.04
+ORD101177,Destiny Johnston,bowenjennifer@brown.com,51,Ghana,Electronics,1200.0,1.0,2024-10-19,Transfer,1200.0
+ORD101179,Pamela Moyer,ramirezeric@yahoo.com,18,Nigeria,Electronics,1200.0,3.0,2025-09-15,Transfer,3600.0
+ORD101180,Tammy Wilson,,61,Ghana,Fashion,499.99,5.0,2025-03-28,Card,2499.95
+ORD101181,Richard Green,alyssaortega@fowler.biz,20,Ghana,Electronics,1200.0,3.0,2024-03-11,Card,3600.0
+ORD101182,Nicholas Hayes,tjohnson@yahoo.com,69,Ghana,Electronics,2500.0,2.0,2025-03-05,Card,5000.0
+ORD101183,Ashley Rodriguez,joshuamacias@hotmail.com,68,United States,Electronics,500.0,2.0,2025-04-15,Card,1000.0
+ORD101184,Michelle Stone,lindsayklein@gmail.com,49,United States,Electronics,1200.0,4.0,2025-10-06,Card,4800.0
+ORD101185,Justin Walter,hbarnes@russell.com,47,United States,Electronics,500.0,2.0,2025-05-26,Card,1000.0
+ORD101186,Rebecca Richardson,sabrinafrancis@brown-reyes.com,64,Nigeria,Home,1133.52,5.0,2025-02-05,Card,5667.6
+ORD101187,John Lopez,kortega@yahoo.com,35,Ghana,Fashion,1200.0,1.0,2024-12-29,Transfer,1200.0
+ORD101189,Jeffrey Gallagher,istein@gmail.com,44,United States,Fashion,500.0,1.0,2024-10-25,Card,500.0
+ORD101190,Alan Williams,mejiasteven@gallagher-flynn.net,19,United States,Groceries,2500.0,1.0,2024-03-08,Cash,2500.0
+ORD101191,Philip Ritter,lwoodard@gmail.com,49,Ghana,Electronics,1500.0,3.0,2024-07-30,Cash,4500.0
+ORD101192,Joseph Lewis DDS,,29,United Kingdom,Electronics,1200.0,2.0,2024-09-08,Card,2400.0
+ORD101194,Krista Brown,mmccoy@hotmail.com,18,Nigeria,Fashion,2500.0,3.0,2024-12-22,Transfer,7500.0
+ORD101196,Noah Bailey,brennanamy@adkins-ferrell.com,67,United Kingdom,Electronics,1200.0,2.0,2024-04-13,Transfer,2400.0
+ORD101197,Sandra Singleton,jmcgee@gillespie-benton.com,54,United States,Groceries,1500.0,3.0,2025-04-01,Card,4500.0
+ORD101198,Scott Whitney,joseph94@hotmail.com,59,United States,Electronics,1500.0,3.0,2024-11-21,Cash,4500.0
+ORD101200,Christopher Washington,qfigueroa@rich-rodriguez.biz,40,Nigeria,Groceries,499.99,2.0,2024-04-27,Transfer,999.98
+ORD101201,Cody Stephens,burchemily@hernandez.com,44,Nigeria,Electronics,500.0,5.0,2024-04-14,Card,2500.0
+ORD101202,Jesse Thomas,connerjoshua@reyes.info,25,Ghana,Fashion,500.0,3.0,2024-08-25,Card,1500.0
+ORD101203,Courtney Evans,petersendaniel@hotmail.com,44,United Kingdom,Fashion,1133.52,5.0,2024-11-14,Cash,5667.6
+ORD101204,Anthony Powers,lduncan@hotmail.com,42,Turkey,Groceries,1133.52,2.0,2025-04-17,Transfer,2267.04
+ORD101205,Jennifer Gibson,karaboyle@yahoo.com,58,Ghana,Home,1200.0,2.0,2025-01-02,Transfer,2400.0
+ORD101206,Benjamin Becker,freemanerik@hotmail.com,69,Turkey,Electronics,500.0,1.0,2025-10-27,Card,500.0
+ORD101207,Christian Wells,brandonmurphy@yahoo.com,44,United Kingdom,Groceries,1500.0,2.0,2025-06-24,Card,3000.0
+ORD101208,Patricia Wheeler,christensensherri@gmail.com,37,United States,Groceries,1200.0,3.0,2024-02-28,Transfer,3600.0
+ORD101210,Rebecca Burke,crystal54@yahoo.com,63,United Kingdom,Home,1133.52,4.0,2026-02-08,Cash,4534.08
+ORD101211,Laura Davis,hectortucker@greer.com,21,United States,Fashion,2500.0,1.0,2024-09-12,Transfer,2500.0
+ORD101212,Matthew Harrison,,52,Turkey,Electronics,500.0,5.0,2024-08-23,Card,2500.0
+ORD101213,Morgan Martinez,shermantroy@gmail.com,44,Nigeria,Groceries,500.0,2.0,2024-04-16,Card,1000.0
+ORD101214,Anthony Hahn,torressarah@yahoo.com,69,Nigeria,Electronics,1133.52,1.0,2024-09-17,Card,1133.52
+ORD101215,David Gonzalez,josephjones@yahoo.com,62,United States,Home,2500.0,3.0,2025-10-05,Card,7500.0
+ORD101216,Michael Bell,gjohnson@yahoo.com,26,Ghana,Electronics,500.0,3.0,2025-07-21,Card,1500.0
+ORD101217,Russell White,anthony80@gomez.org,30,United States,Groceries,1200.0,1.0,2024-07-09,Transfer,1200.0
+ORD101218,Eric Kirby,brittneysanchez@yahoo.com,30,Nigeria,Electronics,1500.0,3.0,2024-06-12,Card,4500.0
+ORD101220,Daniel Taylor,dustin76@gonzalez.net,43,United States,Home,500.0,2.0,2025-07-13,Card,1000.0
+ORD101221,Daniel Boyd,gregory13@hotmail.com,33,United Kingdom,Groceries,499.99,2.0,2025-02-20,Card,999.98
+ORD101223,David Mcintyre,fwhitaker@hotmail.com,18,United States,Electronics,1133.52,1.0,2025-07-05,Card,1133.52
+ORD101224,Meredith Casey,rickrodgers@mathis.com,31,Nigeria,Electronics,500.0,1.0,2025-05-21,Transfer,500.0
+ORD101225,Jeffrey Hammond,donnawhite@yahoo.com,44,Nigeria,Electronics,500.0,2.0,2024-07-29,Transfer,1000.0
+ORD101226,Frank Erickson,watsonwilliam@thompson.net,51,Nigeria,Fashion,499.99,1.0,2025-09-14,Card,499.99
+ORD101227,Mrs. Alicia Allen DDS,jburgess@thomas.com,29,Ghana,Home,1200.0,2.0,2025-06-15,Cash,2400.0
+ORD101228,Dawn Kline,thomaswerner@gmail.com,64,Nigeria,Home,1500.0,2.0,2024-05-30,Card,3000.0
+ORD101230,Paula Johnson,johnathanabbott@chavez.com,55,Ghana,Electronics,1500.0,2.0,2026-01-05,Card,3000.0
+ORD101231,Shawn Rose,lauren82@hotmail.com,32,Nigeria,Groceries,2500.0,2.0,2024-09-10,Card,5000.0
+ORD101232,Kelli Olson,sflores@leon.org,26,Ghana,Fashion,500.0,2.0,2024-05-22,Card,1000.0
+ORD101233,Dillon Alvarez,stacyyoung@gmail.com,47,Turkey,Electronics,2500.0,1.0,2025-04-05,Transfer,2500.0
+ORD101234,Tina Copeland,dmaldonado@cain.com,20,United Kingdom,Fashion,500.0,2.0,2024-12-08,Cash,1000.0
+ORD101235,Brian Graham,william39@munoz-evans.com,35,Nigeria,Groceries,1200.0,5.0,2026-01-04,Card,6000.0
+ORD101236,Veronica Mills,jeremymiller@hotmail.com,27,Ghana,Groceries,499.99,1.0,2024-02-27,Card,499.99
+ORD101237,Tyler Gibson,zadkins@morris-wagner.com,49,Ghana,Electronics,499.99,1.0,2024-09-17,Cash,499.99
+ORD101239,Christian James,,44,United States,Fashion,1500.0,1.0,2024-07-24,Card,1500.0
+ORD101240,Jill Nichols,rherrera@scott-long.org,28,United States,Electronics,499.99,2.0,2024-12-06,Card,999.98
+ORD101243,Rachel Allison,sarahhowell@gmail.com,68,United States,Electronics,1200.0,2.0,2025-08-16,Card,2400.0
+ORD101244,Desiree Jacobs,hernandezmichelle@monroe.com,42,United States,Electronics,499.99,4.0,2025-08-03,Transfer,1999.96
+ORD101245,Tonya Hansen,weberstephanie@hotmail.com,66,Nigeria,Electronics,1133.52,3.0,2024-11-03,Card,3400.56
+ORD101246,Ann Morris,fjordan@proctor-mercado.com,35,Turkey,Electronics,500.0,5.0,2026-01-25,Card,2500.0
+ORD101247,Ethan Sanders,ykim@gmail.com,68,United States,Electronics,1133.52,2.0,2025-08-30,Card,2267.04
+ORD101248,Alexandra Dunn,serranolindsey@yahoo.com,45,Nigeria,Home,1500.0,4.0,2024-04-06,Card,6000.0
+ORD101249,Joshua Hawkins,tperry@gmail.com,60,Nigeria,Fashion,2500.0,1.0,2025-03-05,Card,2500.0
+ORD101250,James Page,gutierrezwilliam@merritt-barnett.org,54,Nigeria,Electronics,500.0,1.0,2025-08-25,Transfer,500.0
+ORD101251,Brittany Cabrera,justin91@ramos-miller.com,26,United States,Fashion,500.0,2.0,2024-12-13,Card,1000.0
+ORD101252,Peter Wilson,amyflores@yoder.com,42,United States,Home,1500.0,3.0,2025-12-28,Cash,4500.0
+ORD101253,Mark Hayes,qwalker@browning.com,36,United States,Electronics,2500.0,3.0,2025-08-05,Card,7500.0
+ORD101254,Joshua Wright,gonzalezsandra@moore-smith.com,40,United Kingdom,Fashion,1200.0,5.0,2024-05-17,Card,6000.0
+ORD101255,Cynthia Mack,stephaniegaines@guzman.biz,61,Nigeria,Groceries,499.99,1.0,2024-07-15,Cash,499.99
+ORD101256,Isabel Taylor,,44,Nigeria,Groceries,1200.0,4.0,2024-11-05,Transfer,4800.0
+ORD101257,Laurie Rangel,esalinas@rich.net,28,United States,Electronics,1200.0,4.0,2026-02-12,Card,4800.0
+ORD101258,Megan King,david34@yahoo.com,56,United States,Electronics,499.99,2.0,2024-02-24,Cash,999.98
+ORD101259,Charles Hudson,john74@green.info,63,Nigeria,Electronics,1500.0,3.0,2026-01-29,Transfer,4500.0
+ORD101260,Lori Hardin,allenperez@hodges.com,32,Turkey,Groceries,1133.52,3.0,2024-07-21,Cash,3400.56
+ORD101261,Charles Evans,,20,United Kingdom,Home,1133.52,3.0,2024-04-05,Cash,3400.56
+ORD101262,Kaylee Oliver,janetwalker@jackson.com,23,Nigeria,Home,499.99,5.0,2025-07-29,Transfer,2499.95
+ORD101263,Steven Carter,owengregory@evans.com,62,Nigeria,Electronics,1133.52,1.0,2024-08-18,Card,1133.52
+ORD101264,Teresa Bowers,khunter@farrell.net,34,Nigeria,Fashion,500.0,5.0,2026-02-08,Transfer,2500.0
+ORD101265,Mr. Kevin Johnson,jkeller@murray.biz,55,Ghana,Electronics,1133.52,3.0,2025-02-04,Card,3400.56
+ORD101267,Mary Jackson,,52,Ghana,Electronics,1500.0,2.0,2025-08-10,Transfer,3000.0
+ORD101268,Taylor Smith DVM,hmcdonald@gmail.com,43,Nigeria,Electronics,2500.0,2.0,2025-03-05,Transfer,5000.0
+ORD101269,James Diaz,qmullins@pierce.com,28,Nigeria,Groceries,2500.0,2.0,2025-12-01,Card,5000.0
+ORD101270,Catherine Montes,andersondaniel@cooley-marshall.com,24,Nigeria,Home,499.99,3.0,2025-12-11,Card,1499.97
+ORD101272,Ronald Lewis,cheryl14@george-hughes.info,33,United States,Fashion,500.0,1.0,2024-09-10,Card,500.0
+ORD101273,Donna Carlson,ronald62@stevens.com,44,United Kingdom,Groceries,499.99,4.0,2025-09-23,Cash,1999.96
+ORD101275,Mitchell Rivera,john22@stanley-holmes.com,63,United States,Fashion,1500.0,1.0,2025-01-27,Transfer,1500.0
+ORD101276,Tina Graham,,52,United Kingdom,Fashion,2500.0,3.0,2025-03-02,Card,7500.0
+ORD101277,Tiffany Doyle,,54,Ghana,Electronics,2500.0,4.0,2025-03-31,Card,10000.0
+ORD101278,Zachary Phillips,bmorse@gmail.com,54,Nigeria,Electronics,1200.0,2.0,2025-01-08,Cash,2400.0
+ORD101279,Brandy King,rothmichelle@johnson-jones.org,51,Nigeria,Fashion,500.0,2.0,2025-08-29,Transfer,1000.0
+ORD101280,Austin Klein,tammy95@thompson.com,41,United States,Fashion,1133.52,1.0,2024-04-05,Card,1133.52
+ORD101281,Patrick Wright,katherine32@gmail.com,66,United States,Fashion,500.0,2.0,2026-01-28,Cash,1000.0
+ORD101282,Ashley Marks,carteranthony@gmail.com,49,Nigeria,Groceries,500.0,1.0,2025-08-24,Card,500.0
+ORD101283,Jennifer Wilson DVM,lesliebooth@yahoo.com,36,Turkey,Fashion,2500.0,5.0,2024-10-11,Card,12500.0
+ORD101284,Lee Jensen,mckenzieamanda@grant.info,60,United States,Home,500.0,2.0,2024-04-18,Card,1000.0
+ORD101286,Troy Tucker,garciakevin@yahoo.com,68,United States,Home,1500.0,1.0,2025-10-15,Cash,1500.0
+ORD101287,Jennifer Jacobson,,44,Nigeria,Electronics,499.99,1.0,2025-02-16,Card,499.99
+ORD101288,Bradley Vargas,randallrichmond@king-hughes.com,66,United States,Electronics,1200.0,1.0,2024-03-07,Transfer,1200.0
+ORD101289,Ryan Delgado,brittany33@yahoo.com,38,Nigeria,Groceries,500.0,2.0,2024-06-28,Cash,1000.0
+ORD101290,Tony Vasquez,michael62@gmail.com,39,Ghana,Groceries,500.0,1.0,2024-08-27,Cash,500.0
+ORD101291,Cheryl Thomas,dgriffin@lambert.biz,43,United States,Groceries,500.0,3.0,2025-01-21,Transfer,1500.0
+ORD101292,Amber York,juliavargas@turner.org,60,United States,Electronics,500.0,2.0,2024-11-30,Card,1000.0
+ORD101293,Patrick Burton,,56,Turkey,Electronics,499.99,2.0,2025-12-05,Cash,999.98
+ORD101294,Nicole Baker,jeremy50@gmail.com,59,United States,Fashion,500.0,5.0,2025-11-29,Card,2500.0
+ORD101296,Sheri Kennedy,kenneth88@patterson.com,51,Ghana,Groceries,499.99,4.0,2026-01-11,Transfer,1999.96
+ORD101297,Haley Owen,mlee@lopez.com,44,Ghana,Electronics,2500.0,2.0,2024-04-22,Card,5000.0
+ORD101298,David Andrews,jakelopez@pugh-walker.com,60,United States,Electronics,2500.0,3.0,2025-12-14,Cash,7500.0
+ORD101299,James Thomas,carlamclaughlin@yahoo.com,58,United States,Groceries,2500.0,3.0,2024-04-01,Card,7500.0
+ORD101300,Bradley Brown,dmiddleton@yahoo.com,58,United Kingdom,Groceries,500.0,2.0,2024-03-30,Transfer,1000.0
+ORD101301,Rebecca Pierce,steveyoung@gmail.com,25,United Kingdom,Groceries,499.99,3.0,2024-10-15,Transfer,1499.97
+ORD101302,Kelly Long,renee08@ortiz-henderson.info,61,United Kingdom,Fashion,500.0,5.0,2025-06-20,Cash,2500.0
+ORD101303,Jamie Santos,santanajames@yahoo.com,56,United Kingdom,Groceries,2500.0,1.0,2025-05-31,Card,2500.0
+ORD101304,Justin Abbott,terri21@mckay-wagner.net,45,Nigeria,Electronics,500.0,1.0,2024-06-18,Card,500.0
+ORD101306,David Kent MD,mcdonaldpamela@alexander-marquez.org,34,Ghana,Home,1200.0,3.0,2025-09-27,Card,3600.0
+ORD101307,Ronald Price,williamsmarcus@yahoo.com,64,United Kingdom,Fashion,1500.0,4.0,2024-09-08,Cash,6000.0
+ORD101308,Anthony Miller,fmiller@carpenter.com,47,Nigeria,Electronics,500.0,4.0,2024-12-11,Card,2000.0
+ORD101309,Andrew Green,zedwards@hotmail.com,28,United Kingdom,Electronics,1133.52,3.0,2024-11-18,Cash,3400.56
+ORD101310,Michael Nicholson,christopher13@gmail.com,26,Turkey,Electronics,1200.0,1.0,2025-11-09,Card,1200.0
+ORD101311,Anne Landry,heathersantos@yahoo.com,41,Nigeria,Groceries,1133.52,5.0,2025-04-18,Card,5667.6
+ORD101313,Omar Rogers,,18,United States,Home,500.0,1.0,2025-03-29,Transfer,500.0
+ORD101314,David Garcia,ymcintosh@johnson-boyd.biz,58,Ghana,Home,500.0,1.0,2025-03-12,Cash,500.0
+ORD101316,Alexandra Stark,xedwards@gmail.com,18,Nigeria,Electronics,1200.0,1.0,2025-09-17,Card,1200.0
+ORD101318,Keith Hawkins,ahill@brown-brooks.info,46,Turkey,Fashion,1133.52,1.0,2025-01-24,Card,1133.52
+ORD101319,Jennifer Carter,samuel67@gmail.com,69,United States,Groceries,2500.0,1.0,2025-07-19,Cash,2500.0
+ORD101320,William Shields,brian76@barnes-kim.com,24,Nigeria,Electronics,1500.0,1.0,2024-07-19,Cash,1500.0
+ORD101321,Steven Ortega,megan24@gmail.com,30,Nigeria,Fashion,2500.0,2.0,2024-02-26,Card,5000.0
+ORD101322,Alicia Phillips,dellison@pierce-lynch.com,59,United States,Electronics,2500.0,1.0,2024-06-24,Cash,2500.0
+ORD101324,Howard Hess,ballaustin@hotmail.com,21,United States,Electronics,2500.0,5.0,2024-06-27,Cash,12500.0
+ORD101326,Gerald Perez,,68,Ghana,Electronics,1200.0,4.0,2025-12-19,Cash,4800.0
+ORD101327,Christopher Reynolds,sarahcook@dixon.info,51,Nigeria,Electronics,1500.0,5.0,2024-04-23,Card,7500.0
+ORD101328,Troy Bishop,jamessmith@gmail.com,67,Turkey,Groceries,2500.0,4.0,2025-02-13,Transfer,10000.0
+ORD101329,Marcus Riley,vasquezheather@adams.biz,44,United States,Electronics,499.99,1.0,2024-11-23,Card,499.99
+ORD101330,Jonathan Morgan,xcordova@mccoy.biz,43,Nigeria,Fashion,500.0,3.0,2024-11-19,Card,1500.0
+ORD101332,Larry Pollard,derekguzman@hotmail.com,51,Nigeria,Electronics,1500.0,3.0,2025-03-24,Transfer,4500.0
+ORD101333,Samuel King,,21,Nigeria,Groceries,1500.0,1.0,2025-12-06,Transfer,1500.0
+ORD101334,Chase Smith,jasonleonard@gmail.com,34,Nigeria,Electronics,1500.0,1.0,2025-01-03,Transfer,1500.0
+ORD101335,Melissa Walls,kathylewis@garrett.com,44,Nigeria,Groceries,1200.0,2.0,2024-08-17,Transfer,2400.0
+ORD101336,Megan Hill,kzamora@hill.com,30,Nigeria,Fashion,1133.52,2.0,2024-06-07,Transfer,2267.04
+ORD101337,Micheal Parker,diane19@gmail.com,43,Nigeria,Groceries,1200.0,5.0,2025-08-07,Transfer,6000.0
+ORD101338,Randy Hansen,emilygreen@yahoo.com,54,Nigeria,Fashion,1500.0,3.0,2025-01-10,Card,4500.0
+ORD101339,Nicole Fleming,jamescallahan@gmail.com,65,United States,Fashion,499.99,1.0,2025-03-03,Transfer,499.99
+ORD101340,Leslie Herring,yandrade@charles-strong.com,65,United States,Electronics,1133.52,2.0,2025-08-11,Card,2267.04
+ORD101341,Johnny Evans,jennifer98@yahoo.com,31,Ghana,Electronics,2500.0,5.0,2026-01-08,Card,12500.0
+ORD101343,George Goodwin,qwilliamson@whitehead.com,63,Nigeria,Fashion,1200.0,1.0,2024-11-16,Card,1200.0
+ORD101344,Larry Navarro,layala@hotmail.com,26,United States,Groceries,1200.0,2.0,2025-06-22,Cash,2400.0
+ORD101345,Johnny Lyons,jacksonamy@yahoo.com,53,Ghana,Electronics,1133.52,2.0,2024-10-29,Transfer,2267.04
+ORD101346,Gina Ayers,djones@gmail.com,44,Turkey,Electronics,499.99,4.0,2024-04-18,Cash,1999.96
+ORD101347,Gregory Bauer,,39,Ghana,Groceries,499.99,2.0,2025-05-15,Card,999.98
+ORD101349,Barbara Campbell,bnelson@hotmail.com,61,Nigeria,Groceries,499.99,4.0,2024-11-02,Transfer,1999.96
+ORD101350,Kara Ramirez,samanthahernandez@carter.com,43,Nigeria,Home,500.0,1.0,2025-12-17,Transfer,500.0
+ORD101351,Casey Harrell,alexblevins@hotmail.com,35,Ghana,Groceries,500.0,1.0,2025-07-21,Card,500.0
+ORD101353,Erica Johnson,sabrinadunn@brown-lang.com,52,United States,Electronics,1133.52,1.0,2025-01-28,Card,1133.52
+ORD101354,Todd Livingston,,39,United States,Groceries,1500.0,4.0,2024-10-30,Transfer,6000.0
+ORD101355,Emily Johnson,amy71@harris.net,60,Ghana,Electronics,1133.52,3.0,2025-01-15,Card,3400.56
+ORD101357,Mary Campbell,taylorsarah@davis.com,56,Nigeria,Groceries,1500.0,1.0,2025-03-18,Cash,1500.0
+ORD101358,Joshua Garcia,annette15@gmail.com,50,United States,Electronics,1200.0,2.0,2025-03-20,Cash,2400.0
+ORD101359,Vanessa Farmer,drush@smith-valencia.biz,56,United States,Groceries,500.0,2.0,2024-08-16,Card,1000.0
+ORD101360,Brian Graves,davidfrank@dean.com,32,Nigeria,Electronics,1200.0,2.0,2024-06-17,Card,2400.0
+ORD101363,Jeremy Robbins,gregory10@gmail.com,23,United States,Fashion,500.0,2.0,2025-10-07,Card,1000.0
+ORD101364,Victoria Wiggins,richardsonstephanie@vaughan-miller.com,39,Nigeria,Groceries,1200.0,3.0,2024-02-26,Cash,3600.0
+ORD101365,Ryan Anderson,ramosdiane@hotmail.com,50,Turkey,Home,1200.0,3.0,2025-07-19,Card,3600.0
+ORD101366,Robin West,carriepatterson@hotmail.com,65,United Kingdom,Home,2500.0,4.0,2025-02-05,Card,10000.0
+ORD101367,Victoria Nguyen,davidkerr@clayton.com,68,United States,Electronics,500.0,5.0,2024-09-04,Card,2500.0
+ORD101368,Michael Conley,stephen56@hart.com,58,Turkey,Groceries,1500.0,1.0,2025-06-05,Card,1500.0
+ORD101369,Devin Roberts,thompsontina@jacobs.biz,44,United Kingdom,Fashion,1500.0,2.0,2025-01-28,Transfer,3000.0
+ORD101370,Jessica Davis,adam67@hotmail.com,46,Nigeria,Electronics,500.0,2.0,2024-06-19,Cash,1000.0
+ORD101371,Susan Hoffman,michaelpotts@davis.net,38,Ghana,Groceries,1500.0,2.0,2024-03-31,Card,3000.0
+ORD101372,Michelle Carter,murilloedward@lopez-davila.com,23,United Kingdom,Electronics,500.0,3.0,2025-11-18,Cash,1500.0
+ORD101373,Kendra Gibbs,,18,United States,Electronics,500.0,5.0,2026-01-20,Cash,2500.0
+ORD101374,Cody Williams,johnandrews@blackwell.net,68,Nigeria,Fashion,1200.0,3.0,2024-05-23,Card,3600.0
+ORD101376,Stephanie White,jamesburns@gmail.com,22,United States,Groceries,1200.0,3.0,2025-10-14,Transfer,3600.0
+ORD101378,Rachael Smith,,67,United States,Electronics,1200.0,2.0,2026-01-15,Transfer,2400.0
+ORD101379,Nicholas Norman,ljones@hotmail.com,18,United States,Electronics,1133.52,1.0,2026-02-03,Card,1133.52
+ORD101380,Kelly Nguyen,gabrielle90@yahoo.com,47,United Kingdom,Electronics,1200.0,2.0,2024-09-22,Cash,2400.0
+ORD101381,Amber Kerr,peggy54@mcclain-frost.com,35,United States,Electronics,1200.0,4.0,2024-12-05,Card,4800.0
+ORD101382,Samantha Garrett,cohenkelly@yahoo.com,30,United Kingdom,Groceries,499.99,4.0,2025-12-07,Transfer,1999.96
+ORD101383,Mr. James Chavez,brianfrost@yahoo.com,20,Turkey,Groceries,1200.0,5.0,2024-04-26,Cash,6000.0
+ORD101384,Sara Bennett,jasonwise@love-thomas.com,42,United States,Electronics,1200.0,2.0,2024-10-17,Transfer,2400.0
+ORD101385,James Olsen,joelsherman@gross-randall.net,19,United Kingdom,Electronics,500.0,4.0,2026-02-01,Card,2000.0
+ORD101386,Michael Washington,qarnold@medina-anderson.com,61,Nigeria,Groceries,2500.0,2.0,2024-10-04,Cash,5000.0
+ORD101390,Lynn Lawrence,ana01@lane.com,44,Nigeria,Electronics,1200.0,5.0,2025-06-07,Card,6000.0
+ORD101391,Cody Koch,john06@hotmail.com,27,Nigeria,Electronics,499.99,5.0,2025-03-04,Cash,2499.95
+ORD101392,David Johnson,kleinmelanie@alexander-sullivan.com,46,United States,Electronics,499.99,3.0,2024-04-14,Card,1499.97
+ORD101394,Laura Ford,jerry40@hotmail.com,32,Nigeria,Groceries,500.0,5.0,2024-10-08,Card,2500.0
+ORD101395,Brian Lam,mariarocha@hotmail.com,63,Turkey,Electronics,1500.0,3.0,2025-03-08,Card,4500.0
+ORD101396,Linda Lee,andrew67@mcclain.com,40,United Kingdom,Home,499.99,5.0,2025-01-09,Cash,2499.95
+ORD101397,Lauren Johnson,bwells@gmail.com,44,United States,Electronics,1133.52,1.0,2024-04-20,Card,1133.52
+ORD101398,Mindy Craig,vtaylor@gmail.com,40,Ghana,Electronics,499.99,3.0,2026-01-19,Card,1499.97
+ORD101399,Alex Curry,mark35@brown.biz,39,Nigeria,Electronics,1200.0,3.0,2025-07-19,Card,3600.0
+ORD101400,Sharon Mills,,46,Nigeria,Fashion,500.0,4.0,2024-12-16,Card,2000.0
+ORD101401,Richard Wright,jacobsdavid@gmail.com,34,Nigeria,Electronics,499.99,4.0,2024-09-09,Card,1999.96
+ORD101402,Todd Norris,jenniferbruce@mcgrath.com,64,Ghana,Electronics,1133.52,1.0,2026-01-08,Cash,1133.52
+ORD101403,Jeffrey Wood,andrea46@gmail.com,42,United States,Groceries,500.0,2.0,2024-05-13,Card,1000.0
+ORD101404,Matthew Barker,,29,United States,Fashion,1200.0,4.0,2024-11-06,Cash,4800.0
+ORD101405,Andrea Wilson,jose33@gmail.com,36,United Kingdom,Groceries,500.0,3.0,2025-02-16,Card,1500.0
+ORD101409,Carol Yang,kathryn26@hotmail.com,69,United States,Electronics,500.0,4.0,2025-08-22,Card,2000.0
+ORD101410,Michael Huber,hrodriguez@bell.net,49,Nigeria,Electronics,500.0,1.0,2024-02-22,Card,500.0
+ORD101411,Aaron Price,emily41@walsh.net,35,United Kingdom,Groceries,500.0,3.0,2025-03-28,Card,1500.0
+ORD101412,Tom Barnett,tthompson@hotmail.com,27,Nigeria,Home,499.99,2.0,2025-12-18,Card,999.98
+ORD101413,Daniel Carlson,uduarte@yahoo.com,19,United States,Groceries,1200.0,4.0,2025-07-31,Transfer,4800.0
+ORD101414,Jonathan Flores,brownkelly@yahoo.com,39,United States,Fashion,500.0,1.0,2024-12-28,Cash,500.0
+ORD101415,Jonathan Watson,jason27@yahoo.com,59,Nigeria,Groceries,1500.0,3.0,2024-02-23,Transfer,4500.0
+ORD101416,Carla Moore,,46,Nigeria,Fashion,1200.0,2.0,2024-04-10,Cash,2400.0
+ORD101417,Victoria Ramirez,hermanmichael@gmail.com,44,Nigeria,Electronics,1133.52,2.0,2024-07-04,Card,2267.04
+ORD101418,Amy Knapp,pturner@yahoo.com,60,Turkey,Groceries,499.99,3.0,2024-07-10,Card,1499.97
+ORD101419,William Young,rebecca91@carter.biz,59,Ghana,Groceries,1200.0,2.0,2025-12-28,Card,2400.0
+ORD101420,Anthony Rice,youngsusan@campos.org,36,United States,Electronics,2500.0,1.0,2025-04-10,Cash,2500.0
+ORD101421,Marvin Bernard,tberger@burch.com,50,Ghana,Electronics,2500.0,1.0,2024-03-31,Card,2500.0
+ORD101423,Chase Kaufman,munozfelicia@gmail.com,27,United States,Groceries,1500.0,2.0,2024-04-29,Card,3000.0
+ORD101424,Steven Walton,harveyrobert@mayer.info,44,United Kingdom,Groceries,500.0,2.0,2024-06-30,Transfer,1000.0
+ORD101425,Victor Smith,austin49@yahoo.com,53,United States,Electronics,1133.52,2.0,2024-05-16,Transfer,2267.04
+ORD101426,Mark Solis,allenheidi@hotmail.com,56,United States,Electronics,500.0,2.0,2024-07-01,Card,1000.0
+ORD101428,Maria Perkins,hawkinssean@hotmail.com,24,Ghana,Electronics,1500.0,5.0,2025-04-01,Card,7500.0
+ORD101429,Priscilla Williams,kmills@yahoo.com,33,Nigeria,Electronics,500.0,2.0,2024-11-20,Cash,1000.0
+ORD101430,Vicki Parks,,51,United States,Home,1133.52,5.0,2024-03-21,Card,5667.6
+ORD101431,Amanda Jordan,ychavez@reid-leon.com,39,United States,Groceries,499.99,2.0,2024-10-02,Card,999.98
+ORD101432,Samantha Daugherty,andrea49@gmail.com,47,United Kingdom,Groceries,2500.0,2.0,2025-02-28,Card,5000.0
+ORD101433,Kelli Marshall,flane@nelson.com,60,United States,Fashion,499.99,2.0,2024-11-13,Card,999.98
+ORD101434,Rachel Patel,,26,Nigeria,Electronics,500.0,4.0,2025-11-22,Cash,2000.0
+ORD101436,Renee Reese,eric46@berry.com,62,Nigeria,Electronics,2500.0,4.0,2025-09-18,Card,10000.0
+ORD101437,Brenda Parrish,clayton44@hotmail.com,29,Nigeria,Electronics,1500.0,1.0,2024-08-22,Transfer,1500.0
+ORD101438,Debra Graham,amy37@hotmail.com,35,Nigeria,Home,2500.0,1.0,2025-03-10,Cash,2500.0
+ORD101439,Ashley Osborne,johnhess@gmail.com,44,United States,Fashion,500.0,2.0,2026-02-08,Card,1000.0
+ORD101440,Emily Parker,jessica45@yahoo.com,45,Ghana,Home,499.99,1.0,2025-08-11,Card,499.99
+ORD101441,Jacob Bryan,jenniferreyes@hotmail.com,26,Nigeria,Electronics,499.99,1.0,2025-02-18,Card,499.99
+ORD101442,Tina Alvarado,kristophercalhoun@matthews-king.com,47,Nigeria,Electronics,1200.0,1.0,2025-07-28,Card,1200.0
+ORD101443,Scott Watson,watersdiana@gmail.com,58,Ghana,Groceries,1200.0,2.0,2025-02-27,Card,2400.0
+ORD101444,Mary Gardner,bakermichael@cabrera.com,28,Nigeria,Fashion,500.0,1.0,2024-08-17,Card,500.0
+ORD101445,Timothy Brandt,iwalker@gmail.com,59,Ghana,Home,1133.52,4.0,2025-09-13,Cash,4534.08
+ORD101446,Ronald Barker,steelekaren@yahoo.com,49,United States,Fashion,500.0,2.0,2026-01-21,Cash,1000.0
+ORD101449,Brandon Castro,hunterglen@gmail.com,24,Nigeria,Groceries,499.99,5.0,2024-07-17,Transfer,2499.95
+ORD101450,Tina Phillips,,47,United States,Electronics,2500.0,5.0,2025-08-08,Card,12500.0
+ORD101451,Angela Harding,brandon04@yahoo.com,28,United States,Electronics,499.99,2.0,2025-04-08,Cash,999.98
+ORD101452,Jacqueline Summers,julie46@moore.org,35,Turkey,Electronics,499.99,2.0,2025-07-27,Card,999.98
+ORD101453,Patrick Sampson,laura70@kelly.com,26,United Kingdom,Fashion,499.99,2.0,2024-04-27,Card,999.98
+ORD101455,Heather Farley,sherry89@gmail.com,27,Nigeria,Fashion,2500.0,4.0,2025-05-04,Transfer,10000.0
+ORD101456,Daniel Robinson,audrey05@flores.org,59,Nigeria,Groceries,1133.52,4.0,2026-01-17,Transfer,4534.08
+ORD101457,Kevin Carter,gardnermelinda@price.net,47,Nigeria,Home,1133.52,2.0,2025-09-12,Transfer,2267.04
+ORD101458,Kathy Snyder,deckerjulie@gmail.com,65,Nigeria,Groceries,500.0,3.0,2024-03-14,Card,1500.0
+ORD101459,Nicholas Miller,jamiehall@gmail.com,68,Ghana,Electronics,1200.0,5.0,2025-10-20,Card,6000.0
+ORD101460,Sydney Johnson MD,mrice@foster.net,27,Nigeria,Fashion,1200.0,3.0,2024-11-17,Transfer,3600.0
+ORD101461,Elizabeth Boyer,lindsey54@hotmail.com,19,Nigeria,Home,500.0,1.0,2025-03-25,Transfer,500.0
+ORD101462,Jacob Smith,allenbrenda@hotmail.com,48,Nigeria,Home,1500.0,2.0,2024-10-07,Cash,3000.0
+ORD101463,Paul Norton,tiffany51@jackson.com,37,United Kingdom,Fashion,500.0,2.0,2025-11-24,Transfer,1000.0
+ORD101464,Claudia Smith,wking@gmail.com,34,Ghana,Fashion,500.0,4.0,2025-09-03,Cash,2000.0
+ORD101465,Jeffrey Watkins,jerome50@wright-taylor.info,40,Nigeria,Electronics,2500.0,1.0,2024-04-15,Card,2500.0
+ORD101466,Sierra Smith,lopezsherry@roach.net,57,United States,Groceries,1200.0,1.0,2025-05-09,Card,1200.0
+ORD101467,Jeffrey Giles,robertcunningham@gmail.com,20,United States,Groceries,500.0,1.0,2025-01-14,Transfer,500.0
+ORD101468,Alicia Armstrong,cgreen@yahoo.com,37,United States,Groceries,499.99,1.0,2025-03-02,Card,499.99
+ORD101470,April Morris,johnsmith@hotmail.com,65,Nigeria,Fashion,1200.0,4.0,2025-06-05,Card,4800.0
+ORD101471,Jessica Jenkins,william18@yahoo.com,37,Nigeria,Fashion,1133.52,2.0,2024-07-22,Cash,2267.04
+ORD101472,Catherine Nelson,ksmith@terry.com,54,Nigeria,Electronics,500.0,5.0,2024-06-16,Card,2500.0
+ORD101473,Caroline Willis,catherinecook@yahoo.com,21,Ghana,Electronics,500.0,2.0,2026-01-28,Card,1000.0
+ORD101474,Mackenzie Bates,nortonwilliam@hotmail.com,44,Nigeria,Electronics,499.99,4.0,2025-08-17,Cash,1999.96
+ORD101475,Kelly Roberts,johnruiz@ford.com,52,United Kingdom,Fashion,1200.0,5.0,2024-10-27,Card,6000.0
+ORD101476,Shawn Massey Jr.,pam95@schultz.com,52,Nigeria,Electronics,1500.0,3.0,2025-03-13,Cash,4500.0
+ORD101477,Ms. Marilyn Taylor,pamela64@gmail.com,54,Nigeria,Groceries,2500.0,3.0,2025-04-07,Card,7500.0
+ORD101478,Stephanie Payne,alexis82@yahoo.com,22,Turkey,Groceries,500.0,5.0,2024-06-20,Transfer,2500.0
+ORD101479,Sandra Dunn,michael88@gmail.com,26,Ghana,Groceries,500.0,2.0,2024-04-19,Cash,1000.0
+ORD101480,Veronica Parks,timothymendoza@yahoo.com,44,Turkey,Electronics,500.0,1.0,2025-03-14,Card,500.0
+ORD101482,Karla Chan MD,jacksonallison@smith.com,23,Nigeria,Electronics,500.0,1.0,2025-03-02,Card,500.0
+ORD101483,Dr. Patricia Mcbride,fdrake@wilson.com,32,United States,Electronics,1500.0,4.0,2024-05-09,Card,6000.0
+ORD101485,Alex Alexander,tcraig@jenkins-griffin.com,45,Turkey,Electronics,1200.0,5.0,2025-04-25,Card,6000.0
+ORD101487,Virginia Gonzalez DVM,riveranicholas@hull.org,59,Ghana,Electronics,499.99,2.0,2026-02-07,Transfer,999.98
+ORD101488,Carrie Ryan,makaylahamilton@hotmail.com,68,Nigeria,Groceries,1200.0,1.0,2025-01-10,Transfer,1200.0
+ORD101489,Mr. Norman Wyatt,,44,Nigeria,Fashion,1133.52,1.0,2024-12-30,Cash,1133.52
+ORD101491,Mr. Benjamin Page,david50@hotmail.com,66,United States,Home,500.0,3.0,2025-10-21,Cash,1500.0
+ORD101492,Matthew Snyder,djohnson@jones-singh.com,30,Nigeria,Electronics,499.99,5.0,2025-01-03,Cash,2499.95
+ORD101493,Joseph Rivera,kathleenmartinez@stuart-williams.com,20,United States,Groceries,499.99,3.0,2025-10-09,Cash,1499.97
+ORD101494,Cynthia Clarke,clarkmeghan@gmail.com,52,Nigeria,Electronics,1200.0,3.0,2024-08-18,Card,3600.0
+ORD101495,Shannon Fox,larry58@gmail.com,35,Ghana,Fashion,2500.0,1.0,2025-07-13,Cash,2500.0
+ORD101496,Eric Bryant,ugriffin@gmail.com,58,Ghana,Electronics,1200.0,1.0,2025-09-03,Transfer,1200.0
+ORD101497,Chelsea Duncan,lauragriffin@perez.com,35,Nigeria,Home,1200.0,5.0,2025-12-26,Transfer,6000.0
+ORD101498,Megan Anderson,zchase@robertson-gray.com,69,Turkey,Home,1500.0,3.0,2025-10-07,Cash,4500.0
+ORD101499,Sean Pierce,heidi01@jackson-cordova.com,35,United States,Groceries,1133.52,3.0,2025-10-24,Transfer,3400.56
+ORD101500,James Wallace,brittany61@hotmail.com,57,United States,Groceries,1200.0,1.0,2025-10-09,Card,1200.0
+ORD101501,Michele Munoz,orobinson@barnes.net,44,Nigeria,Fashion,1133.52,3.0,2024-06-21,Card,3400.56
+ORD101502,Chad Herrera,clarkjames@yahoo.com,34,United Kingdom,Groceries,499.99,4.0,2025-12-17,Transfer,1999.96
+ORD101503,Elizabeth Sullivan,charper@love-dunlap.net,45,Nigeria,Groceries,1200.0,1.0,2025-01-10,Transfer,1200.0
+ORD101504,Michael Williams,vjohnston@gmail.com,29,United States,Home,1500.0,1.0,2024-06-08,Cash,1500.0
+ORD101505,Sherri Young,adamsthomas@hotmail.com,20,United Kingdom,Home,1133.52,3.0,2024-03-06,Cash,3400.56
+ORD101506,Michael Cervantes,erinrice@yahoo.com,44,Nigeria,Fashion,2500.0,3.0,2026-01-06,Cash,7500.0
+ORD101507,Mary Ramos,williamking@cordova.com,46,United States,Groceries,1133.52,2.0,2025-02-12,Card,2267.04
+ORD101508,Dawn Green,larry51@stephenson.biz,26,United States,Home,1133.52,3.0,2025-01-09,Card,3400.56
+ORD101510,Tracie Tran,revans@gmail.com,35,United States,Electronics,500.0,5.0,2026-01-05,Cash,2500.0
+ORD101512,Dustin Bass,johnsongloria@gmail.com,35,Ghana,Electronics,2500.0,1.0,2025-05-19,Card,2500.0
+ORD101513,Eric Brown,kking@gmail.com,33,United States,Fashion,500.0,2.0,2024-11-24,Card,1000.0
+ORD101514,Damon Sanchez III,carrangie@gmail.com,30,United States,Groceries,500.0,3.0,2024-06-04,Card,1500.0
+ORD101515,Brittany Kelley,thall@payne.com,33,Turkey,Fashion,500.0,5.0,2024-07-30,Cash,2500.0
+ORD101516,William Allen,ivanmunoz@yahoo.com,66,Nigeria,Groceries,500.0,5.0,2025-09-14,Card,2500.0
+ORD101517,John Gallagher,tamara83@bailey.net,18,Turkey,Fashion,1133.52,1.0,2025-12-28,Cash,1133.52
+ORD101518,Regina Baker,raybrittney@hotmail.com,22,Nigeria,Home,1133.52,2.0,2025-04-03,Cash,2267.04
+ORD101519,Justin Lewis,mallory26@yahoo.com,58,Nigeria,Groceries,500.0,1.0,2025-05-23,Card,500.0
+ORD101520,Ronald Lewis,suttonkristen@berry.com,38,Ghana,Fashion,499.99,1.0,2025-08-18,Card,499.99
+ORD101521,Kristen Harris,ujohnson@kent.net,67,United Kingdom,Electronics,1200.0,3.0,2025-02-10,Transfer,3600.0
+ORD101522,Sean Stark,michellesexton@ross.biz,62,Nigeria,Fashion,500.0,2.0,2024-03-31,Cash,1000.0
+ORD101524,Michael Garcia,aprilhamilton@walter-hanna.biz,29,United States,Fashion,499.99,1.0,2024-11-13,Transfer,499.99
+ORD101525,Paula Hill,dwhite@gmail.com,63,United States,Groceries,1500.0,1.0,2024-03-13,Card,1500.0
+ORD101526,Derrick Mccormick,nparrish@fisher.com,44,Ghana,Electronics,500.0,2.0,2025-07-06,Card,1000.0
+ORD101527,William Smith,william33@miller.org,30,United States,Electronics,2500.0,3.0,2026-02-12,Transfer,7500.0
+ORD101528,Tamara Bowman,,62,Ghana,Electronics,1500.0,4.0,2024-09-03,Card,6000.0
+ORD101530,Mr. Joseph Allen,zbarron@robertson-finley.biz,41,United Kingdom,Groceries,1500.0,2.0,2025-08-24,Card,3000.0
+ORD101531,Jonathan Long,hpadilla@ware.info,37,United Kingdom,Groceries,499.99,2.0,2024-07-31,Transfer,999.98
+ORD101535,Christopher Pierce,,34,United States,Electronics,499.99,2.0,2025-04-04,Card,999.98
+ORD101536,Angela Brennan,jacquelineowens@yahoo.com,69,United Kingdom,Electronics,1500.0,1.0,2025-04-14,Transfer,1500.0
+ORD101537,Kyle Walker,delgadodorothy@perez.com,64,Nigeria,Home,2500.0,1.0,2025-04-17,Transfer,2500.0
+ORD101538,Jo Walker MD,alvarezjonathan@hotmail.com,35,United States,Groceries,499.99,2.0,2025-07-27,Cash,999.98
+ORD101539,Hannah Khan,nhill@strong-tucker.com,41,Nigeria,Fashion,1133.52,5.0,2025-12-12,Card,5667.6
+ORD101540,Amanda Black,carlosbutler@boone-travis.com,31,Nigeria,Home,500.0,3.0,2025-05-11,Cash,1500.0
+ORD101541,Stephen Delacruz,,67,United States,Electronics,500.0,1.0,2024-05-04,Card,500.0
+ORD101542,Vanessa Schultz,travisthompson@calhoun.com,55,United States,Electronics,1133.52,5.0,2024-05-23,Card,5667.6
+ORD101543,Wendy Ward,timothy40@hotmail.com,33,Nigeria,Fashion,499.99,1.0,2025-02-19,Transfer,499.99
+ORD101544,Dale Hall,,30,United States,Groceries,1200.0,1.0,2026-01-12,Transfer,1200.0
+ORD101545,Patricia King,leslieyang@turner.com,27,Nigeria,Electronics,499.99,1.0,2024-07-17,Card,499.99
+ORD101546,Yvonne Gallegos,autumn18@davis.com,29,United States,Electronics,499.99,1.0,2025-02-25,Card,499.99
+ORD101547,Connie Clark,joanpayne@hotmail.com,19,United States,Electronics,500.0,3.0,2025-01-29,Card,1500.0
+ORD101548,Lonnie Craig,ybrady@doyle.com,32,United States,Electronics,1500.0,1.0,2024-02-24,Card,1500.0
+ORD101549,Jason Mercado,,67,Ghana,Home,500.0,2.0,2025-06-09,Transfer,1000.0
+ORD101551,Judith Sims,,31,United Kingdom,Electronics,500.0,5.0,2024-06-01,Card,2500.0
+ORD101552,Kristin Gonzales,adamsvanessa@jones-peterson.com,27,United States,Electronics,500.0,3.0,2025-08-12,Card,1500.0
+ORD101553,Catherine Cummings,tcooley@yahoo.com,39,Nigeria,Fashion,1200.0,1.0,2025-12-26,Card,1200.0
+ORD101554,Douglas Gibson,garciaandrew@winters.biz,38,Turkey,Electronics,499.99,1.0,2024-12-19,Cash,499.99
+ORD101556,Tonya Garcia,jessicayoung@hotmail.com,60,United Kingdom,Home,1500.0,2.0,2025-08-22,Transfer,3000.0
+ORD101557,Michael Smith,justinramirez@gmail.com,27,United States,Groceries,1200.0,4.0,2025-04-25,Cash,4800.0
+ORD101560,Mariah James,seth48@gmail.com,53,United States,Fashion,1133.52,3.0,2026-01-29,Cash,3400.56
+ORD101561,Joshua Graham,patrick35@daniels-frazier.com,41,Nigeria,Groceries,1500.0,2.0,2025-02-11,Card,3000.0
+ORD101562,Jordan Bradley,zmason@gmail.com,58,United States,Home,500.0,4.0,2025-09-15,Cash,2000.0
+ORD101563,Megan Suarez,jesse43@martin.com,35,Nigeria,Electronics,2500.0,2.0,2025-04-27,Transfer,5000.0
+ORD101564,Jennifer Ibarra,mirandamendez@hotmail.com,53,United States,Electronics,500.0,5.0,2026-01-25,Card,2500.0
+ORD101565,Amanda Henderson,nicolelynch@casey.info,68,United States,Electronics,1133.52,3.0,2025-03-30,Card,3400.56
+ORD101566,Carolyn Rose,kingsarah@hotmail.com,53,Nigeria,Electronics,1200.0,1.0,2025-01-18,Transfer,1200.0
+ORD101567,Kimberly Reed,ggomez@hotmail.com,58,Nigeria,Fashion,1200.0,2.0,2025-10-06,Transfer,2400.0
+ORD101568,Jessica Berry,monicasnyder@burton.info,27,United Kingdom,Electronics,499.99,3.0,2024-07-03,Card,1499.97
+ORD101569,Shane Barron,kennethwade@yahoo.com,52,Nigeria,Fashion,500.0,2.0,2024-07-17,Transfer,1000.0
+ORD101570,Erika Chandler,burnettteresa@williams.info,36,United Kingdom,Groceries,1500.0,4.0,2025-06-01,Card,6000.0
+ORD101571,Jonathan Berry,olee@mendez.com,56,Nigeria,Groceries,500.0,4.0,2025-11-14,Card,2000.0
+ORD101572,Todd Bennett,fdiaz@hotmail.com,22,Turkey,Electronics,500.0,5.0,2024-06-16,Card,2500.0
+ORD101573,Deborah Reyes,jwallace@jarvis-hunt.com,42,United States,Electronics,1200.0,3.0,2024-10-09,Transfer,3600.0
+ORD101575,Tyler Johnson,chenethan@gmail.com,27,Nigeria,Fashion,2500.0,4.0,2024-10-24,Card,10000.0
+ORD101577,Shannon Jones,glasskristen@yahoo.com,40,United States,Home,500.0,5.0,2024-09-08,Card,2500.0
+ORD101578,Mrs. Nicole Powers,eparks@whitaker.com,62,Nigeria,Groceries,500.0,2.0,2025-02-23,Cash,1000.0
+ORD101580,Andrea Scott,,33,United States,Home,499.99,5.0,2024-10-26,Cash,2499.95
+ORD101582,Taylor Martinez,llloyd@brady.com,37,Nigeria,Groceries,499.99,4.0,2025-12-11,Transfer,1999.96
+ORD101583,David Jackson,harrismichele@ayala.com,44,United States,Home,1200.0,1.0,2024-04-28,Card,1200.0
+ORD101585,Lawrence Russell,michaelkirby@gmail.com,48,United States,Fashion,2500.0,1.0,2025-02-24,Cash,2500.0
+ORD101587,Michelle Aguirre,karencole@hotmail.com,22,United Kingdom,Electronics,499.99,1.0,2024-02-18,Card,499.99
+ORD101588,Walter Lane,shannon14@taylor.com,35,Turkey,Electronics,500.0,3.0,2025-09-09,Cash,1500.0
+ORD101589,Richard Owens,zcook@thompson-rubio.com,44,United Kingdom,Home,1500.0,2.0,2025-12-08,Cash,3000.0
+ORD101590,Craig Rodriguez,mendezkristen@perez-nguyen.com,51,United States,Electronics,1200.0,5.0,2024-12-15,Transfer,6000.0
+ORD101591,Mrs. Alexandra Harris DVM,zhood@gmail.com,37,Ghana,Electronics,1200.0,4.0,2025-08-07,Card,4800.0
+ORD101593,Misty Gray,,68,Ghana,Groceries,499.99,1.0,2024-05-25,Transfer,499.99
+ORD101594,Cassandra Morgan,nowen@yahoo.com,68,Nigeria,Electronics,499.99,2.0,2025-10-01,Card,999.98
+ORD101596,Judith Williamson,robertcollins@walsh-roberts.com,37,United States,Fashion,2500.0,4.0,2025-05-18,Transfer,10000.0
+ORD101597,Robert Brown,williamsdylan@walker.com,53,United States,Electronics,2500.0,2.0,2024-05-07,Card,5000.0
+ORD101598,Jason Soto,michael87@hughes-howard.org,35,United States,Electronics,2500.0,5.0,2025-07-29,Transfer,12500.0
+ORD101599,Sherry Zuniga,stevensthomas@hotmail.com,44,United States,Electronics,500.0,2.0,2024-04-13,Transfer,1000.0
+ORD101600,Abigail Hardy,andrea04@gmail.com,29,United States,Fashion,500.0,1.0,2025-04-13,Card,500.0
+ORD101601,Ronnie Thompson,mhoward@martinez.org,33,Nigeria,Groceries,499.99,1.0,2025-02-05,Card,499.99
+ORD101602,Tammy Collins,deborahhall@bright.com,33,United States,Home,500.0,5.0,2025-02-24,Card,2500.0
+ORD101603,Paul Townsend,julie35@pierce.com,49,Nigeria,Groceries,500.0,1.0,2024-12-24,Card,500.0
+ORD101604,Michelle Adams,stephaniebryant@peterson.info,52,Turkey,Groceries,2500.0,2.0,2024-08-13,Card,5000.0
+ORD101605,Christopher Stewart,sgomez@hoffman.net,39,Nigeria,Fashion,1500.0,2.0,2025-06-06,Card,3000.0
+ORD101606,Marissa Ashley,,25,United States,Groceries,1200.0,4.0,2025-11-28,Transfer,4800.0
+ORD101607,Jaime Smith PhD,samanthalopez@gmail.com,31,United States,Groceries,2500.0,5.0,2024-07-22,Card,12500.0
+ORD101608,Stephen Bruce,bbond@yahoo.com,33,Nigeria,Fashion,500.0,2.0,2025-04-30,Transfer,1000.0
+ORD101609,John Vaughn,wilsonnancy@cain.net,35,Ghana,Electronics,500.0,2.0,2025-07-08,Cash,1000.0
+ORD101610,Eduardo Powell,aho@myers.org,41,United States,Electronics,1133.52,1.0,2025-05-17,Card,1133.52
+ORD101611,Ashley Warner,wattsian@garcia.com,23,United States,Groceries,499.99,1.0,2025-04-01,Card,499.99
+ORD101612,Jennifer Green,martindaniel@yahoo.com,68,Turkey,Groceries,1500.0,2.0,2024-10-15,Transfer,3000.0
+ORD101613,Leah White,beckercrystal@salas.com,44,Nigeria,Groceries,2500.0,1.0,2024-09-24,Card,2500.0
+ORD101614,Frank Munoz,brandonwatson@yahoo.com,47,Ghana,Home,1200.0,1.0,2024-10-26,Transfer,1200.0
+ORD101615,Jodi Wright,roberthernandez@nelson.com,30,Ghana,Home,1200.0,2.0,2024-12-23,Card,2400.0
+ORD101616,Felicia Pena,owilliams@carr.com,43,Nigeria,Electronics,1200.0,2.0,2025-08-05,Card,2400.0
+ORD101617,Elizabeth Hood,ctrujillo@turner.org,28,United States,Groceries,500.0,4.0,2025-08-11,Card,2000.0
+ORD101619,Terry Bailey,cynthiafritz@harrison-murray.info,36,United Kingdom,Electronics,1200.0,2.0,2025-09-08,Card,2400.0
+ORD101620,Thomas Baldwin,wlee@williams-hicks.com,47,Nigeria,Electronics,2500.0,4.0,2025-06-29,Cash,10000.0
+ORD101621,Deanna Wiggins,frogers@shaw-bradley.com,19,United Kingdom,Electronics,1133.52,5.0,2025-07-05,Card,5667.6
+ORD101622,Samantha Brown,carmen41@yahoo.com,29,Nigeria,Groceries,1500.0,2.0,2024-07-20,Cash,3000.0
+ORD101623,Jessica Joyce,crystalcarter@hotmail.com,19,Nigeria,Fashion,1500.0,5.0,2025-05-25,Card,7500.0
+ORD101624,Christopher Calderon,phillipdecker@yahoo.com,23,Nigeria,Electronics,1200.0,2.0,2024-04-16,Card,2400.0
+ORD101626,Thomas Hill,mitchell50@casey-burgess.net,51,United States,Electronics,1133.52,5.0,2024-04-09,Transfer,5667.6
+ORD101627,Robert Mathis,,36,Ghana,Electronics,1133.52,2.0,2025-08-08,Cash,2267.04
+ORD101628,Rick Dunn,patriciaroberts@hotmail.com,34,United States,Fashion,500.0,2.0,2024-09-28,Card,1000.0
+ORD101630,Vicki Rogers,jameslee@hotmail.com,63,United States,Home,1133.52,1.0,2024-06-20,Transfer,1133.52
+ORD101631,Vicki Mata,emily58@williams.com,32,United States,Electronics,1500.0,1.0,2024-09-27,Card,1500.0
+ORD101633,Angelica Ortega,mary60@hotmail.com,18,United Kingdom,Fashion,499.99,5.0,2025-02-13,Card,2499.95
+ORD101634,Gerald Weaver,jonathanbowman@yahoo.com,34,Nigeria,Fashion,1200.0,5.0,2025-02-04,Transfer,6000.0
+ORD101635,Sara Carroll,lewisjennifer@spencer.org,21,Nigeria,Groceries,499.99,1.0,2024-05-06,Card,499.99
+ORD101636,Jessica Branch,daniel68@hotmail.com,69,United Kingdom,Electronics,500.0,5.0,2024-04-19,Card,2500.0
+ORD101637,Misty Carter,kochkari@dickerson.com,46,Nigeria,Electronics,500.0,1.0,2026-02-06,Card,500.0
+ORD101638,Michelle Garcia,jessica82@hotmail.com,23,United Kingdom,Electronics,500.0,2.0,2026-01-22,Card,1000.0
+ORD101639,Tiffany Mckinney,sandra14@hotmail.com,61,United States,Groceries,500.0,2.0,2024-07-12,Card,1000.0
+ORD101642,Cheryl Edwards,christinehart@wilson-brown.biz,33,United Kingdom,Fashion,500.0,3.0,2024-12-07,Transfer,1500.0
+ORD101643,Carol Davis,rachelbaker@hotmail.com,58,Ghana,Electronics,1500.0,1.0,2025-06-20,Card,1500.0
+ORD101644,Nancy Blair,wooddanielle@pham.info,51,Nigeria,Groceries,500.0,2.0,2025-08-17,Cash,1000.0
+ORD101645,Ashley Jenkins,anthony66@dawson.com,38,United States,Electronics,500.0,4.0,2025-01-09,Card,2000.0
+ORD101646,Mary Hunt,jamestheodore@myers.net,42,United Kingdom,Electronics,1500.0,1.0,2026-02-17,Cash,1500.0
+ORD101647,Katherine Hall,pricerobert@gmail.com,57,Nigeria,Electronics,1500.0,1.0,2024-06-20,Card,1500.0
+ORD101648,Brandon Kent,haroldburton@logan-dunn.com,30,United Kingdom,Electronics,500.0,4.0,2025-01-14,Card,2000.0
+ORD101649,Carol Malone,anthony14@gmail.com,69,United States,Groceries,500.0,2.0,2024-02-25,Cash,1000.0
+ORD101650,Dennis Marsh,sandra21@gmail.com,19,Nigeria,Groceries,1500.0,3.0,2025-09-07,Transfer,4500.0
+ORD101651,Cheryl Murray,fsteele@kelly.info,39,United States,Electronics,1133.52,3.0,2024-07-31,Transfer,3400.56
+ORD101653,Katherine Wilson,byoung@lloyd.com,51,United States,Home,500.0,3.0,2024-02-20,Card,1500.0
+ORD101654,Kerry Leonard,amy47@hotmail.com,54,Turkey,Electronics,1200.0,1.0,2024-04-15,Cash,1200.0
+ORD101656,Tiffany Hernandez,theresa58@hotmail.com,30,Nigeria,Groceries,500.0,4.0,2025-04-02,Card,2000.0
+ORD101658,Nancy Davis,stuartjackson@yahoo.com,44,Turkey,Electronics,500.0,1.0,2025-12-24,Card,500.0
+ORD101659,Erik Martinez,john48@roberts.com,49,Nigeria,Electronics,1500.0,3.0,2024-04-24,Cash,4500.0
+ORD101660,Amy Howard,justin26@hotmail.com,32,Ghana,Electronics,500.0,3.0,2025-09-20,Transfer,1500.0
+ORD101661,Kristin Green,steven82@yahoo.com,48,Nigeria,Electronics,1133.52,1.0,2024-09-06,Cash,1133.52
+ORD101662,Martin Henderson,kayla02@yahoo.com,67,Nigeria,Groceries,1200.0,2.0,2024-12-25,Transfer,2400.0
+ORD101663,Karl Perez,laura37@mcdonald.com,43,Nigeria,Home,500.0,3.0,2024-07-23,Transfer,1500.0
+ORD101665,Anna Mccullough,qavila@hotmail.com,67,United States,Electronics,1200.0,1.0,2025-01-25,Card,1200.0
+ORD101666,Michael Burns,aduncan@gmail.com,58,United States,Groceries,2500.0,4.0,2025-10-12,Cash,10000.0
+ORD101667,Regina Bailey,ifields@phillips-rivera.org,28,United States,Fashion,500.0,5.0,2024-11-07,Card,2500.0
+ORD101669,Tina Carter,meyertyler@yahoo.com,20,Turkey,Fashion,1200.0,5.0,2025-12-19,Cash,6000.0
+ORD101670,Michael Kelly,santosmatthew@hotmail.com,30,Ghana,Fashion,500.0,1.0,2025-04-06,Card,500.0
+ORD101671,Justin Flores,katie36@gmail.com,50,United States,Electronics,499.99,1.0,2026-02-13,Transfer,499.99
+ORD101672,Mary Jackson,cmalone@brock.com,27,Turkey,Groceries,500.0,1.0,2024-06-13,Transfer,500.0
+ORD101673,Allen Bowers,gregorypowell@gmail.com,27,Ghana,Groceries,1133.52,1.0,2024-07-28,Card,1133.52
+ORD101675,Mrs. Debbie Jones,manderson@yahoo.com,44,Ghana,Electronics,499.99,4.0,2024-10-12,Card,1999.96
+ORD101676,Gabriel Shaffer,smithleslie@hotmail.com,40,United States,Electronics,1133.52,2.0,2025-09-28,Card,2267.04
+ORD101677,William Thomas,justingray@white-harvey.com,45,Nigeria,Home,499.99,1.0,2025-01-25,Cash,499.99
+ORD101678,Stephanie Walker,charles56@gmail.com,61,Turkey,Groceries,499.99,2.0,2024-02-22,Transfer,999.98
+ORD101679,Allison Johnson,jose14@gmail.com,66,United States,Home,500.0,4.0,2025-02-03,Card,2000.0
+ORD101680,James Espinoza,mcleanluke@miller.info,65,United Kingdom,Electronics,1133.52,2.0,2025-06-19,Cash,2267.04
+ORD101681,Debra Neal,,46,Nigeria,Fashion,1200.0,3.0,2025-09-06,Cash,3600.0
+ORD101683,Curtis Cuevas,pittmantara@perry-wade.net,60,United States,Electronics,1500.0,2.0,2025-10-03,Transfer,3000.0
+ORD101684,Caroline Williams,joseph44@hotmail.com,55,Turkey,Electronics,1500.0,2.0,2025-10-29,Card,3000.0
+ORD101685,Katie Cook,obriensheila@yahoo.com,44,Nigeria,Electronics,2500.0,1.0,2024-07-10,Transfer,2500.0
+ORD101686,Mr. David Mueller,,42,Ghana,Electronics,500.0,3.0,2024-03-02,Transfer,1500.0
+ORD101688,Steven Rosario,sara10@chen-davis.com,46,Nigeria,Groceries,500.0,3.0,2025-10-26,Cash,1500.0
+ORD101689,Brittany Vaughn,zmoore@cobb.com,39,Ghana,Fashion,1500.0,1.0,2024-10-07,Cash,1500.0
+ORD101690,Tracy Lamb,mford@williams-mckenzie.info,19,Nigeria,Groceries,499.99,1.0,2025-02-15,Card,499.99
+ORD101691,Michelle Chaney,owensalexander@rodriguez.com,30,Ghana,Electronics,1500.0,2.0,2025-12-10,Card,3000.0
+ORD101692,Mitchell Horn,zfrederick@chambers.net,56,United Kingdom,Electronics,500.0,1.0,2025-06-15,Transfer,500.0
+ORD101693,Lisa Potter,lanemarcus@hotmail.com,43,Nigeria,Groceries,1133.52,1.0,2025-08-06,Cash,1133.52
+ORD101694,Levi Pearson,pdean@french-gomez.com,27,United States,Electronics,1200.0,2.0,2025-08-18,Card,2400.0
+ORD101695,Christian Perez,molinapaul@hotmail.com,44,United States,Groceries,1133.52,1.0,2024-03-12,Card,1133.52
+ORD101696,Brooke Fernandez,mariasimmons@kane-skinner.com,22,Turkey,Electronics,499.99,1.0,2025-11-19,Card,499.99
+ORD101697,Elizabeth Potter,jreynolds@anderson-drake.net,18,United States,Electronics,1133.52,3.0,2025-10-03,Card,3400.56
+ORD101698,Donald Smith,stephanie01@hotmail.com,32,Nigeria,Home,1133.52,1.0,2025-04-04,Card,1133.52
+ORD101699,Mitchell Webster,dchang@grant.biz,42,Nigeria,Electronics,500.0,5.0,2025-11-12,Card,2500.0
+ORD101700,Alexandra Briggs,michelle54@larson-martinez.net,28,Turkey,Groceries,2500.0,5.0,2025-03-03,Transfer,12500.0
+ORD101701,Benjamin Williams,vbarker@yahoo.com,62,United States,Home,499.99,1.0,2025-08-13,Cash,499.99
+ORD101702,Brittany Calderon,dunnjohn@hotmail.com,25,Nigeria,Electronics,1133.52,3.0,2026-02-03,Transfer,3400.56
+ORD101703,Carolyn Reed,sandersmelinda@hotmail.com,56,Nigeria,Groceries,1133.52,5.0,2024-10-20,Card,5667.6
+ORD101704,Mark Wilson,millersteven@mcdaniel.org,54,Nigeria,Electronics,499.99,4.0,2024-09-07,Card,1999.96
+ORD101706,Annette Wilson,jillanderson@hotmail.com,39,Nigeria,Groceries,1133.52,5.0,2024-11-21,Cash,5667.6
+ORD101707,Elizabeth Parker,woodwardjames@miller.com,18,United States,Electronics,1500.0,1.0,2025-12-19,Card,1500.0
+ORD101708,Amber Dunn,jaymartinez@hotmail.com,69,United States,Electronics,500.0,4.0,2024-08-20,Transfer,2000.0
+ORD101709,Michael Bailey,darrylmassey@saunders.com,68,Nigeria,Electronics,500.0,2.0,2025-05-09,Cash,1000.0
+ORD101710,George Fisher,jeffreywall@yahoo.com,39,Turkey,Fashion,1200.0,3.0,2025-11-23,Card,3600.0
+ORD101711,Jennifer Hernandez,williamsjulia@hotmail.com,46,Nigeria,Home,2500.0,4.0,2024-09-10,Cash,10000.0
+ORD101713,Kendra Simpson,hillpeter@mullins-gibbs.com,25,Ghana,Electronics,1200.0,3.0,2024-12-10,Transfer,3600.0
+ORD101714,Cody Stevenson,haynesashley@yahoo.com,56,Nigeria,Fashion,1200.0,3.0,2025-07-03,Cash,3600.0
+ORD101715,Holly Ford,richardfisher@howard-beck.net,37,Nigeria,Electronics,2500.0,2.0,2024-07-19,Cash,5000.0
+ORD101717,Sarah Lopez,whitney29@yahoo.com,61,Nigeria,Electronics,2500.0,1.0,2025-04-24,Card,2500.0
+ORD101718,Mary Hernandez,,64,United Kingdom,Electronics,2500.0,4.0,2024-07-22,Card,10000.0
+ORD101719,Angela Walton,raymond25@moore.com,22,Ghana,Electronics,500.0,1.0,2025-04-25,Cash,500.0
+ORD101720,Glenda Walker,creyes@howard.info,44,Nigeria,Fashion,500.0,3.0,2025-06-20,Card,1500.0
+ORD101721,Dave Meyer,conradkimberly@hotmail.com,56,Ghana,Fashion,500.0,2.0,2024-12-17,Cash,1000.0
+ORD101722,Tyler Cannon,denisejones@yahoo.com,64,Ghana,Fashion,500.0,3.0,2024-04-10,Card,1500.0
+ORD101723,Bradley Hall,nicholas60@shah-tucker.biz,39,Ghana,Groceries,1200.0,5.0,2024-11-27,Transfer,6000.0
+ORD101724,Dr. Erin Stewart,prattmadeline@yahoo.com,68,Turkey,Electronics,499.99,1.0,2024-06-27,Card,499.99
+ORD101725,Jesse Williams,,29,Nigeria,Electronics,1500.0,1.0,2024-03-11,Cash,1500.0
+ORD101726,Michael Munoz,xpearson@simmons-randall.com,50,United States,Electronics,499.99,1.0,2025-03-17,Card,499.99
+ORD101727,Kylie Price,fwilson@foster.biz,32,Nigeria,Electronics,2500.0,2.0,2025-06-08,Cash,5000.0
+ORD101728,Mary Mcneil,jackmays@castaneda.com,67,United States,Fashion,2500.0,1.0,2024-12-13,Cash,2500.0
+ORD101729,Daniel Knox,caitlinpage@oconnor.net,19,Turkey,Electronics,1500.0,2.0,2024-04-30,Transfer,3000.0
+ORD101730,Paul Carr,charles65@weeks.com,61,Ghana,Groceries,1500.0,5.0,2025-10-29,Card,7500.0
+ORD101731,George Ruiz,william01@hotmail.com,52,Nigeria,Electronics,500.0,2.0,2024-08-08,Card,1000.0
+ORD101732,Raymond Huang,aschaefer@patterson.biz,55,United States,Home,2500.0,2.0,2024-10-02,Card,5000.0
+ORD101734,Erik Ray,mreynolds@gmail.com,43,Turkey,Fashion,1133.52,1.0,2024-04-14,Cash,1133.52
+ORD101736,Michael Smith,kathryncallahan@hotmail.com,53,United Kingdom,Fashion,2500.0,2.0,2024-11-12,Cash,5000.0
+ORD101738,James Barber,svillegas@gmail.com,55,Ghana,Electronics,1133.52,2.0,2025-06-15,Transfer,2267.04
+ORD101739,Kimberly Jackson,ydavis@smith-weaver.com,22,Nigeria,Fashion,500.0,2.0,2025-04-27,Card,1000.0
+ORD101740,Ashley Ross,xwhite@gmail.com,34,Nigeria,Electronics,2500.0,4.0,2024-05-01,Transfer,10000.0
+ORD101741,Brenda Flores,ambermartinez@gmail.com,44,United States,Groceries,500.0,1.0,2024-02-25,Card,500.0
+ORD101742,Margaret Garza,ali@hotmail.com,57,Turkey,Electronics,500.0,5.0,2025-07-19,Card,2500.0
+ORD101743,Douglas Mcknight,christopherbaird@black-krause.com,40,Nigeria,Home,500.0,4.0,2024-02-19,Card,2000.0
+ORD101744,Casey Olson,kimberlykline@hotmail.com,55,United Kingdom,Fashion,1133.52,5.0,2024-08-30,Card,5667.6
+ORD101745,Donna Walker,robertwallace@torres-mcgee.org,65,United States,Groceries,499.99,1.0,2024-11-18,Card,499.99
+ORD101746,Antonio Hughes,cochranvicki@gmail.com,43,United Kingdom,Fashion,499.99,3.0,2024-08-17,Card,1499.97
+ORD101747,Wesley Prince,tammywallace@yahoo.com,58,United States,Electronics,500.0,2.0,2025-11-05,Cash,1000.0
+ORD101748,Joseph Brown,dlamb@yahoo.com,67,Turkey,Electronics,1500.0,1.0,2025-05-06,Card,1500.0
+ORD101749,Michael Webb,ashleyramirez@fisher.com,34,United Kingdom,Fashion,2500.0,1.0,2025-10-14,Transfer,2500.0
+ORD101750,David Chen,,53,Nigeria,Electronics,1500.0,2.0,2025-05-07,Card,3000.0
+ORD101753,Kelly Lewis,collinshannah@fuller.com,69,Turkey,Electronics,500.0,1.0,2024-09-19,Card,500.0
+ORD101756,Anthony Hebert,karen32@hotmail.com,37,Ghana,Electronics,1500.0,1.0,2025-04-26,Card,1500.0
+ORD101757,Samuel Bauer,pschultz@yahoo.com,55,Nigeria,Electronics,1200.0,1.0,2025-02-21,Card,1200.0
+ORD101758,Jack Stewart,paulmiller@yahoo.com,44,Nigeria,Fashion,1500.0,2.0,2025-07-12,Transfer,3000.0
+ORD101759,Lisa Jones,pattersondevon@smith.org,46,United States,Fashion,1500.0,5.0,2026-01-24,Card,7500.0
+ORD101760,Phyllis Paul,rodriguezjennifer@garner-bray.org,65,Nigeria,Home,500.0,1.0,2024-07-12,Card,500.0
+ORD101762,Jill Rangel,qsellers@hotmail.com,21,United States,Electronics,499.99,1.0,2024-11-26,Cash,499.99
+ORD101763,Donald Blackwell,alexandra99@moore.org,31,United States,Electronics,1200.0,1.0,2025-12-12,Card,1200.0
+ORD101764,Jennifer Roberts,gjackson@gilbert-brown.com,23,Ghana,Groceries,499.99,1.0,2025-02-22,Transfer,499.99
+ORD101765,Cody Jackson,toddjulie@hotmail.com,61,Nigeria,Groceries,500.0,2.0,2024-02-26,Card,1000.0
+ORD101766,Linda Pineda,garciawalter@hotmail.com,44,United Kingdom,Electronics,499.99,5.0,2024-11-04,Cash,2499.95
+ORD101767,Dan Padilla,davisbrian@yahoo.com,52,Nigeria,Home,500.0,1.0,2024-12-14,Cash,500.0
+ORD101768,Danielle Myers,thorntonnatalie@gmail.com,64,Nigeria,Electronics,500.0,3.0,2025-12-24,Card,1500.0
+ORD101770,William Logan,jacquelinemathis@hotmail.com,34,Ghana,Groceries,1500.0,1.0,2024-12-04,Cash,1500.0
+ORD101771,Hannah White,olsonronald@yahoo.com,69,Nigeria,Electronics,2500.0,2.0,2026-01-21,Card,5000.0
+ORD101773,Mr. Matthew Fernandez,paul98@hotmail.com,45,United States,Electronics,1133.52,5.0,2025-08-29,Transfer,5667.6
+ORD101774,Donald Hernandez,bobbybyrd@hotmail.com,49,United Kingdom,Groceries,499.99,5.0,2024-08-04,Card,2499.95
+ORD101777,Jason Logan,,45,Nigeria,Home,499.99,2.0,2025-09-02,Transfer,999.98
+ORD101778,Courtney Hancock,collinsanthony@dixon.info,59,United States,Electronics,500.0,1.0,2025-03-30,Card,500.0
+ORD101779,Nicole Wilson,markbrown@hotmail.com,35,Ghana,Electronics,1500.0,3.0,2024-04-13,Cash,4500.0
+ORD101780,Kristina Smith,david28@gmail.com,45,United States,Fashion,499.99,2.0,2024-07-28,Card,999.98
+ORD101781,Kathryn Erickson,rachelgomez@johnson-perez.biz,19,United States,Groceries,1200.0,5.0,2025-04-21,Transfer,6000.0
+ORD101782,Leslie Coleman,ljones@yahoo.com,25,United States,Groceries,1500.0,3.0,2024-06-19,Card,4500.0
+ORD101784,Grant Baker,hgonzalez@gmail.com,20,United States,Electronics,500.0,4.0,2024-12-06,Cash,2000.0
+ORD101785,Joseph Jones,hamiltontiffany@hotmail.com,64,United States,Home,500.0,3.0,2025-01-02,Transfer,1500.0
+ORD101786,Michael Yu,john34@yahoo.com,38,Nigeria,Groceries,499.99,3.0,2024-11-20,Transfer,1499.97
+ORD101787,Joseph Hebert,lisahart@ross-johnson.info,48,United States,Electronics,1200.0,1.0,2025-03-19,Card,1200.0
+ORD101788,Tammy Gilbert,williamscheryl@yahoo.com,39,Nigeria,Electronics,500.0,2.0,2024-03-03,Card,1000.0
+ORD101789,Anne Ruiz,edwardhaynes@miller.com,44,Nigeria,Fashion,500.0,4.0,2024-12-15,Cash,2000.0
+ORD101790,Scott Howard,downsheather@bass.com,69,United Kingdom,Electronics,2500.0,2.0,2025-03-23,Transfer,5000.0
+ORD101791,Summer Fox,cohenmark@chapman.com,33,Nigeria,Fashion,1500.0,5.0,2024-07-14,Card,7500.0
+ORD101792,Mark Becker II,fernandezbrandy@nguyen-mclaughlin.info,44,Nigeria,Groceries,1133.52,3.0,2024-05-30,Cash,3400.56
+ORD101794,Christopher Conley,joshua27@lopez-pena.com,54,Nigeria,Fashion,1200.0,5.0,2024-08-08,Card,6000.0
+ORD101795,Deborah Stevens,anthonyharding@gmail.com,21,Nigeria,Electronics,1200.0,4.0,2025-04-18,Card,4800.0
+ORD101796,Laura Black,chelseaelliott@gmail.com,19,Ghana,Electronics,2500.0,5.0,2025-01-22,Card,12500.0
+ORD101798,Lisa Middleton,crystal36@white-sims.info,55,United Kingdom,Electronics,1133.52,2.0,2024-02-25,Card,2267.04
+ORD101799,Krystal Henderson,olivia91@yahoo.com,64,Ghana,Electronics,500.0,2.0,2024-05-19,Card,1000.0
